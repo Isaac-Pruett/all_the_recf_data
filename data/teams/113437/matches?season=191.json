@@ -1,0 +1,5217 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/113437/matches?page=1",
+        "from": 1,
+        "last_page": 2,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/113437/matches?page=2",
+        "next_page_url": "https://www.robotevents.com/api/v2/teams/113437/matches?page=2",
+        "path": "https://www.robotevents.com/api/v2/teams/113437/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 50,
+        "total": 64
+    },
+    "data": [
+        {
+            "id": 97422890,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-01-18T10:22:30-05:00",
+            "started": "2025-01-18T10:41:17-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 104939202,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-15T10:12:00-05:00",
+            "started": "2025-02-15T10:20:14-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131736,
+                                "name": "POLY3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 100036811,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-01-25T12:01:00-05:00",
+            "started": "2025-01-25T12:06:11-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104649,
+                                "name": "AUBIE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 97422895,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-01-18T10:41:15-05:00",
+            "started": "2025-01-18T11:16:26-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178019,
+                                "name": "IBA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 63,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 100036814,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-01-25T12:13:00-05:00",
+            "started": "2025-01-25T12:18:11-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76395,
+                                "name": "OWL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 104939208,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-15T10:36:00-05:00",
+            "started": "2025-02-15T10:48:56-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 110147464,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-03-08T10:08:30-05:00",
+            "started": "2025-03-08T10:24:24-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170470,
+                                "name": "DKFNX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 104939210,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-02-15T10:44:00-05:00",
+            "started": "2025-02-15T10:58:23-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178019,
+                                "name": "IBA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 59,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 100036820,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2025-01-25T12:37:00-05:00",
+            "started": "2025-01-25T12:41:54-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 49,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162873,
+                                "name": "ATUM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 97422902,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-01-18T11:07:30-05:00",
+            "started": "2025-01-18T11:58:05-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163157,
+                                "name": "PRVX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 56,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 114019649,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 104939218,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2025-02-15T11:16:00-05:00",
+            "started": "2025-02-15T11:36:36-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144932,
+                                "name": "BULL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 110147473,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-03-08T10:37:30-05:00",
+            "started": "2025-03-08T10:58:18-05:00",
+            "field": "Bayless",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147253,
+                                "name": "KUDOS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 97422909,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2025-01-18T11:33:45-05:00",
+            "started": "2025-01-18T13:45:03-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177729,
+                                "name": "UCF7",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 100036828,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2025-01-25T14:08:00-05:00",
+            "started": "2025-01-25T14:09:07-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144932,
+                                "name": "BULL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 104939221,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-15T11:28:00-05:00",
+            "started": "2025-02-15T11:52:45-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 115552,
+                                "name": "GATR2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 104939225,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-02-15T11:44:00-05:00",
+            "started": "2025-02-15T13:16:13-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422915,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2025-01-18T11:56:15-05:00",
+            "started": "2025-01-18T14:14:53-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 1,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183961,
+                                "name": "JAW4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 68,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 114019663,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77038,
+                                "name": "BV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 100036837,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-01-25T14:44:00-05:00",
+            "started": "2025-01-25T14:50:10-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144133,
+                                "name": "ARC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 104939229,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-02-15T13:00:00-05:00",
+            "started": "2025-02-15T13:34:48-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160158,
+                                "name": "GT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422920,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-01-18T13:15:00-05:00",
+            "started": "2025-01-18T14:36:04-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 115552,
+                                "name": "GATR2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 100036841,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2025-01-25T15:00:00-05:00",
+            "started": "2025-01-25T15:07:42-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 48,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 104939234,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2025-02-15T13:20:00-05:00",
+            "started": "2025-02-15T13:54:24-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177729,
+                                "name": "UCF7",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422924,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2025-01-18T13:30:00-05:00",
+            "started": "2025-01-18T14:51:29-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131736,
+                                "name": "POLY3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 110147492,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2025-03-08T11:39:15-05:00",
+            "started": "2025-03-08T12:07:25-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 49,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161622,
+                                "name": "MSOE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 97422931,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2025-01-18T13:56:15-05:00",
+            "started": "2025-01-18T15:26:39-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 110147501,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": "2025-03-08T12:05:00-05:00",
+            "started": "2025-03-08T12:44:43-05:00",
+            "field": "Bayless",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147507,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 55,
+            "scheduled": "2025-03-08T12:23:00-05:00",
+            "started": "2025-03-08T13:01:48-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "Qualifier #55",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019704,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 71,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #71",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180422,
+                                "name": "ITMOR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 110147528,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 76,
+            "scheduled": "2025-03-08T14:24:00-05:00",
+            "started": "2025-03-08T14:39:20-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #76",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147546,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 94,
+            "scheduled": "2025-03-08T15:18:00-05:00",
+            "started": "2025-03-08T15:35:47-05:00",
+            "field": "Habibi",
+            "scored": false,
+            "name": "Qualifier #94",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161225,
+                                "name": "PLATT2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147555,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 103,
+            "scheduled": "2025-03-08T15:45:00-05:00",
+            "started": "2025-03-08T16:10:06-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "Qualifier #103",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161224,
+                                "name": "PLATT1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019741,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 108,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #108",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180340,
+                                "name": "UPSP1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019769,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 136,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #136",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 158187,
+                                "name": "AYO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019786,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 153,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #153",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 110590,
+                                "name": "WLFPK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019815,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 182,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #182",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 56,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174403,
+                                "name": "UQU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019846,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 213,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #213",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 72552,
+                                "name": "UACH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 52,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019875,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 242,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #242",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182605,
+                                "name": "CTBB",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 104939239,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T14:37:08-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 100036850,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-25T16:13:29-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 97422932,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-18T15:42:39-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 114019890,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161622,
+                                "name": "MSOE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 110147572,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-08T17:41:12-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179009,
+                                "name": "SKERS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 53,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 104939243,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T15:02:18-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 115552,
+                                "name": "GATR2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 100036855,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-25T16:41:25-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162873,
+                                "name": "ATUM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 97422936,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-18T16:01:54-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163157,
+                                "name": "PRVX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 114019894,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183573,
+                                "name": "CSTU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 110147574,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-08T17:55:54-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 20548,
+                                "name": "BLRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019896,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153981,
+                                "name": "TNTN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 97422890,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-01-18T10:22:30-05:00",
+            "started": "2025-01-18T10:41:17-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 104939202,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-15T10:12:00-05:00",
+            "started": "2025-02-15T10:20:14-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131736,
+                                "name": "POLY3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 100036811,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-01-25T12:01:00-05:00",
+            "started": "2025-01-25T12:06:11-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104649,
+                                "name": "AUBIE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 97422895,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-01-18T10:41:15-05:00",
+            "started": "2025-01-18T11:16:26-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178019,
+                                "name": "IBA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 63,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 100036814,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-01-25T12:13:00-05:00",
+            "started": "2025-01-25T12:18:11-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76395,
+                                "name": "OWL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 104939208,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-15T10:36:00-05:00",
+            "started": "2025-02-15T10:48:56-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 110147464,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-03-08T10:08:30-05:00",
+            "started": "2025-03-08T10:24:24-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170470,
+                                "name": "DKFNX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 104939210,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-02-15T10:44:00-05:00",
+            "started": "2025-02-15T10:58:23-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178019,
+                                "name": "IBA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 59,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 100036820,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2025-01-25T12:37:00-05:00",
+            "started": "2025-01-25T12:41:54-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 49,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162873,
+                                "name": "ATUM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 97422902,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-01-18T11:07:30-05:00",
+            "started": "2025-01-18T11:58:05-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163157,
+                                "name": "PRVX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 56,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 114019649,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 104939218,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2025-02-15T11:16:00-05:00",
+            "started": "2025-02-15T11:36:36-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144932,
+                                "name": "BULL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 110147473,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-03-08T10:37:30-05:00",
+            "started": "2025-03-08T10:58:18-05:00",
+            "field": "Bayless",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147253,
+                                "name": "KUDOS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 97422909,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2025-01-18T11:33:45-05:00",
+            "started": "2025-01-18T13:45:03-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177729,
+                                "name": "UCF7",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 100036828,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2025-01-25T14:08:00-05:00",
+            "started": "2025-01-25T14:09:07-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144932,
+                                "name": "BULL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 104939221,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-15T11:28:00-05:00",
+            "started": "2025-02-15T11:52:45-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 115552,
+                                "name": "GATR2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 104939225,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-02-15T11:44:00-05:00",
+            "started": "2025-02-15T13:16:13-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422915,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2025-01-18T11:56:15-05:00",
+            "started": "2025-01-18T14:14:53-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 1,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183961,
+                                "name": "JAW4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 68,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 114019663,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77038,
+                                "name": "BV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 100036837,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-01-25T14:44:00-05:00",
+            "started": "2025-01-25T14:50:10-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144133,
+                                "name": "ARC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 104939229,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-02-15T13:00:00-05:00",
+            "started": "2025-02-15T13:34:48-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160158,
+                                "name": "GT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422920,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-01-18T13:15:00-05:00",
+            "started": "2025-01-18T14:36:04-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 115552,
+                                "name": "GATR2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 100036841,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2025-01-25T15:00:00-05:00",
+            "started": "2025-01-25T15:07:42-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 48,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 104939234,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2025-02-15T13:20:00-05:00",
+            "started": "2025-02-15T13:54:24-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177729,
+                                "name": "UCF7",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422924,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2025-01-18T13:30:00-05:00",
+            "started": "2025-01-18T14:51:29-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131736,
+                                "name": "POLY3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 110147492,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2025-03-08T11:39:15-05:00",
+            "started": "2025-03-08T12:07:25-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 49,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161622,
+                                "name": "MSOE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 97422931,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2025-01-18T13:56:15-05:00",
+            "started": "2025-01-18T15:26:39-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 110147501,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": "2025-03-08T12:05:00-05:00",
+            "started": "2025-03-08T12:44:43-05:00",
+            "field": "Bayless",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147507,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 55,
+            "scheduled": "2025-03-08T12:23:00-05:00",
+            "started": "2025-03-08T13:01:48-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "Qualifier #55",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019704,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 71,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #71",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180422,
+                                "name": "ITMOR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 110147528,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 76,
+            "scheduled": "2025-03-08T14:24:00-05:00",
+            "started": "2025-03-08T14:39:20-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #76",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147546,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 94,
+            "scheduled": "2025-03-08T15:18:00-05:00",
+            "started": "2025-03-08T15:35:47-05:00",
+            "field": "Habibi",
+            "scored": false,
+            "name": "Qualifier #94",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161225,
+                                "name": "PLATT2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147555,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 103,
+            "scheduled": "2025-03-08T15:45:00-05:00",
+            "started": "2025-03-08T16:10:06-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "Qualifier #103",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161224,
+                                "name": "PLATT1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019741,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 108,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #108",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180340,
+                                "name": "UPSP1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019769,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 136,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #136",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 158187,
+                                "name": "AYO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019786,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 153,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #153",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 110590,
+                                "name": "WLFPK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019815,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 182,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #182",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 56,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174403,
+                                "name": "UQU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019846,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 213,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #213",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 72552,
+                                "name": "UACH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 52,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019875,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 242,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #242",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182605,
+                                "name": "CTBB",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 104939239,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T14:37:08-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 100036850,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-25T16:13:29-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 97422932,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-18T15:42:39-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 114019890,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161622,
+                                "name": "MSOE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 110147572,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-08T17:41:12-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179009,
+                                "name": "SKERS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 53,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 104939243,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T15:02:18-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 115552,
+                                "name": "GATR2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 100036855,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-25T16:41:25-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162873,
+                                "name": "ATUM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 97422936,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-18T16:01:54-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163157,
+                                "name": "PRVX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 114019894,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183573,
+                                "name": "CSTU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 110147574,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-08T17:55:54-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 20548,
+                                "name": "BLRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019896,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153981,
+                                "name": "TNTN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        }
+    ]
+}

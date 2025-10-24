@@ -1,0 +1,485 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/179537/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/179537/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/179537/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 9,
+        "total": 9
+    },
+    "data": [
+        {
+            "id": 105062095,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-15T11:04:30-05:00",
+            "started": "2025-02-15T11:09:20-05:00",
+            "field": "Prismier",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137639,
+                                "name": "EZPZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179537,
+                                "name": "TIGRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062104,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2025-02-15T11:45:00-05:00",
+            "started": "2025-02-15T11:46:23-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179537,
+                                "name": "TIGRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104067,
+                                "name": "ILLIN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062108,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-02-15T12:03:00-05:00",
+            "started": "2025-02-15T12:02:26-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 111432,
+                                "name": "VALPO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179537,
+                                "name": "TIGRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062115,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2025-02-15T12:34:30-05:00",
+            "started": "2025-02-15T12:26:42-05:00",
+            "field": "Prismier",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179537,
+                                "name": "TIGRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 51,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062119,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-02-15T12:52:30-05:00",
+            "started": "2025-02-15T12:40:31-05:00",
+            "field": "Prismier",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 2,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179537,
+                                "name": "TIGRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174550,
+                                "name": "ARC3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062124,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-02-15T14:13:30-05:00",
+            "started": "2025-02-15T14:13:10-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144133,
+                                "name": "ARC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179537,
+                                "name": "TIGRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062131,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2025-02-15T14:45:00-05:00",
+            "started": "2025-02-15T14:41:02-05:00",
+            "field": "Prismier",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 140754,
+                                "name": "ECTC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179537,
+                                "name": "TIGRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062136,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 43,
+            "scheduled": "2025-02-15T15:07:30-05:00",
+            "started": "2025-02-15T14:58:56-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #43",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179537,
+                                "name": "TIGRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062143,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T15:50:56-05:00",
+            "field": "Prismier",
+            "scored": false,
+            "name": "R16 #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179537,
+                                "name": "TIGRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144133,
+                                "name": "ARC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        }
+    ]
+}

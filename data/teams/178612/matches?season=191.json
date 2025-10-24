@@ -1,0 +1,1057 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/178612/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/178612/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/178612/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 20,
+        "total": 20
+    },
+    "data": [
+        {
+            "id": 107506105,
+            "event": {
+                "id": 59418,
+                "name": "Campeonato final de la liga del Estado de Hidalgo",
+                "code": "RE-VURC-24-9418"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2025-02-25T11:00:00-05:00",
+            "started": "2025-02-25T14:40:46-05:00",
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178611,
+                                "name": "UTEC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T16:32:43-05:00"
+        },
+        {
+            "id": 108926426,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-27T09:07:30-05:00",
+            "started": "2025-02-27T10:28:18-05:00",
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178587,
+                                "name": "UPH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 107506116,
+            "event": {
+                "id": 59418,
+                "name": "Campeonato final de la liga del Estado de Hidalgo",
+                "code": "RE-VURC-24-9418"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-02-25T11:28:30-05:00",
+            "started": "2025-02-25T15:32:45-05:00",
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178580,
+                                "name": "ITSOE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T16:32:43-05:00"
+        },
+        {
+            "id": 107506123,
+            "event": {
+                "id": 59418,
+                "name": "Campeonato final de la liga del Estado de Hidalgo",
+                "code": "RE-VURC-24-9418"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2025-02-25T12:00:00-05:00",
+            "started": "2025-02-25T15:54:35-05:00",
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178602,
+                                "name": "UTTT1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T16:32:43-05:00"
+        },
+        {
+            "id": 107506133,
+            "event": {
+                "id": 59418,
+                "name": "Campeonato final de la liga del Estado de Hidalgo",
+                "code": "RE-VURC-24-9418"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2025-02-25T12:28:30-05:00",
+            "started": "2025-02-25T16:23:09-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178605,
+                                "name": "UTSH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T16:32:43-05:00"
+        },
+        {
+            "id": 107506142,
+            "event": {
+                "id": 59418,
+                "name": "Campeonato final de la liga del Estado de Hidalgo",
+                "code": "RE-VURC-24-9418"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2025-02-25T13:00:00-05:00",
+            "started": "2025-02-25T16:46:08-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178569,
+                                "name": "UPT1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T16:32:43-05:00"
+        },
+        {
+            "id": 108926461,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2025-02-27T10:37:30-05:00",
+            "started": "2025-02-27T12:10:12-05:00",
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 126341,
+                                "name": "ITSMQ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 107506157,
+            "event": {
+                "id": 59418,
+                "name": "Campeonato final de la liga del Estado de Hidalgo",
+                "code": "RE-VURC-24-9418"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 53,
+            "scheduled": "2025-02-25T13:47:30-05:00",
+            "started": "2025-02-25T17:18:59-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #53",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178601,
+                                "name": "UTVMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T16:32:43-05:00"
+        },
+        {
+            "id": 107506162,
+            "event": {
+                "id": 59418,
+                "name": "Campeonato final de la liga del Estado de Hidalgo",
+                "code": "RE-VURC-24-9418"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 58,
+            "scheduled": "2025-02-25T15:09:30-05:00",
+            "started": "2025-02-25T17:37:39-05:00",
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #58",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178610,
+                                "name": "UPFIM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T16:32:43-05:00"
+        },
+        {
+            "id": 108926480,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 58,
+            "scheduled": "2025-02-27T11:37:30-05:00",
+            "started": "2025-02-27T12:58:43-05:00",
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #58",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 184147,
+                                "name": "UTMOR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 107506174,
+            "event": {
+                "id": 59418,
+                "name": "Campeonato final de la liga del Estado de Hidalgo",
+                "code": "RE-VURC-24-9418"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 70,
+            "scheduled": "2025-02-25T15:47:30-05:00",
+            "started": "2025-02-25T18:05:52-05:00",
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #70",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178581,
+                                "name": "ITSOE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T16:32:43-05:00"
+        },
+        {
+            "id": 108926504,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 82,
+            "scheduled": "2025-02-27T12:45:00-05:00",
+            "started": "2025-02-27T14:23:31-05:00",
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #82",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150422,
+                                "name": "UPCH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 108926515,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 93,
+            "scheduled": "2025-02-27T13:15:00-05:00",
+            "started": "2025-02-27T14:29:59-05:00",
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #93",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90205,
+                                "name": "ITESM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 108926542,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 120,
+            "scheduled": "2025-02-27T14:30:00-05:00",
+            "started": "2025-02-27T16:45:15-05:00",
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #120",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178602,
+                                "name": "UTTT1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 108926553,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 131,
+            "scheduled": "2025-02-27T16:07:30-05:00",
+            "started": "2025-02-27T17:22:44-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #131",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 127717,
+                                "name": "UTCHE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 108926574,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 152,
+            "scheduled": "2025-02-27T17:07:30-05:00",
+            "started": "2025-02-27T18:17:29-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #152",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180422,
+                                "name": "ITMOR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 108926597,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 175,
+            "scheduled": "2025-02-27T18:15:00-05:00",
+            "started": "2025-02-27T19:02:18-05:00",
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #175",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 92705,
+                                "name": "UTNLA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 108926607,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 185,
+            "scheduled": "2025-02-27T18:37:30-05:00",
+            "started": "2025-02-27T19:13:22-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #185",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 2,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150432,
+                                "name": "UTCJ2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 107506178,
+            "event": {
+                "id": 59418,
+                "name": "Campeonato final de la liga del Estado de Hidalgo",
+                "code": "RE-VURC-24-9418"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-25T18:30:54-05:00",
+            "field": null,
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178600,
+                                "name": "UTMR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T16:32:43-05:00"
+        },
+        {
+            "id": 108926628,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 7,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-28T10:52:13-05:00",
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Match #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178612,
+                                "name": "UTMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178611,
+                                "name": "UTEC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/126425/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/126425/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/126425/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 5,
+        "total": 5
+    },
+    "data": [
+        {
+            "id": 109112671,
+            "event": {
+                "id": 59650,
+                "name": "VEXU | High Stakes | Spain Championship 2025: ESEIAAT - UPC",
+                "code": "RE-VURC-24-9650"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2025-03-01T04:00:00-05:00",
+            "started": "2025-03-01T09:46:37-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 126425,
+                                "name": "VEDRU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 91233,
+                                "name": "VEDRU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-05T12:02:28-05:00"
+        },
+        {
+            "id": 109112673,
+            "event": {
+                "id": 59650,
+                "name": "VEXU | High Stakes | Spain Championship 2025: ESEIAAT - UPC",
+                "code": "RE-VURC-24-9650"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-03-01T04:40:00-05:00",
+            "started": "2025-03-01T11:40:55-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90567,
+                                "name": "PUCR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 126425,
+                                "name": "VEDRU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-05T12:02:28-05:00"
+        },
+        {
+            "id": 109112674,
+            "event": {
+                "id": 59650,
+                "name": "VEXU | High Stakes | Spain Championship 2025: ESEIAAT - UPC",
+                "code": "RE-VURC-24-9650"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-03-01T09:30:00-05:00",
+            "started": "2025-03-02T04:36:31-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 126425,
+                                "name": "VEDRU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 91233,
+                                "name": "VEDRU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-05T12:02:28-05:00"
+        },
+        {
+            "id": 109112676,
+            "event": {
+                "id": 59650,
+                "name": "VEXU | High Stakes | Spain Championship 2025: ESEIAAT - UPC",
+                "code": "RE-VURC-24-9650"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-03-01T10:10:00-05:00",
+            "started": "2025-03-02T06:41:11-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90567,
+                                "name": "PUCR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 126425,
+                                "name": "VEDRU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-05T12:02:28-05:00"
+        },
+        {
+            "id": 109112677,
+            "event": {
+                "id": 59650,
+                "name": "VEXU | High Stakes | Spain Championship 2025: ESEIAAT - UPC",
+                "code": "RE-VURC-24-9650"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-02T10:44:08-05:00",
+            "field": null,
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90567,
+                                "name": "PUCR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 126425,
+                                "name": "VEDRU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-05T12:02:28-05:00"
+        }
+    ]
+}

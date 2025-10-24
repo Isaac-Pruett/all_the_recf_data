@@ -1,0 +1,1473 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/101963/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/101963/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/101963/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 28,
+        "total": 28
+    },
+    "data": [
+        {
+            "id": 104939200,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-15T10:04:00-05:00",
+            "started": "2025-02-15T10:09:03-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 115552,
+                                "name": "GATR2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422889,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-01-18T10:18:45-05:00",
+            "started": "2025-01-18T10:38:17-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144932,
+                                "name": "BULL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 97422893,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-01-18T10:33:45-05:00",
+            "started": "2025-01-18T11:06:27-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77038,
+                                "name": "BV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 104939208,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-15T10:36:00-05:00",
+            "started": "2025-02-15T10:48:56-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 104939211,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-02-15T10:48:00-05:00",
+            "started": "2025-02-15T11:01:53-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422900,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-01-18T11:00:00-05:00",
+            "started": "2025-01-18T11:49:56-05:00",
+            "field": "Alpha",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131736,
+                                "name": "POLY3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 114019390,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144133,
+                                "name": "ARC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 104939215,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-15T11:04:00-05:00",
+            "started": "2025-02-15T11:21:47-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77791,
+                                "name": "PNTHR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422905,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2025-01-18T11:18:45-05:00",
+            "started": "2025-01-18T13:21:11-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178019,
+                                "name": "IBA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 104939222,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-02-15T11:32:00-05:00",
+            "started": "2025-02-15T13:02:39-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144932,
+                                "name": "BULL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 104939224,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-02-15T11:40:00-05:00",
+            "started": "2025-02-15T13:12:28-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160158,
+                                "name": "GT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422913,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-01-18T11:48:45-05:00",
+            "started": "2025-01-18T14:00:55-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163157,
+                                "name": "PRVX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 97422917,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-01-18T13:03:45-05:00",
+            "started": "2025-01-18T14:25:18-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 114019404,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178603,
+                                "name": "UTHU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 104939231,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-15T13:08:00-05:00",
+            "started": "2025-02-15T13:42:28-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177729,
+                                "name": "UCF7",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422925,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2025-01-18T13:33:45-05:00",
+            "started": "2025-01-18T14:55:25-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 115552,
+                                "name": "GATR2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 104939238,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2025-02-15T13:36:00-05:00",
+            "started": "2025-02-15T14:14:38-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131736,
+                                "name": "POLY3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422931,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2025-01-18T13:56:15-05:00",
+            "started": "2025-01-18T15:26:39-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 114019450,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 76,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #76",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183865,
+                                "name": "ZCU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019465,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 91,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #91",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144932,
+                                "name": "BULL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019509,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 135,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #135",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180425,
+                                "name": "KTECH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019522,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 148,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #148",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150998,
+                                "name": "UCR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019540,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 166,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #166",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174413,
+                                "name": "TVTCR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019572,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 198,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #198",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019608,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 234,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #234",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 53020,
+                                "name": "UTCJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 104939242,
+            "event": {
+                "id": 56294,
+                "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+                "code": "RE-VURC-24-6294"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T14:57:08-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144932,
+                                "name": "BULL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T15:55:07-05:00"
+        },
+        {
+            "id": 97422935,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-18T15:58:01-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144932,
+                                "name": "BULL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        },
+        {
+            "id": 97422937,
+            "event": {
+                "id": 57077,
+                "name": "High Stakes Knightmare VURC",
+                "code": "RE-VURC-24-7077"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-18T16:09:10-05:00",
+            "field": "Omega",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 101963,
+                                "name": "GATR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131736,
+                                "name": "POLY3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-18T16:52:27-05:00"
+        }
+    ]
+}

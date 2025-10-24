@@ -1,0 +1,1317 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/165179/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/165179/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/165179/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 25,
+        "total": 25
+    },
+    "data": [
+        {
+            "id": 102242273,
+            "event": {
+                "id": 57462,
+                "name": "James N. Butch VEXU Qualifier: WVUTECH Collegiate Tournament",
+                "code": "RE-VURC-24-7462"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-02-07T13:50:00-05:00",
+            "started": "2025-02-07T13:56:59-05:00",
+            "field": "Buzz Heath",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77038,
+                                "name": "BV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-07T18:40:01-05:00"
+        },
+        {
+            "id": 105558207,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-21T13:52:30-05:00",
+            "started": "2025-02-21T13:50:23-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 129604,
+                                "name": "RIT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 102242276,
+            "event": {
+                "id": 57462,
+                "name": "James N. Butch VEXU Qualifier: WVUTECH Collegiate Tournament",
+                "code": "RE-VURC-24-7462"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-02-07T14:20:00-05:00",
+            "started": "2025-02-07T14:19:06-05:00",
+            "field": "LA Gates",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-07T18:40:01-05:00"
+        },
+        {
+            "id": 103978478,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 7,
+            "scheduled": "2025-02-09T11:04:00-05:00",
+            "started": "2025-02-09T11:31:25-05:00",
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #7",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 158187,
+                                "name": "AYO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 105558211,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-21T14:22:30-05:00",
+            "started": "2025-02-21T14:13:35-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 102242278,
+            "event": {
+                "id": 57462,
+                "name": "James N. Butch VEXU Qualifier: WVUTECH Collegiate Tournament",
+                "code": "RE-VURC-24-7462"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-07T14:40:00-05:00",
+            "started": "2025-02-07T14:38:20-05:00",
+            "field": "LA Gates",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149455,
+                                "name": "BRYAN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-07T18:40:01-05:00"
+        },
+        {
+            "id": 103978481,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-09T11:16:00-05:00",
+            "started": "2025-02-09T11:50:02-05:00",
+            "field": "FRIDAY",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149455,
+                                "name": "BRYAN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 102242282,
+            "event": {
+                "id": 57462,
+                "name": "James N. Butch VEXU Qualifier: WVUTECH Collegiate Tournament",
+                "code": "RE-VURC-24-7462"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-02-07T15:20:00-05:00",
+            "started": "2025-02-07T15:17:54-05:00",
+            "field": "LA Gates",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76458,
+                                "name": "FSU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-07T18:40:01-05:00"
+        },
+        {
+            "id": 105558215,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-02-21T14:52:30-05:00",
+            "started": "2025-02-21T14:49:57-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 103978486,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-02-09T11:36:00-05:00",
+            "started": "2025-02-09T12:18:47-05:00",
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76395,
+                                "name": "OWL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 102242286,
+            "event": {
+                "id": 57462,
+                "name": "James N. Butch VEXU Qualifier: WVUTECH Collegiate Tournament",
+                "code": "RE-VURC-24-7462"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-02-07T16:00:00-05:00",
+            "started": "2025-02-07T15:55:34-05:00",
+            "field": "LA Gates",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 116384,
+                                "name": "HERD",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-07T18:40:01-05:00"
+        },
+        {
+            "id": 105558220,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-21T15:30:00-05:00",
+            "started": "2025-02-21T15:15:42-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113721,
+                                "name": "WVUR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 105558224,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-02-21T16:00:00-05:00",
+            "started": "2025-02-21T15:43:03-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 116384,
+                                "name": "HERD",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 102242291,
+            "event": {
+                "id": 57462,
+                "name": "James N. Butch VEXU Qualifier: WVUTECH Collegiate Tournament",
+                "code": "RE-VURC-24-7462"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-02-07T16:50:00-05:00",
+            "started": "2025-02-07T16:51:42-05:00",
+            "field": "Buzz Heath",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170436,
+                                "name": "ZIPS1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-07T18:40:01-05:00"
+        },
+        {
+            "id": 103978494,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-09T12:08:00-05:00",
+            "started": "2025-02-09T13:40:04-05:00",
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 116384,
+                                "name": "HERD",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 105558227,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-02-21T16:22:30-05:00",
+            "started": "2025-02-21T16:18:35-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76458,
+                                "name": "FSU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 105558231,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2025-02-21T16:52:30-05:00",
+            "started": "2025-02-21T16:45:08-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77038,
+                                "name": "BV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 105558237,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2025-02-21T18:37:30-05:00",
+            "started": "2025-02-21T18:33:57-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 158187,
+                                "name": "AYO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 103978505,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2025-02-09T13:31:30-05:00",
+            "started": "2025-02-09T14:53:40-05:00",
+            "field": "FRIDAY",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170436,
+                                "name": "ZIPS1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978512,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 41,
+            "scheduled": "2025-02-09T13:56:00-05:00",
+            "started": "2025-02-09T15:26:47-05:00",
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #41",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76458,
+                                "name": "FSU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978517,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 46,
+            "scheduled": "2025-02-09T14:13:30-05:00",
+            "started": "2025-02-09T16:01:17-05:00",
+            "field": "FRIDAY",
+            "scored": false,
+            "name": "Qualifier #46",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978526,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 55,
+            "scheduled": "2025-02-09T14:45:00-05:00",
+            "started": null,
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #55",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172390,
+                                "name": "KING",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 102242292,
+            "event": {
+                "id": 57462,
+                "name": "James N. Butch VEXU Qualifier: WVUTECH Collegiate Tournament",
+                "code": "RE-VURC-24-7462"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-07T17:35:16-05:00",
+            "field": "Buzz Heath",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149455,
+                                "name": "BRYAN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-07T18:40:01-05:00"
+        },
+        {
+            "id": 105558243,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-21T19:23:36-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113721,
+                                "name": "WVUR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 102242295,
+            "event": {
+                "id": 57462,
+                "name": "James N. Butch VEXU Qualifier: WVUTECH Collegiate Tournament",
+                "code": "RE-VURC-24-7462"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-07T17:54:37-05:00",
+            "field": "LA Gates",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-07T18:40:01-05:00"
+        }
+    ]
+}

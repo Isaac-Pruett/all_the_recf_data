@@ -1,0 +1,2045 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/151616/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/151616/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/151616/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 39,
+        "total": 39
+    },
+    "data": [
+        {
+            "id": 92337204,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 1,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2024-12-03T16:06:00-05:00",
+            "started": null,
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Practice #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150422,
+                                "name": "UPCH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107414579,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2025-02-26T19:00:00-05:00",
+            "started": null,
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178610,
+                                "name": "UPFIM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 92337216,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2024-12-03T17:24:00-05:00",
+            "started": "2024-12-03T18:41:42-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 108926428,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-02-27T09:07:30-05:00",
+            "started": "2025-02-27T10:24:02-05:00",
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178600,
+                                "name": "UTMR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 92337221,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2024-12-03T18:00:00-05:00",
+            "started": "2024-12-03T19:34:30-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 86615,
+                                "name": "IEST1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107414591,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-02-26T20:18:00-05:00",
+            "started": null,
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150422,
+                                "name": "UPCH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 92337234,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2024-12-03T19:24:00-05:00",
+            "started": "2024-12-04T10:42:32-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 126341,
+                                "name": "ITSMQ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107414605,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-02-27T09:48:00-05:00",
+            "started": null,
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 127718,
+                                "name": "UTCHE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 92337240,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2024-12-03T20:06:00-05:00",
+            "started": "2024-12-04T11:35:56-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 72552,
+                                "name": "UACH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 108926451,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2025-02-27T10:15:00-05:00",
+            "started": "2025-02-27T11:47:13-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 53020,
+                                "name": "UTCJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 107414618,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2025-02-27T11:18:00-05:00",
+            "started": null,
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 92705,
+                                "name": "UTNLA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 92337255,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2024-12-04T11:28:00-05:00",
+            "started": "2024-12-04T13:58:32-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178728,
+                                "name": "UTBAB1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107414628,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 50,
+            "scheduled": "2025-02-27T12:12:00-05:00",
+            "started": null,
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #50",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178581,
+                                "name": "ITSOE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 92337265,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 54,
+            "scheduled": "2024-12-04T12:12:00-05:00",
+            "started": null,
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #54",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 53020,
+                                "name": "UTCJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 108926478,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 56,
+            "scheduled": "2025-02-27T11:30:00-05:00",
+            "started": "2025-02-27T12:58:00-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #56",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 72552,
+                                "name": "UACH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 107414635,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 57,
+            "scheduled": "2025-02-27T12:30:00-05:00",
+            "started": null,
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #57",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64093,
+                                "name": "UPQR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 92337272,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 61,
+            "scheduled": "2024-12-04T12:33:00-05:00",
+            "started": null,
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #61",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165665,
+                                "name": "TCGMC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 92337276,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 65,
+            "scheduled": "2024-12-04T12:45:00-05:00",
+            "started": null,
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #65",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90205,
+                                "name": "ITESM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107414651,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 73,
+            "scheduled": "2025-02-27T13:24:00-05:00",
+            "started": null,
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #73",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178609,
+                                "name": "UTVAM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 92337284,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 73,
+            "scheduled": "2024-12-04T13:18:00-05:00",
+            "started": null,
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #73",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150432,
+                                "name": "UTCJ2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 108926501,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 79,
+            "scheduled": "2025-02-27T12:37:30-05:00",
+            "started": "2025-02-27T14:16:53-05:00",
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #79",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178611,
+                                "name": "UTEC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 107414660,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 82,
+            "scheduled": "2025-02-27T14:00:00-05:00",
+            "started": null,
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #82",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178598,
+                                "name": "UPPAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 107414667,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 89,
+            "scheduled": "2025-02-27T14:18:00-05:00",
+            "started": null,
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #89",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178603,
+                                "name": "UTHU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 108926511,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 89,
+            "scheduled": "2025-02-27T13:07:30-05:00",
+            "started": "2025-02-27T14:25:43-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #89",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178598,
+                                "name": "UPPAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 107414676,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 98,
+            "scheduled": "2025-02-27T14:48:00-05:00",
+            "started": null,
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #98",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178600,
+                                "name": "UTMR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 108926527,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 105,
+            "scheduled": "2025-02-27T13:45:00-05:00",
+            "started": "2025-02-27T15:03:57-05:00",
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #105",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178597,
+                                "name": "UPPAC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 107414684,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 106,
+            "scheduled": "2025-02-27T16:18:00-05:00",
+            "started": null,
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #106",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150307,
+                                "name": "UTALT2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 107414695,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 117,
+            "scheduled": "2025-02-27T16:48:00-05:00",
+            "started": null,
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #117",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178588,
+                                "name": "UPH2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 108926549,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 127,
+            "scheduled": "2025-02-27T16:00:00-05:00",
+            "started": "2025-02-27T17:24:40-05:00",
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #127",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 92705,
+                                "name": "UTNLA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 107414712,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 134,
+            "scheduled": "2025-02-27T17:48:00-05:00",
+            "started": null,
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #134",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 52230,
+                                "name": "TMAT3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 107414719,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 141,
+            "scheduled": "2025-02-27T18:12:00-05:00",
+            "started": null,
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #141",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178729,
+                                "name": "UTBAB2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 107414726,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 148,
+            "scheduled": "2025-02-27T18:36:00-05:00",
+            "started": null,
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #148",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178605,
+                                "name": "UTSH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 108926571,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 149,
+            "scheduled": "2025-02-27T17:00:00-05:00",
+            "started": "2025-02-27T18:04:15-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #149",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178581,
+                                "name": "ITSOE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 107414736,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 2,
+                "name": "Default",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 158,
+            "scheduled": "2025-02-27T20:12:00-05:00",
+            "started": null,
+            "field": "Cancha 1 VURC",
+            "scored": false,
+            "name": "Qualifier #158",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178604,
+                                "name": "ITSOA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-25T23:33:51-05:00"
+        },
+        {
+            "id": 108926601,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 179,
+            "scheduled": "2025-02-27T18:22:30-05:00",
+            "started": "2025-02-27T19:05:54-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Qualifier #179",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178599,
+                                "name": "UPE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 108926611,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 189,
+            "scheduled": "2025-02-27T18:45:00-05:00",
+            "started": "2025-02-28T09:21:58-05:00",
+            "field": "Cancha 3 VURC",
+            "scored": false,
+            "name": "Qualifier #189",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178601,
+                                "name": "UTVMZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 108926638,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-28T11:34:55-05:00",
+            "field": null,
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178610,
+                                "name": "UPFIM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 108926629,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 7,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-28T10:54:33-05:00",
+            "field": "Cancha 2 VURC",
+            "scored": false,
+            "name": "Match #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147267,
+                                "name": "UTMY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        },
+        {
+            "id": 108926630,
+            "event": {
+                "id": 57756,
+                "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+                "code": "RE-VURC-24-7756"
+            },
+            "division": {
+                "id": 1,
+                "name": "Ciencia",
+                "code": null
+            },
+            "round": 7,
+            "instance": 4,
+            "matchnum": 2,
+            "scheduled": null,
+            "started": "2025-02-28T11:05:58-05:00",
+            "field": null,
+            "scored": false,
+            "name": "Match #4-2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147267,
+                                "name": "UTMY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-02T12:27:54-05:00"
+        }
+    ]
+}

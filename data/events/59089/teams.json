@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/59089/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/59089/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/59089/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 3,
+        "total": 3
+    },
+    "data": [
+        {
+            "id": 124019,
+            "number": "NXS",
+            "team_name": "\u2af7Nexus Robotics\u2af8",
+            "robot_name": "",
+            "organization": "Ratthew Robotics Co",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Hamilton",
+                "region": "Ontario",
+                "postcode": "L8S 3Z5",
+                "country": "Canada",
+                "coordinates": {
+                    "lat": 43.3,
+                    "lon": -79.9
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174882,
+            "number": "ORANG3",
+            "team_name": "Orange Robotics",
+            "robot_name": null,
+            "organization": "Syracuse University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Syracuse",
+                "region": "New York",
+                "postcode": "13244",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 43,
+                    "lon": -76.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 129604,
+            "number": "RIT",
+            "team_name": "RIT Tigers",
+            "robot_name": "Tigers",
+            "organization": "Rochester Institute of Technology",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Rochester",
+                "region": "New York",
+                "postcode": "14623",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 43.1,
+                    "lon": -77.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

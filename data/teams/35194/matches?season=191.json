@@ -1,0 +1,2045 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/35194/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/35194/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/35194/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 39,
+        "total": 39
+    },
+    "data": [
+        {
+            "id": 105558205,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-21T13:37:30-05:00",
+            "started": "2025-02-21T13:44:28-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77038,
+                                "name": "BV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 93870629,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2024-12-15T09:42:45-05:00",
+            "started": "2024-12-15T10:27:10-05:00",
+            "field": "MEC",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172390,
+                                "name": "KING",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 103700487,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-08T10:46:30-05:00",
+            "started": "2025-02-08T11:07:31-05:00",
+            "field": "B",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160122,
+                                "name": "ONE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 105558208,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-02-21T14:00:00-05:00",
+            "started": "2025-02-21T13:56:07-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76458,
+                                "name": "FSU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 103700491,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-08T11:08:30-05:00",
+            "started": "2025-02-08T11:29:32-05:00",
+            "field": "B",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174081,
+                                "name": "RREV",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 114019642,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164364,
+                                "name": "SCAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 105558215,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-02-21T14:52:30-05:00",
+            "started": "2025-02-21T14:49:57-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 103700496,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-02-08T11:36:00-05:00",
+            "started": "2025-02-08T12:13:03-05:00",
+            "field": "A",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 105558218,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-02-21T15:15:00-05:00",
+            "started": "2025-02-21T15:06:38-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 93870641,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2024-12-15T10:33:45-05:00",
+            "started": "2024-12-15T11:36:45-05:00",
+            "field": "MEC",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 103700501,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2025-02-08T12:03:30-05:00",
+            "started": "2025-02-08T12:59:38-05:00",
+            "field": "B",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73839,
+                                "name": "WPI",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 105558222,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2025-02-21T15:45:00-05:00",
+            "started": "2025-02-21T15:31:30-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113721,
+                                "name": "WVUR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 103700504,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-02-08T12:20:00-05:00",
+            "started": "2025-02-08T13:30:36-05:00",
+            "field": "A",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59565,
+                                "name": "NJIT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 93870648,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2024-12-15T11:03:30-05:00",
+            "started": "2024-12-15T12:06:05-05:00",
+            "field": "Major Muskrat",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144133,
+                                "name": "ARC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 105558226,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-21T16:15:00-05:00",
+            "started": "2025-02-21T16:11:31-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 158187,
+                                "name": "AYO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 103700507,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-02-08T12:36:30-05:00",
+            "started": "2025-02-08T13:56:12-05:00",
+            "field": "B",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131010,
+                                "name": "HSKY",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 93870654,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2024-12-15T11:29:00-05:00",
+            "started": "2024-12-15T12:27:12-05:00",
+            "field": "Major Muskrat",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170470,
+                                "name": "DKFNX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 105558233,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-02-21T18:07:30-05:00",
+            "started": "2025-02-21T18:12:28-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 116384,
+                                "name": "HERD",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 103700513,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-02-08T13:09:30-05:00",
+            "started": "2025-02-08T15:03:25-05:00",
+            "field": "B",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164364,
+                                "name": "SCAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 93870659,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2024-12-15T11:50:15-05:00",
+            "started": "2024-12-15T12:46:23-05:00",
+            "field": "MEC",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 20548,
+                                "name": "BLRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 105558238,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2025-02-21T18:45:00-05:00",
+            "started": "2025-02-21T18:38:57-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 129604,
+                                "name": "RIT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 103700519,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2025-02-08T13:42:30-05:00",
+            "started": null,
+            "field": "B",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151699,
+                                "name": "SHU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 114019672,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162873,
+                                "name": "ATUM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 93870669,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2024-12-15T12:32:45-05:00",
+            "started": "2024-12-15T14:10:45-05:00",
+            "field": "Major Muskrat",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 112815,
+                                "name": "HAIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 93870681,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 56,
+            "scheduled": "2024-12-15T14:21:15-05:00",
+            "started": "2024-12-15T14:56:13-05:00",
+            "field": "Major Muskrat",
+            "scored": false,
+            "name": "Qualifier #56",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104067,
+                                "name": "ILLIN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 93870685,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 60,
+            "scheduled": "2024-12-15T14:38:15-05:00",
+            "started": "2024-12-15T15:10:40-05:00",
+            "field": "Explore Monroe",
+            "scored": false,
+            "name": "Qualifier #60",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174550,
+                                "name": "ARC3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 114019713,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 80,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #80",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 20548,
+                                "name": "BLRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019734,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 101,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #101",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151461,
+                                "name": "AA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019759,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 126,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #126",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 72552,
+                                "name": "UACH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019798,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 165,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #165",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77038,
+                                "name": "BV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019811,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 178,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #178",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180422,
+                                "name": "ITMOR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019838,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 205,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #205",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174397,
+                                "name": "KFUPM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019855,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 222,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #222",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169647,
+                                "name": "BUCKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 105558241,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-21T19:10:29-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76458,
+                                "name": "FSU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 103700523,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-08T16:16:18-05:00",
+            "field": null,
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 103700525,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-08T16:33:16-05:00",
+            "field": "B",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164364,
+                                "name": "SCAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 103700526,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-08T16:47:58-05:00",
+            "field": "B",
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73839,
+                                "name": "WPI",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 103700527,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": null,
+            "started": "2025-02-08T16:57:58-05:00",
+            "field": "B",
+            "scored": false,
+            "name": "Final #1-2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73839,
+                                "name": "WPI",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 93870693,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 6,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-15T15:58:16-05:00",
+            "field": "MEC",
+            "scored": false,
+            "name": "R16 #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169647,
+                                "name": "BUCKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        }
+    ]
+}

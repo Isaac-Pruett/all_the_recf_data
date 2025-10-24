@@ -1,0 +1,537 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/170003/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/170003/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/170003/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 10,
+        "total": 10
+    },
+    "data": [
+        {
+            "id": 90358073,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2024-11-23T15:35:00-05:00",
+            "started": "2024-11-23T15:50:40-05:00",
+            "field": "Bartlett and West",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170003,
+                                "name": "HNDSM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175783,
+                                "name": "INTRT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 90358078,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2024-11-23T16:00:00-05:00",
+            "started": "2024-11-23T16:26:10-05:00",
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 158187,
+                                "name": "AYO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170003,
+                                "name": "HNDSM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 90358083,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2024-11-23T16:25:00-05:00",
+            "started": "2024-11-23T17:00:18-05:00",
+            "field": "Bartlett and West",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170003,
+                                "name": "HNDSM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179009,
+                                "name": "SKERS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 90358088,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2024-11-23T16:50:00-05:00",
+            "started": "2024-11-23T19:28:36-05:00",
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170294,
+                                "name": "MTG7",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170003,
+                                "name": "HNDSM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 90358090,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2024-11-23T17:00:00-05:00",
+            "started": "2024-11-23T17:52:02-05:00",
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157098,
+                                "name": "JACKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170003,
+                                "name": "HNDSM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 90358094,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2024-11-23T17:20:00-05:00",
+            "started": "2024-11-23T18:17:36-05:00",
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170003,
+                                "name": "HNDSM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 90358101,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2024-11-23T17:55:00-05:00",
+            "started": "2024-11-23T19:11:01-05:00",
+            "field": "Bartlett and West",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170003,
+                                "name": "HNDSM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 90358106,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2024-11-23T18:20:00-05:00",
+            "started": null,
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170003,
+                                "name": "HNDSM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143065,
+                                "name": "WCOE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 90358112,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2024-11-23T18:50:00-05:00",
+            "started": null,
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170003,
+                                "name": "HNDSM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 90358114,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-23T19:54:47-05:00",
+            "field": "Bartlett and West",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170003,
+                                "name": "HNDSM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175783,
+                                "name": "INTRT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        }
+    ]
+}

@@ -1,0 +1,953 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/125306/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/125306/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/125306/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 18,
+        "total": 18
+    },
+    "data": [
+        {
+            "id": 105062094,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2025-02-15T11:00:00-05:00",
+            "started": "2025-02-15T11:04:10-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174550,
+                                "name": "ARC3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 100269189,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-01-26T11:12:00-05:00",
+            "started": "2025-01-26T11:23:20-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 52,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179226,
+                                "name": "LOUIE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 105062103,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-15T11:40:30-05:00",
+            "started": "2025-02-15T11:42:54-05:00",
+            "field": "Prismier",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 1,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148865,
+                                "name": "BU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 100269197,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-01-26T11:44:00-05:00",
+            "started": "2025-01-26T12:01:57-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 100269200,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-01-26T11:56:00-05:00",
+            "started": "2025-01-26T12:19:28-05:00",
+            "field": "COI",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104067,
+                                "name": "ILLIN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 105062110,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-15T12:12:00-05:00",
+            "started": "2025-02-15T12:08:03-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 100269209,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-01-26T13:16:00-05:00",
+            "started": "2025-01-26T13:45:53-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169647,
+                                "name": "BUCKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 105062117,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-02-15T12:43:30-05:00",
+            "started": "2025-02-15T12:33:56-05:00",
+            "field": "Prismier",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 51,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144133,
+                                "name": "ARC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062123,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-02-15T14:09:00-05:00",
+            "started": "2025-02-15T14:09:37-05:00",
+            "field": "Prismier",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137639,
+                                "name": "EZPZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 100269217,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 32,
+            "scheduled": "2025-01-26T13:48:00-05:00",
+            "started": "2025-01-26T14:26:19-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "Qualifier #32",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 140754,
+                                "name": "ECTC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 105062127,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2025-02-15T14:27:00-05:00",
+            "started": "2025-02-15T14:28:08-05:00",
+            "field": "Prismier",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062130,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2025-02-15T14:40:30-05:00",
+            "started": "2025-02-15T14:36:57-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104067,
+                                "name": "ILLIN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 100269223,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2025-01-26T14:12:00-05:00",
+            "started": "2025-01-26T15:02:47-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 20548,
+                                "name": "BLRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 100269227,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 42,
+            "scheduled": "2025-01-26T14:28:00-05:00",
+            "started": "2025-01-26T15:20:54-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "Qualifier #42",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 105062136,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 43,
+            "scheduled": "2025-02-15T15:07:30-05:00",
+            "started": "2025-02-15T14:58:56-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #43",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179537,
+                                "name": "TIGRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062146,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T16:05:47-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062142,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T15:47:25-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 100269235,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 8,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-26T16:21:22-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "R16 #8-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179226,
+                                "name": "LOUIE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        }
+    ]
+}

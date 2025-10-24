@@ -1,0 +1,485 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/164900/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/164900/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/164900/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 9,
+        "total": 9
+    },
+    "data": [
+        {
+            "id": 107205692,
+            "event": {
+                "id": 59619,
+                "name": "2024-2025 VEX Robotics Competition Asia Open Finals (VEX U)",
+                "code": "RE-VURC-24-9619"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-21T21:10:00-05:00",
+            "started": "2025-02-21T21:15:49-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164900,
+                                "name": "JLU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165345,
+                                "name": "USST1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-23T11:58:07-05:00"
+        },
+        {
+            "id": 107205698,
+            "event": {
+                "id": 59619,
+                "name": "2024-2025 VEX Robotics Competition Asia Open Finals (VEX U)",
+                "code": "RE-VURC-24-9619"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-21T22:10:00-05:00",
+            "started": "2025-02-21T21:58:50-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164900,
+                                "name": "JLU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181532,
+                                "name": "USST2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-23T11:58:07-05:00"
+        },
+        {
+            "id": 107205707,
+            "event": {
+                "id": 59619,
+                "name": "2024-2025 VEX Robotics Competition Asia Open Finals (VEX U)",
+                "code": "RE-VURC-24-9619"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-22T00:40:00-05:00",
+            "started": "2025-02-22T00:09:47-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 59,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181785,
+                                "name": "SMP1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164900,
+                                "name": "JLU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-23T11:58:07-05:00"
+        },
+        {
+            "id": 107205714,
+            "event": {
+                "id": 59619,
+                "name": "2024-2025 VEX Robotics Competition Asia Open Finals (VEX U)",
+                "code": "RE-VURC-24-9619"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-02-22T01:50:00-05:00",
+            "started": "2025-02-22T00:52:35-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165697,
+                                "name": "CQU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164900,
+                                "name": "JLU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-23T11:58:07-05:00"
+        },
+        {
+            "id": 107205723,
+            "event": {
+                "id": 59619,
+                "name": "2024-2025 VEX Robotics Competition Asia Open Finals (VEX U)",
+                "code": "RE-VURC-24-9619"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-22T03:20:00-05:00",
+            "started": "2025-02-22T01:53:44-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 100169,
+                                "name": "TJU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164900,
+                                "name": "JLU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-23T11:58:07-05:00"
+        },
+        {
+            "id": 107205727,
+            "event": {
+                "id": 59619,
+                "name": "2024-2025 VEX Robotics Competition Asia Open Finals (VEX U)",
+                "code": "RE-VURC-24-9619"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2025-02-22T04:00:00-05:00",
+            "started": "2025-02-22T02:27:26-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164900,
+                                "name": "JLU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183573,
+                                "name": "CSTU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-23T11:58:07-05:00"
+        },
+        {
+            "id": 107205734,
+            "event": {
+                "id": 59619,
+                "name": "2024-2025 VEX Robotics Competition Asia Open Finals (VEX U)",
+                "code": "RE-VURC-24-9619"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2025-02-22T19:40:00-05:00",
+            "started": "2025-02-22T03:19:06-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161980,
+                                "name": "HUST1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164900,
+                                "name": "JLU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-23T11:58:07-05:00"
+        },
+        {
+            "id": 107205742,
+            "event": {
+                "id": 59619,
+                "name": "2024-2025 VEX Robotics Competition Asia Open Finals (VEX U)",
+                "code": "RE-VURC-24-9619"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 52,
+            "scheduled": "2025-02-22T21:00:00-05:00",
+            "started": "2025-02-22T04:15:16-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #52",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181681,
+                                "name": "HITSZ7",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164900,
+                                "name": "JLU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-23T11:58:07-05:00"
+        },
+        {
+            "id": 107205744,
+            "event": {
+                "id": 59619,
+                "name": "2024-2025 VEX Robotics Competition Asia Open Finals (VEX U)",
+                "code": "RE-VURC-24-9619"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "R16 #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164900,
+                                "name": "JLU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181785,
+                                "name": "SMP1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-23T11:58:07-05:00"
+        }
+    ]
+}

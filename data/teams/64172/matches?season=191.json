@@ -1,0 +1,1369 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/64172/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/64172/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/64172/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 26,
+        "total": 26
+    },
+    "data": [
+        {
+            "id": 108827356,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-03-01T12:12:00-05:00",
+            "started": "2025-03-01T12:36:37-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 105176228,
+            "event": {
+                "id": 56255,
+                "name": "Mt. SAC VEXU High Stakes with BBQ sauce",
+                "code": "RE-VURC-24-6255"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-15T12:45:00-05:00",
+            "started": "2025-02-15T12:46:06-05:00",
+            "field": "Red Field",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182594,
+                                "name": "EMP",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T20:37:41-05:00"
+        },
+        {
+            "id": 101954150,
+            "event": {
+                "id": 59009,
+                "name": "The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes",
+                "code": "RE-VURC-24-9009"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-02-01T13:45:00-05:00",
+            "started": "2025-02-01T14:41:51-05:00",
+            "field": "BLACK",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139338,
+                                "name": "BA2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T21:24:11-05:00"
+        },
+        {
+            "id": 105176233,
+            "event": {
+                "id": 56255,
+                "name": "Mt. SAC VEXU High Stakes with BBQ sauce",
+                "code": "RE-VURC-24-6255"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-15T13:10:00-05:00",
+            "started": "2025-02-15T13:04:14-05:00",
+            "field": "Blue Field",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 106975,
+                                "name": "CPSLO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T20:37:41-05:00"
+        },
+        {
+            "id": 101954154,
+            "event": {
+                "id": 59009,
+                "name": "The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes",
+                "code": "RE-VURC-24-9009"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-01T14:09:00-05:00",
+            "started": "2025-02-01T16:19:20-05:00",
+            "field": "BLACK",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157553,
+                                "name": "RCXD1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T21:24:11-05:00"
+        },
+        {
+            "id": 108827367,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2025-03-01T13:18:00-05:00",
+            "started": "2025-03-01T13:45:30-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157553,
+                                "name": "RCXD1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 105176240,
+            "event": {
+                "id": 56255,
+                "name": "Mt. SAC VEXU High Stakes with BBQ sauce",
+                "code": "RE-VURC-24-6255"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-02-15T13:45:00-05:00",
+            "started": "2025-02-15T13:35:40-05:00",
+            "field": "Red Field",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73643,
+                                "name": "CBU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T20:37:41-05:00"
+        },
+        {
+            "id": 101954161,
+            "event": {
+                "id": 59009,
+                "name": "The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes",
+                "code": "RE-VURC-24-9009"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-01T14:51:00-05:00",
+            "started": "2025-02-01T16:52:41-05:00",
+            "field": "RED",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 74340,
+                                "name": "CSUNB",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T21:24:11-05:00"
+        },
+        {
+            "id": 108827371,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2025-03-01T13:42:00-05:00",
+            "started": "2025-03-01T14:10:08-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 53537,
+                                "name": "MCEC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 101954167,
+            "event": {
+                "id": 59009,
+                "name": "The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes",
+                "code": "RE-VURC-24-9009"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-01T16:24:00-05:00",
+            "started": "2025-02-01T17:18:57-05:00",
+            "field": "RED",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177312,
+                                "name": "RCXD2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T21:24:11-05:00"
+        },
+        {
+            "id": 105176247,
+            "event": {
+                "id": 56255,
+                "name": "Mt. SAC VEXU High Stakes with BBQ sauce",
+                "code": "RE-VURC-24-6255"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-15T14:31:00-05:00",
+            "started": "2025-02-15T14:04:16-05:00",
+            "field": "Blue Field",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162677,
+                                "name": "UCSB1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T20:37:41-05:00"
+        },
+        {
+            "id": 108827381,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2025-03-01T14:42:00-05:00",
+            "started": "2025-03-01T15:40:02-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177313,
+                                "name": "RCXD3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 105176255,
+            "event": {
+                "id": 56255,
+                "name": "Mt. SAC VEXU High Stakes with BBQ sauce",
+                "code": "RE-VURC-24-6255"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-02-15T15:03:00-05:00",
+            "started": "2025-02-15T14:41:44-05:00",
+            "field": "Blue Field",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 74339,
+                                "name": "CSUNR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T20:37:41-05:00"
+        },
+        {
+            "id": 101954178,
+            "event": {
+                "id": 59009,
+                "name": "The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes",
+                "code": "RE-VURC-24-9009"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2025-02-01T17:30:00-05:00",
+            "started": "2025-02-01T18:00:27-05:00",
+            "field": "BLACK",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 106975,
+                                "name": "CPSLO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T21:24:11-05:00"
+        },
+        {
+            "id": 108827390,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2025-03-01T16:06:00-05:00",
+            "started": "2025-03-01T16:33:00-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 106975,
+                                "name": "CPSLO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 105176262,
+            "event": {
+                "id": 56255,
+                "name": "Mt. SAC VEXU High Stakes with BBQ sauce",
+                "code": "RE-VURC-24-6255"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2025-02-15T16:30:00-05:00",
+            "started": "2025-02-15T16:42:23-05:00",
+            "field": "Red Field",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35506,
+                                "name": "MTSAC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T20:37:41-05:00"
+        },
+        {
+            "id": 101954183,
+            "event": {
+                "id": 59009,
+                "name": "The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes",
+                "code": "RE-VURC-24-9009"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2025-02-01T18:00:00-05:00",
+            "started": "2025-02-01T18:22:21-05:00",
+            "field": "RED",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162677,
+                                "name": "UCSB1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T21:24:11-05:00"
+        },
+        {
+            "id": 105176270,
+            "event": {
+                "id": 56255,
+                "name": "Mt. SAC VEXU High Stakes with BBQ sauce",
+                "code": "RE-VURC-24-6255"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 46,
+            "scheduled": "2025-02-15T17:02:00-05:00",
+            "started": "2025-02-15T17:13:45-05:00",
+            "field": "Red Field",
+            "scored": false,
+            "name": "Qualifier #46",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157553,
+                                "name": "RCXD1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T20:37:41-05:00"
+        },
+        {
+            "id": 108827400,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 47,
+            "scheduled": "2025-03-01T17:06:00-05:00",
+            "started": "2025-03-01T17:33:08-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #47",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73643,
+                                "name": "CBU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 108827406,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 53,
+            "scheduled": "2025-03-01T17:42:00-05:00",
+            "started": "2025-03-01T18:08:07-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #53",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35506,
+                                "name": "MTSAC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 105176282,
+            "event": {
+                "id": 56255,
+                "name": "Mt. SAC VEXU High Stakes with BBQ sauce",
+                "code": "RE-VURC-24-6255"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 58,
+            "scheduled": "2025-02-15T18:04:00-05:00",
+            "started": "2025-02-15T18:03:24-05:00",
+            "field": "Red Field",
+            "scored": false,
+            "name": "Qualifier #58",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150998,
+                                "name": "UCR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T20:37:41-05:00"
+        },
+        {
+            "id": 108827418,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-01T19:35:16-05:00",
+            "field": null,
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 48,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 106975,
+                                "name": "CPSLO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 101954194,
+            "event": {
+                "id": 59009,
+                "name": "The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes",
+                "code": "RE-VURC-24-9009"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169789,
+                                "name": "VISTA",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T21:24:11-05:00"
+        },
+        {
+            "id": 101954196,
+            "event": {
+                "id": 59009,
+                "name": "The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes",
+                "code": "RE-VURC-24-9009"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150998,
+                                "name": "UCR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T21:24:11-05:00"
+        },
+        {
+            "id": 108827411,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-01T18:41:22-05:00",
+            "field": null,
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 74340,
+                                "name": "CSUNB",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 105176287,
+            "event": {
+                "id": 56255,
+                "name": "Mt. SAC VEXU High Stakes with BBQ sauce",
+                "code": "RE-VURC-24-6255"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 6,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "R16 #6-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73643,
+                                "name": "CBU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T20:37:41-05:00"
+        }
+    ]
+}

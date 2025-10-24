@@ -1,0 +1,260 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/59067/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/59067/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/59067/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 9,
+        "total": 9
+    },
+    "data": [
+        {
+            "id": 177201,
+            "number": "DUCKZ",
+            "team_name": "Stevens Institute of Technology Ducks",
+            "robot_name": null,
+            "organization": "Stevens Institute of Technology",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Hoboken",
+                "region": "New Jersey",
+                "postcode": "07030",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 40.7,
+                    "lon": -74
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 131010,
+            "number": "HSKY",
+            "team_name": "HSKY",
+            "robot_name": "Husky",
+            "organization": "Robotics Club of Northeastern University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Boston",
+                "region": "Massachusetts",
+                "postcode": "02115",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 42.3,
+                    "lon": -71.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 59565,
+            "number": "NJIT",
+            "team_name": "NJIT Highlanders",
+            "robot_name": "Highlander & Lowlander",
+            "organization": "New Jersey Institute of Technology",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Newark",
+                "region": "New Jersey",
+                "postcode": "07102",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 40.7,
+                    "lon": -74.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 160122,
+            "number": "ONE1",
+            "team_name": "Williams Cattlebots",
+            "robot_name": "",
+            "organization": "Williams College",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Williamstown",
+                "region": "Massachusetts",
+                "postcode": "01267",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 42.7,
+                    "lon": -73.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174081,
+            "number": "RREV",
+            "team_name": "Ex Clown School",
+            "robot_name": "Stormvine,  Frostbite",
+            "organization": "Robot Revolution",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Summit",
+                "region": "New Jersey",
+                "postcode": "07901",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 40.7,
+                    "lon": -74.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 164364,
+            "number": "SCAR",
+            "team_name": "Scarlet Knights",
+            "robot_name": "",
+            "organization": "Rutgers University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Piscataway",
+                "region": "New Jersey",
+                "postcode": "08854",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 40.5,
+                    "lon": -74.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 151699,
+            "number": "SHU",
+            "team_name": "Seton Hall University Robotics",
+            "robot_name": "",
+            "organization": "Seton Hall University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "South Orange",
+                "region": "New Jersey",
+                "postcode": "07079",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 40.7,
+                    "lon": -74.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 35194,
+            "number": "VCAT",
+            "team_name": "VCAT Robotics",
+            "robot_name": "",
+            "organization": "Vaughn College of A&T",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Queens",
+                "region": "New York",
+                "postcode": "11369",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 40.6,
+                    "lon": -74
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 73839,
+            "number": "WPI",
+            "team_name": "The Notorious G.O.A.T.",
+            "robot_name": "Curious + George",
+            "organization": "Worcester Polytechnic Institute",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Worcester",
+                "region": "Massachusetts",
+                "postcode": "01609",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 42.3,
+                    "lon": -71.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

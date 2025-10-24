@@ -1,0 +1,1265 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/174488/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/174488/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/174488/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 24,
+        "total": 24
+    },
+    "data": [
+        {
+            "id": 86218869,
+            "event": {
+                "id": 58810,
+                "name": "VEX U Robotics Competition, Practice Event: Practice event",
+                "code": "RE-VURC-24-8810"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 1,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2024-10-12T10:15:00-04:00",
+            "started": "2024-10-12T11:20:27-04:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Practice #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174399,
+                                "name": "PSU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-12T12:21:43-04:00"
+        },
+        {
+            "id": 86355411,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 1,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2024-10-16T04:15:00-04:00",
+            "started": "2024-10-17T05:51:38-04:00",
+            "field": "Saudi Games",
+            "scored": false,
+            "name": "Practice #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176009,
+                                "name": "PSU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 86355420,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2024-10-16T06:45:00-04:00",
+            "started": "2024-10-16T07:00:18-04:00",
+            "field": "Saudi Games",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174397,
+                                "name": "KFUPM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 86218873,
+            "event": {
+                "id": 58810,
+                "name": "VEX U Robotics Competition, Practice Event: Practice event",
+                "code": "RE-VURC-24-8810"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2024-10-12T12:04:00-04:00",
+            "started": null,
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174434,
+                                "name": "IMSIU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-12T12:21:43-04:00"
+        },
+        {
+            "id": 114019380,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 99184,
+                                "name": "WHOOP",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 86355429,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2024-10-16T07:39:00-04:00",
+            "started": "2024-10-16T08:18:58-04:00",
+            "field": "Vision 2030",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174403,
+                                "name": "UQU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 86355440,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2024-10-16T08:45:00-04:00",
+            "started": "2024-10-16T09:39:28-04:00",
+            "field": "Saudi Games",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176009,
+                                "name": "PSU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 86355448,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2024-10-16T09:33:00-04:00",
+            "started": "2024-10-16T10:42:54-04:00",
+            "field": "Saudi Games",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174399,
+                                "name": "PSU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 114019409,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170470,
+                                "name": "DKFNX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 86355456,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2024-10-16T10:21:00-04:00",
+            "started": "2024-10-16T11:34:52-04:00",
+            "field": "Saudi Games",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174442,
+                                "name": "KSUR2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 86355469,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 50,
+            "scheduled": "2024-10-17T03:54:00-04:00",
+            "started": "2024-10-17T03:53:36-04:00",
+            "field": "Vision 2030",
+            "scored": false,
+            "name": "Qualifier #50",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174434,
+                                "name": "IMSIU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 86355473,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 54,
+            "scheduled": "2024-10-17T04:18:00-04:00",
+            "started": "2024-10-17T04:19:07-04:00",
+            "field": "Vision 2030",
+            "scored": false,
+            "name": "Qualifier #54",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174402,
+                                "name": "KSUR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 86355487,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 68,
+            "scheduled": "2024-10-17T05:42:00-04:00",
+            "started": "2024-10-17T05:42:19-04:00",
+            "field": "Vision 2030",
+            "scored": false,
+            "name": "Qualifier #68",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174497,
+                                "name": "FAISL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 114019445,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 71,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #71",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139338,
+                                "name": "BA2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019463,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 89,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #89",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148043,
+                                "name": "QUEEN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019504,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 130,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #130",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104067,
+                                "name": "ILLIN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019517,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 143,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #143",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161224,
+                                "name": "PLATT1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019543,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 169,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #169",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 52230,
+                                "name": "TMAT3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019582,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 208,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #208",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 81534,
+                                "name": "UCCR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019604,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 230,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #230",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137639,
+                                "name": "EZPZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 86355491,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-10-17T07:59:44-04:00",
+            "field": "Vision 2030",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174413,
+                                "name": "TVTCR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 86355493,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-10-17T09:11:01-04:00",
+            "field": "Saudi Games",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174489,
+                                "name": "KAUTC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 86355494,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-10-17T10:41:47-04:00",
+            "field": "Saudi Games",
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175718,
+                                "name": "SAUDE8",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        },
+        {
+            "id": 86355495,
+            "event": {
+                "id": 58432,
+                "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+                "code": "RE-VURC-24-8432"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": null,
+            "started": "2024-10-17T11:04:11-04:00",
+            "field": "Saudi Games",
+            "scored": false,
+            "name": "Final #1-2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174488,
+                                "name": "KAUTC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175718,
+                                "name": "SAUDE8",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-10-17T12:01:09-04:00"
+        }
+    ]
+}

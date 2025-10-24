@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/59825/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/59825/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/59825/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 1,
+        "total": 1
+    },
+    "data": [
+        {
+            "id": 183865,
+            "number": "ZCU",
+            "team_name": "Aquila ZC",
+            "robot_name": null,
+            "organization": "University of Science and Technology in Zewail City",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Giza",
+                "region": null,
+                "postcode": "12578",
+                "country": "Egypt",
+                "coordinates": {
+                    "lat": 29.9,
+                    "lon": 31
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

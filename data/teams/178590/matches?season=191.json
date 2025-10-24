@@ -1,0 +1,1681 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/178590/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/178590/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/178590/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 32,
+        "total": 32
+    },
+    "data": [
+        {
+            "id": 103978476,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-02-09T10:56:00-05:00",
+            "started": "2025-02-09T11:22:39-05:00",
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76395,
+                                "name": "OWL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 100036813,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 7,
+            "scheduled": "2025-01-25T12:09:00-05:00",
+            "started": "2025-01-25T12:14:57-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #7",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162873,
+                                "name": "ATUM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 103978482,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2025-02-09T11:20:00-05:00",
+            "started": "2025-02-09T11:54:41-05:00",
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172390,
+                                "name": "KING",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 100036819,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-01-25T12:33:00-05:00",
+            "started": "2025-01-25T12:37:23-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182373,
+                                "name": "TTACE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 100036822,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-01-25T12:45:00-05:00",
+            "started": "2025-01-25T12:48:40-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137639,
+                                "name": "EZPZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 103978489,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2025-02-09T11:48:00-05:00",
+            "started": "2025-02-09T13:17:59-05:00",
+            "field": "FRIDAY",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76458,
+                                "name": "FSU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 100036827,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-01-25T14:04:00-05:00",
+            "started": "2025-01-25T14:05:59-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174550,
+                                "name": "ARC3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 100036833,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-01-25T14:28:00-05:00",
+            "started": "2025-01-25T14:33:20-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 114019660,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180422,
+                                "name": "ITMOR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 103978499,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2025-02-09T13:10:30-05:00",
+            "started": "2025-02-09T14:17:04-05:00",
+            "field": "FRIDAY",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 110590,
+                                "name": "WLFPK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978504,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-09T13:28:00-05:00",
+            "started": "2025-02-09T14:46:20-05:00",
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 100036840,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2025-01-25T14:56:00-05:00",
+            "started": "2025-01-25T15:02:37-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144932,
+                                "name": "BULL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 103978513,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 42,
+            "scheduled": "2025-02-09T13:59:30-05:00",
+            "started": "2025-02-09T15:31:57-05:00",
+            "field": "FRIDAY",
+            "scored": false,
+            "name": "Qualifier #42",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149455,
+                                "name": "BRYAN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 114019675,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 42,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #42",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 72552,
+                                "name": "UACH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 103978517,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 46,
+            "scheduled": "2025-02-09T14:13:30-05:00",
+            "started": "2025-02-09T16:01:17-05:00",
+            "field": "FRIDAY",
+            "scored": false,
+            "name": "Qualifier #46",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978524,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 53,
+            "scheduled": "2025-02-09T14:38:00-05:00",
+            "started": null,
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #53",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170436,
+                                "name": "ZIPS1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 114019702,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 69,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #69",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 63958,
+                                "name": "UMN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019726,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 93,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #93",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98505,
+                                "name": "SJTU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019766,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 133,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #133",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131736,
+                                "name": "POLY3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019785,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 152,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #152",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174403,
+                                "name": "UQU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019804,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 171,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #171",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164839,
+                                "name": "OSRC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019833,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 200,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #200",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162873,
+                                "name": "ATUM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019861,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 228,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #228",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 103978530,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "QF #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 110590,
+                                "name": "WLFPK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 100036854,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-25T16:26:27-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174550,
+                                "name": "ARC3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 103978533,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172390,
+                                "name": "KING",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 100036856,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-25T16:45:43-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104649,
+                                "name": "AUBIE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 103978534,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 100036857,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-25T16:58:37-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 103978535,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": null,
+            "started": "2025-02-09T18:54:15-05:00",
+            "field": null,
+            "scored": false,
+            "name": "Final #1-2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 100036858,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": null,
+            "started": "2025-01-25T17:12:23-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Final #1-2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 100036859,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": null,
+            "started": "2025-01-25T17:24:04-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Final #1-3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        }
+    ]
+}

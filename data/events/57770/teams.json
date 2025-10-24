@@ -1,0 +1,260 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/57770/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/57770/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/57770/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 9,
+        "total": 9
+    },
+    "data": [
+        {
+            "id": 99253,
+            "number": "BISON1",
+            "team_name": "Bison Robotics",
+            "robot_name": "Thundar and George Droyd",
+            "organization": "Bison Robotics",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Fargo",
+                "region": "North Dakota",
+                "postcode": "58105",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 46.9,
+                    "lon": -96.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 162386,
+            "number": "CYBER5",
+            "team_name": "VEX U Cyber Robotics Club at Iowa State University",
+            "robot_name": "CYBER",
+            "organization": "Iowa State University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Ames",
+                "region": "Iowa",
+                "postcode": "50011",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 42,
+                    "lon": -93.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 162290,
+            "number": "DEVIL5",
+            "team_name": "DevilBots",
+            "robot_name": "Blaze, Pepper Jack",
+            "organization": "University of Wisconsin-Stout",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Menomonie",
+                "region": "Wisconsin",
+                "postcode": "54751",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 44.9,
+                    "lon": -91.9
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 59198,
+            "number": "ESR1",
+            "team_name": "E Squared Robotics",
+            "robot_name": "",
+            "organization": "Saint Cloud Technical and Community College",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "St. Cloud",
+                "region": "Minnesota",
+                "postcode": "56303",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 45.6,
+                    "lon": -94.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 157098,
+            "number": "JACKS",
+            "team_name": "JACKS",
+            "robot_name": "JACKS",
+            "organization": "SDSU Robotics",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Brookings",
+                "region": "South Dakota",
+                "postcode": "57007",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 44.3,
+                    "lon": -96.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 176372,
+            "number": "KGEAR",
+            "team_name": "Potassium Gears",
+            "robot_name": "TBD AND TBD",
+            "organization": "Elemental Robotics Inc",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Madison Lake",
+                "region": "Minnesota",
+                "postcode": "56063",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 44.2,
+                    "lon": -93.9
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 75787,
+            "number": "MINES",
+            "team_name": "MINES Robotics",
+            "robot_name": "",
+            "organization": "South Dakota School of Mines and Technology",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Rapid City",
+                "region": "South Dakota",
+                "postcode": "57701",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 44.1,
+                    "lon": -103.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 63958,
+            "number": "UMN",
+            "team_name": "Gopher Gold",
+            "robot_name": "",
+            "organization": "University of Minnesota Robotics",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Minneapolis",
+                "region": "Minnesota",
+                "postcode": "55455",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 45,
+                    "lon": -93.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 167565,
+            "number": "UND",
+            "team_name": "Fighting Hawks",
+            "robot_name": "Iron Hide",
+            "organization": "University of North Dakota",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Grand Forks",
+                "region": "North Dakota",
+                "postcode": "58202",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 48,
+                    "lon": -97.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

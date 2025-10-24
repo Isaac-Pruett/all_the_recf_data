@@ -1,0 +1,433 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/130065/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/130065/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/130065/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 8,
+        "total": 8
+    },
+    "data": [
+        {
+            "id": 108738777,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2025-03-01T10:00:00-05:00",
+            "started": "2025-03-01T10:22:23-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130065,
+                                "name": "GULLS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77038,
+                                "name": "BV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738783,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 7,
+            "scheduled": "2025-03-01T10:27:00-05:00",
+            "started": "2025-03-01T11:00:14-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "Qualifier #7",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73839,
+                                "name": "WPI",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130065,
+                                "name": "GULLS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738788,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-03-01T10:49:30-05:00",
+            "started": "2025-03-01T11:27:35-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183404,
+                                "name": "PCAW",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130065,
+                                "name": "GULLS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738793,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-03-01T11:12:00-05:00",
+            "started": "2025-03-01T11:46:13-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130065,
+                                "name": "GULLS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738802,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-03-01T11:52:30-05:00",
+            "started": "2025-03-01T12:43:10-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130065,
+                                "name": "GULLS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738808,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 32,
+            "scheduled": "2025-03-01T13:18:00-05:00",
+            "started": "2025-03-01T13:25:36-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #32",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130065,
+                                "name": "GULLS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 54,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164364,
+                                "name": "SCAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738812,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2025-03-01T13:36:00-05:00",
+            "started": "2025-03-01T13:46:20-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 22168,
+                                "name": "CSM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130065,
+                                "name": "GULLS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738820,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2025-03-01T14:12:00-05:00",
+            "started": "2025-03-01T15:17:32-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142160,
+                                "name": "UDVEX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130065,
+                                "name": "GULLS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        }
+    ]
+}

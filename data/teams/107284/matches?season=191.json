@@ -1,0 +1,1577 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/107284/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/107284/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/107284/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 30,
+        "total": 30
+    },
+    "data": [
+        {
+            "id": 100269188,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-01-26T11:08:00-05:00",
+            "started": "2025-01-26T11:14:47-05:00",
+            "field": "COI",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 110147459,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 7,
+            "scheduled": "2025-03-08T09:51:00-05:00",
+            "started": "2025-03-08T10:07:03-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "Qualifier #7",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 100269196,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2025-01-26T11:40:00-05:00",
+            "started": "2025-01-26T11:57:02-05:00",
+            "field": "COI",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179226,
+                                "name": "LOUIE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 114019387,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182786,
+                                "name": "NOCSU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 100269201,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-01-26T12:00:00-05:00",
+            "started": "2025-01-26T12:25:00-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 110147468,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-03-08T10:21:15-05:00",
+            "started": "2025-03-08T10:38:06-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161225,
+                                "name": "PLATT2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 100269211,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-01-26T13:24:00-05:00",
+            "started": "2025-01-26T13:58:22-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 110147484,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 32,
+            "scheduled": "2025-03-08T11:13:15-05:00",
+            "started": "2025-03-08T11:39:03-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #32",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162290,
+                                "name": "DEVIL5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 100269218,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-01-26T13:52:00-05:00",
+            "started": "2025-01-26T14:29:55-05:00",
+            "field": "COI",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 126449,
+                                "name": "PPA",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 100269221,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2025-01-26T14:04:00-05:00",
+            "started": "2025-01-26T14:46:06-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77038,
+                                "name": "BV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 100269227,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 42,
+            "scheduled": "2025-01-26T14:28:00-05:00",
+            "started": "2025-01-26T15:20:54-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "Qualifier #42",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 110147496,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2025-03-08T11:50:00-05:00",
+            "started": "2025-03-08T12:29:41-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147253,
+                                "name": "KUDOS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019424,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 50,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #50",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164038,
+                                "name": "CARDS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 110147515,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 63,
+            "scheduled": "2025-03-08T13:45:00-05:00",
+            "started": "2025-03-08T14:00:26-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "Qualifier #63",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 20548,
+                                "name": "BLRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147521,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 69,
+            "scheduled": "2025-03-08T14:03:00-05:00",
+            "started": "2025-03-08T14:19:10-05:00",
+            "field": "Bayless",
+            "scored": false,
+            "name": "Qualifier #69",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175783,
+                                "name": "INTRT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019452,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 78,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #78",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174413,
+                                "name": "TVTCR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 110147538,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 86,
+            "scheduled": "2025-03-08T14:54:00-05:00",
+            "started": "2025-03-08T15:11:38-05:00",
+            "field": "Habibi",
+            "scored": false,
+            "name": "Qualifier #86",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104067,
+                                "name": "ILLIN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147552,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 100,
+            "scheduled": "2025-03-08T15:36:00-05:00",
+            "started": "2025-03-08T16:01:37-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #100",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176526,
+                                "name": "ARESZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019480,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 106,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #106",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104067,
+                                "name": "ILLIN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019493,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 119,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #119",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 74339,
+                                "name": "CSUNR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019513,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 139,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #139",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170294,
+                                "name": "MTG7",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 51,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019544,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 170,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #170",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 53020,
+                                "name": "UTCJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019579,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 205,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #205",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183726,
+                                "name": "ASE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019594,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 220,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #220",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161980,
+                                "name": "HUST1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019627,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 100269237,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-26T16:38:30-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 20548,
+                                "name": "BLRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        },
+        {
+            "id": 114019630,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98389,
+                                "name": "SJTU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019620,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 6,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "R16 #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157098,
+                                "name": "JACKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 110147563,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 6,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-08T16:58:22-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "R16 #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 100269233,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-26T16:10:17-05:00",
+            "field": "Polymaker",
+            "scored": false,
+            "name": "R16 #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 140754,
+                                "name": "ECTC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107284,
+                                "name": "UWAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
+        }
+    ]
+}

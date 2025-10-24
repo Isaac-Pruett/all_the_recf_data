@@ -1,0 +1,433 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/182227/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/182227/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/182227/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 8,
+        "total": 8
+    },
+    "data": [
+        {
+            "id": 103978477,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-02-09T11:00:00-05:00",
+            "started": "2025-02-09T11:27:00-05:00",
+            "field": "FRIDAY",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182227,
+                                "name": "MJ5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978480,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-09T11:12:00-05:00",
+            "started": "2025-02-09T11:47:24-05:00",
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 116384,
+                                "name": "HERD",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182227,
+                                "name": "MJ5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978490,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2025-02-09T11:52:00-05:00",
+            "started": "2025-02-09T13:21:43-05:00",
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182227,
+                                "name": "MJ5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172390,
+                                "name": "KING",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978497,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-02-09T13:03:30-05:00",
+            "started": "2025-02-09T14:07:20-05:00",
+            "field": "FRIDAY",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 52,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170436,
+                                "name": "ZIPS1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182227,
+                                "name": "MJ5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978501,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-02-09T13:17:30-05:00",
+            "started": "2025-02-09T14:29:03-05:00",
+            "field": "FRIDAY",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182227,
+                                "name": "MJ5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 167487,
+                                "name": "VTCRO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978510,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2025-02-09T13:49:00-05:00",
+            "started": "2025-02-09T15:18:21-05:00",
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137639,
+                                "name": "EZPZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182227,
+                                "name": "MJ5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978520,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": "2025-02-09T14:24:00-05:00",
+            "started": "2025-02-09T16:41:41-05:00",
+            "field": "JARVIS",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 110590,
+                                "name": "WLFPK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 2,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182227,
+                                "name": "MJ5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        },
+        {
+            "id": 103978523,
+            "event": {
+                "id": 57605,
+                "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+                "code": "RE-VURC-24-7605"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 52,
+            "scheduled": "2025-02-09T14:34:30-05:00",
+            "started": null,
+            "field": "FRIDAY",
+            "scored": false,
+            "name": "Qualifier #52",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76395,
+                                "name": "OWL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182227,
+                                "name": "MJ5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-10T16:35:00-05:00"
+        }
+    ]
+}

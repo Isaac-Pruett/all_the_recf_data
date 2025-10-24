@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/59176/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/59176/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/59176/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 1,
+        "total": 1
+    },
+    "data": [
+        {
+            "id": 70064,
+            "number": "UCSA",
+            "team_name": "UCSA",
+            "robot_name": "UCSA",
+            "organization": "Universidad del Cono Sur de Las Americas",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Asunci\u00f3n",
+                "region": null,
+                "postcode": "7700",
+                "country": "Paraguay",
+                "coordinates": {
+                    "lat": -25.3,
+                    "lon": -57.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

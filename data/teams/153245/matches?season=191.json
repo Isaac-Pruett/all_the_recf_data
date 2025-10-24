@@ -1,0 +1,953 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/153245/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/153245/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/153245/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 18,
+        "total": 18
+    },
+    "data": [
+        {
+            "id": 93870630,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2024-12-15T09:47:00-05:00",
+            "started": "2024-12-15T10:37:10-05:00",
+            "field": "Major Muskrat",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 105062099,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-02-15T11:22:30-05:00",
+            "started": "2025-02-15T11:26:07-05:00",
+            "field": "Prismier",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148865,
+                                "name": "BU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062102,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-15T11:36:00-05:00",
+            "started": "2025-02-15T11:37:49-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 93870640,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2024-12-15T10:29:30-05:00",
+            "started": "2024-12-15T11:32:42-05:00",
+            "field": "Explore Monroe",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144133,
+                                "name": "ARC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 105062110,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-15T12:12:00-05:00",
+            "started": "2025-02-15T12:08:03-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 93870645,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2024-12-15T10:50:45-05:00",
+            "started": "2024-12-15T11:52:01-05:00",
+            "field": "Major Muskrat",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35506,
+                                "name": "MTSAC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 105062114,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-02-15T12:30:00-05:00",
+            "started": "2025-02-15T12:23:18-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137639,
+                                "name": "EZPZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 93870650,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 25,
+            "scheduled": "2024-12-15T11:12:00-05:00",
+            "started": "2024-12-15T12:11:52-05:00",
+            "field": "MEC",
+            "scored": false,
+            "name": "Qualifier #25",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174550,
+                                "name": "ARC3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 105062118,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 25,
+            "scheduled": "2025-02-15T12:48:00-05:00",
+            "started": "2025-02-15T12:37:08-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #25",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 140754,
+                                "name": "ECTC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062126,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-15T14:22:30-05:00",
+            "started": "2025-02-15T14:22:32-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 48,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 20548,
+                                "name": "BLRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 93870662,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2024-12-15T12:03:00-05:00",
+            "started": "2024-12-15T13:42:22-05:00",
+            "field": "MEC",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147253,
+                                "name": "KUDOS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 105062132,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2025-02-15T14:49:30-05:00",
+            "started": "2025-02-15T14:43:45-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 111432,
+                                "name": "VALPO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 105062139,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 46,
+            "scheduled": "2025-02-15T15:21:00-05:00",
+            "started": "2025-02-15T15:09:47-05:00",
+            "field": "Prismier",
+            "scored": false,
+            "name": "Qualifier #46",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144133,
+                                "name": "ARC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 93870673,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 48,
+            "scheduled": "2024-12-15T12:49:45-05:00",
+            "started": "2024-12-15T14:25:57-05:00",
+            "field": "Explore Monroe",
+            "scored": false,
+            "name": "Qualifier #48",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104067,
+                                "name": "ILLIN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 93870677,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 52,
+            "scheduled": "2024-12-15T14:04:15-05:00",
+            "started": "2024-12-15T14:39:53-05:00",
+            "field": "MEC",
+            "scored": false,
+            "name": "Qualifier #52",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179226,
+                                "name": "LOUIE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 93870687,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 62,
+            "scheduled": "2024-12-15T14:46:45-05:00",
+            "started": "2024-12-15T15:18:59-05:00",
+            "field": "Major Muskrat",
+            "scored": false,
+            "name": "Qualifier #62",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        },
+        {
+            "id": 105062142,
+            "event": {
+                "id": 59063,
+                "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+                "code": "RE-VURC-24-9063"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T15:47:25-05:00",
+            "field": "ISE",
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 125306,
+                                "name": "NUKE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T17:27:39-05:00"
+        },
+        {
+            "id": 93870694,
+            "event": {
+                "id": 55649,
+                "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5649"
+            },
+            "division": {
+                "id": 1,
+                "name": "Procter",
+                "code": null
+            },
+            "round": 6,
+            "instance": 5,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-15T16:02:13-05:00",
+            "field": "Major Muskrat",
+            "scored": false,
+            "name": "R16 #5-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153245,
+                                "name": "ARC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-16T18:40:59-05:00"
+        }
+    ]
+}

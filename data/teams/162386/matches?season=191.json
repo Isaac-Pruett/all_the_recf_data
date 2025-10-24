@@ -1,0 +1,433 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/162386/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/162386/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/162386/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 8,
+        "total": 8
+    },
+    "data": [
+        {
+            "id": 107549682,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-27T15:10:00-05:00",
+            "started": "2025-02-27T15:45:37-05:00",
+            "field": "Coldspring",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162386,
+                                "name": "CYBER5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 107549684,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-02-27T15:16:40-05:00",
+            "started": "2025-02-27T16:05:06-05:00",
+            "field": "UND",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162386,
+                                "name": "CYBER5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 99253,
+                                "name": "BISON1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 107549690,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-02-27T15:36:40-05:00",
+            "started": "2025-02-27T16:36:52-05:00",
+            "field": "UND",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 63958,
+                                "name": "UMN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162386,
+                                "name": "CYBER5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 107549694,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-02-27T15:50:00-05:00",
+            "started": "2025-02-27T16:55:32-05:00",
+            "field": "Coldspring",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162386,
+                                "name": "CYBER5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59198,
+                                "name": "ESR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 107549697,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2025-02-27T16:00:00-05:00",
+            "started": "2025-02-27T17:10:26-05:00",
+            "field": "Coldspring",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 49,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157098,
+                                "name": "JACKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 2,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162386,
+                                "name": "CYBER5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 107549701,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-27T16:13:20-05:00",
+            "started": "2025-02-27T17:25:46-05:00",
+            "field": "Park Industries",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162386,
+                                "name": "CYBER5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 167565,
+                                "name": "UND",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 107549706,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2025-02-27T16:30:00-05:00",
+            "started": null,
+            "field": "Coldspring",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162386,
+                                "name": "CYBER5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162290,
+                                "name": "DEVIL5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 107549711,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-27T16:46:40-05:00",
+            "started": null,
+            "field": "UND",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162386,
+                                "name": "CYBER5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        }
+    ]
+}

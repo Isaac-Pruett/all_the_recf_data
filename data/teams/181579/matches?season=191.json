@@ -1,0 +1,693 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/181579/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/181579/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/181579/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 13,
+        "total": 13
+    },
+    "data": [
+        {
+            "id": 104002681,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 1,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-02-08T02:40:00-05:00",
+            "started": "2025-02-08T03:13:07-05:00",
+            "field": "Warba",
+            "scored": false,
+            "name": "Practice #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 119490,
+                                "name": "AUM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002689,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-02-08T03:20:00-05:00",
+            "started": "2025-02-08T05:54:02-05:00",
+            "field": "Warba",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180425,
+                                "name": "KTECH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002693,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-08T03:40:00-05:00",
+            "started": "2025-02-08T06:29:42-05:00",
+            "field": "Warba",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181580,
+                                "name": "AUK2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002699,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-02-08T04:10:00-05:00",
+            "started": "2025-02-08T07:12:30-05:00",
+            "field": "Warba",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 119490,
+                                "name": "AUM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002703,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2025-02-08T07:10:00-05:00",
+            "started": "2025-02-08T07:40:03-05:00",
+            "field": "Warba",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163205,
+                                "name": "KU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002707,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-08T07:30:00-05:00",
+            "started": "2025-02-08T08:03:24-05:00",
+            "field": "Warba",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181784,
+                                "name": "AUU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002712,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2025-02-08T07:55:00-05:00",
+            "started": "2025-02-08T08:36:02-05:00",
+            "field": "Warba",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183726,
+                                "name": "ASE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002717,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-08T08:20:00-05:00",
+            "started": "2025-02-08T09:07:01-05:00",
+            "field": "Warba",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181759,
+                                "name": "TRY6",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002724,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2025-02-09T02:15:00-05:00",
+            "started": "2025-02-09T02:25:49-05:00",
+            "field": "Warba",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 119490,
+                                "name": "AUM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002726,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 42,
+            "scheduled": "2025-02-09T02:25:00-05:00",
+            "started": "2025-02-09T02:41:04-05:00",
+            "field": "Warba",
+            "scored": false,
+            "name": "Qualifier #42",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152336,
+                                "name": "GUST1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002734,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 50,
+            "scheduled": "2025-02-09T03:05:00-05:00",
+            "started": "2025-02-09T03:42:33-05:00",
+            "field": "Warba",
+            "scored": false,
+            "name": "Qualifier #50",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180426,
+                                "name": "KTECH2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002736,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-09T07:12:43-05:00",
+            "field": null,
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181784,
+                                "name": "AUU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        },
+        {
+            "id": 104002739,
+            "event": {
+                "id": 59536,
+                "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+                "code": "RE-VURC-24-9536"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-09T08:20:44-05:00",
+            "field": null,
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181579,
+                                "name": "AUK1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 119490,
+                                "name": "AUM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-11T13:10:56-05:00"
+        }
+    ]
+}

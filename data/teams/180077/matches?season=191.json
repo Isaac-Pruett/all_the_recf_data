@@ -1,0 +1,1057 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/180077/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/180077/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/180077/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 20,
+        "total": 20
+    },
+    "data": [
+        {
+            "id": 94359403,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2024-12-20T21:00:00-05:00",
+            "started": "2024-12-20T21:00:08-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 166056,
+                                "name": "HDU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 114019648,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98505,
+                                "name": "SJTU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 94359420,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2024-12-20T22:42:00-05:00",
+            "started": "2024-12-20T22:35:40-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181785,
+                                "name": "SMP1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359427,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2024-12-21T00:24:00-05:00",
+            "started": "2024-12-21T00:20:32-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153817,
+                                "name": "SZTU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 114019680,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 47,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #47",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169789,
+                                "name": "VISTA",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 54,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 94359441,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": "2024-12-21T01:48:00-05:00",
+            "started": "2024-12-21T01:39:57-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147627,
+                                "name": "SEU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 114019693,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 60,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #60",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182757,
+                                "name": "SEEDT1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 94359461,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 69,
+            "scheduled": "2024-12-21T03:48:00-05:00",
+            "started": "2024-12-21T03:35:34-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #69",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 166055,
+                                "name": "HDU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359479,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 87,
+            "scheduled": "2024-12-21T20:06:00-05:00",
+            "started": "2024-12-21T20:02:02-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #87",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98389,
+                                "name": "SJTU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359486,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 94,
+            "scheduled": "2024-12-21T20:48:00-05:00",
+            "started": "2024-12-21T20:48:04-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #94",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 140249,
+                                "name": "HITSZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 114019730,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 97,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #97",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178837,
+                                "name": "PLATT3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019746,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 113,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #113",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174397,
+                                "name": "KFUPM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 94359507,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 115,
+            "scheduled": "2024-12-21T22:54:00-05:00",
+            "started": "2024-12-21T22:42:03-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #115",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 100169,
+                                "name": "TJU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 114019775,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 142,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #142",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 55,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73839,
+                                "name": "WPI",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019808,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 175,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #175",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 63958,
+                                "name": "UMN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019828,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 195,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #195",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 48,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 127717,
+                                "name": "UTCHE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019861,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 228,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #228",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019893,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153981,
+                                "name": "TNTN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 94359513,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 5,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-22T00:30:50-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "R16 #5-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98389,
+                                "name": "SJTU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 114019889,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 2,
+                "name": "Technology",
+                "code": null
+            },
+            "round": 6,
+            "instance": 8,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "R16 #8-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73839,
+                                "name": "WPI",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180077,
+                                "name": "CQU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        }
+    ]
+}

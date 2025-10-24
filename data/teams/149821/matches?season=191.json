@@ -1,0 +1,1993 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/149821/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/149821/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/149821/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 38,
+        "total": 38
+    },
+    "data": [
+        {
+            "id": 90358070,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2024-11-23T15:20:00-05:00",
+            "started": "2024-11-23T15:34:02-05:00",
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170294,
+                                "name": "MTG7",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 106988067,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-02-22T10:17:00-05:00",
+            "started": "2025-02-22T10:49:41-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 106988069,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-02-22T10:34:00-05:00",
+            "started": "2025-02-22T11:11:37-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179009,
+                                "name": "SKERS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 90358077,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2024-11-23T15:55:00-05:00",
+            "started": "2024-11-23T16:20:44-05:00",
+            "field": "Bartlett and West",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 106988073,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-22T11:08:00-05:00",
+            "started": "2025-02-22T11:52:02-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 110147461,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-03-08T09:58:00-05:00",
+            "started": "2025-03-08T10:12:50-05:00",
+            "field": "Bayless",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170436,
+                                "name": "ZIPS1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019385,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": null,
+            "started": null,
+            "field": "NASA",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179024,
+                                "name": "PSAU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 90358081,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2024-11-23T16:15:00-05:00",
+            "started": "2024-11-23T16:43:35-05:00",
+            "field": "Bartlett and West",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157098,
+                                "name": "JACKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 106988078,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2025-02-22T11:50:30-05:00",
+            "started": "2025-02-22T12:43:23-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182359,
+                                "name": "RVRSE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 90358086,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2024-11-23T16:40:00-05:00",
+            "started": "2024-11-23T17:22:46-05:00",
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143065,
+                                "name": "WCOE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 106988084,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2025-02-22T12:41:30-05:00",
+            "started": "2025-02-22T14:28:12-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 90358091,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2024-11-23T17:05:00-05:00",
+            "started": "2024-11-23T17:55:59-05:00",
+            "field": "Bartlett and West",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 106988088,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-02-22T13:08:00-05:00",
+            "started": "2025-02-22T15:07:35-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182359,
+                                "name": "RVRSE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 106988090,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-02-22T13:24:00-05:00",
+            "started": "2025-02-22T15:25:42-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 90358094,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2024-11-23T17:20:00-05:00",
+            "started": "2024-11-23T18:17:36-05:00",
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170003,
+                                "name": "HNDSM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 110147479,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-03-08T10:57:00-05:00",
+            "started": "2025-03-08T11:20:50-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 106988095,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-02-22T14:04:00-05:00",
+            "started": "2025-02-22T16:09:52-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 90358102,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2024-11-23T18:00:00-05:00",
+            "started": "2024-11-23T19:17:19-05:00",
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179009,
+                                "name": "SKERS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 106988099,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2025-02-22T14:36:00-05:00",
+            "started": null,
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175783,
+                                "name": "INTRT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 110147488,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2025-03-08T11:26:15-05:00",
+            "started": "2025-03-08T11:52:55-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176526,
+                                "name": "ARESZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 90358104,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2024-11-23T18:10:00-05:00",
+            "started": null,
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 158187,
+                                "name": "AYO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 106988103,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2025-02-22T15:08:00-05:00",
+            "started": null,
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 90358109,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 41,
+            "scheduled": "2024-11-23T18:35:00-05:00",
+            "started": null,
+            "field": "Bartlett and West",
+            "scored": false,
+            "name": "Qualifier #41",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175783,
+                                "name": "INTRT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 110147500,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 48,
+            "scheduled": "2025-03-08T12:02:00-05:00",
+            "started": "2025-03-08T12:42:10-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #48",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162290,
+                                "name": "DEVIL5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019423,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 106975,
+                                "name": "CPSLO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 110147507,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 55,
+            "scheduled": "2025-03-08T12:23:00-05:00",
+            "started": "2025-03-08T13:01:48-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "Qualifier #55",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019438,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 64,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #64",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58240,
+                                "name": "PYRO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 110147520,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 68,
+            "scheduled": "2025-03-08T14:00:00-05:00",
+            "started": "2025-03-08T14:16:02-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #68",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178837,
+                                "name": "PLATT3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147534,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 82,
+            "scheduled": "2025-03-08T14:42:00-05:00",
+            "started": "2025-03-08T14:58:47-05:00",
+            "field": "Habibi",
+            "scored": false,
+            "name": "Qualifier #82",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 20548,
+                                "name": "BLRS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147547,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 95,
+            "scheduled": "2025-03-08T15:21:00-05:00",
+            "started": "2025-03-08T15:48:19-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "Qualifier #95",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179226,
+                                "name": "LOUIE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 114019473,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 99,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #99",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 22168,
+                                "name": "CSM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019486,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 112,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #112",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 167282,
+                                "name": "UREI",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019528,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 154,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #154",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179226,
+                                "name": "LOUIE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019542,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 168,
+            "scheduled": null,
+            "started": null,
+            "field": "Eaton",
+            "scored": false,
+            "name": "Qualifier #168",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019588,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 214,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #214",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 52230,
+                                "name": "TMAT3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 114019612,
+            "event": {
+                "id": 58911,
+                "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+                "code": "RE-VURC-24-8911"
+            },
+            "division": {
+                "id": 1,
+                "name": "Math",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 238,
+            "scheduled": null,
+            "started": null,
+            "field": "Google",
+            "scored": false,
+            "name": "Qualifier #238",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 91233,
+                                "name": "VEDRU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-05-11T19:34:33-04:00"
+        },
+        {
+            "id": 90358115,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-23T20:00:50-05:00",
+            "field": "Standard Motor Products",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 158187,
+                                "name": "AYO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 106988108,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:03:38-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175783,
+                                "name": "INTRT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        }
+    ]
+}

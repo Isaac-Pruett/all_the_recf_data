@@ -1,0 +1,1525 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/75787/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/75787/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/75787/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 29,
+        "total": 29
+    },
+    "data": [
+        {
+            "id": 107549679,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2025-02-27T15:00:00-05:00",
+            "started": "2025-02-27T15:10:05-05:00",
+            "field": "Coldspring",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 63958,
+                                "name": "UMN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 110147453,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2025-03-08T09:30:00-05:00",
+            "started": "2025-03-08T09:34:50-05:00",
+            "field": "Bayless",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 112815,
+                                "name": "HAIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 106988068,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-22T10:25:30-05:00",
+            "started": "2025-02-22T10:59:27-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 107549683,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-02-27T15:13:20-05:00",
+            "started": "2025-02-27T15:53:24-05:00",
+            "field": "Park Industries",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 167565,
+                                "name": "UND",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 106988070,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-02-22T10:42:30-05:00",
+            "started": "2025-02-22T11:21:44-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175783,
+                                "name": "INTRT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 106988073,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-22T11:08:00-05:00",
+            "started": "2025-02-22T11:52:02-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 107549688,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-27T15:30:00-05:00",
+            "started": "2025-02-27T16:29:52-05:00",
+            "field": "Coldspring",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 99253,
+                                "name": "BISON1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 106988077,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-02-22T11:42:00-05:00",
+            "started": "2025-02-22T12:35:10-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175783,
+                                "name": "INTRT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 110147466,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2025-03-08T10:15:30-05:00",
+            "started": "2025-03-08T10:30:58-05:00",
+            "field": "Habibi",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147253,
+                                "name": "KUDOS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 107549692,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2025-02-27T15:43:20-05:00",
+            "started": "2025-02-27T16:46:14-05:00",
+            "field": "Park Industries",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59198,
+                                "name": "ESR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 106988083,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2025-02-22T12:33:00-05:00",
+            "started": "2025-02-22T14:21:06-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182359,
+                                "name": "RVRSE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 106988085,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-02-22T12:50:00-05:00",
+            "started": "2025-02-22T14:41:42-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 107549699,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-02-27T16:06:40-05:00",
+            "started": "2025-02-27T17:18:29-05:00",
+            "field": "UND",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162290,
+                                "name": "DEVIL5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 107549704,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-02-27T16:23:20-05:00",
+            "started": "2025-02-27T17:36:42-05:00",
+            "field": "Park Industries",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157098,
+                                "name": "JACKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 106988091,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-02-22T13:32:00-05:00",
+            "started": "2025-02-22T15:36:28-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 106988093,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2025-02-22T13:48:00-05:00",
+            "started": "2025-02-22T15:53:46-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179009,
+                                "name": "SKERS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 110147482,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-03-08T11:06:45-05:00",
+            "started": "2025-03-08T11:30:26-05:00",
+            "field": "Habibi",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161225,
+                                "name": "PLATT2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 107549708,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-02-27T16:36:40-05:00",
+            "started": null,
+            "field": "UND",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 107549711,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-27T16:46:40-05:00",
+            "started": null,
+            "field": "UND",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162386,
+                                "name": "CYBER5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 106988097,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-22T14:20:00-05:00",
+            "started": null,
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 106988102,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2025-02-22T15:00:00-05:00",
+            "started": null,
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 110147501,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": "2025-03-08T12:05:00-05:00",
+            "started": "2025-03-08T12:44:43-05:00",
+            "field": "Bayless",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147519,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 67,
+            "scheduled": "2025-03-08T13:57:00-05:00",
+            "started": "2025-03-08T14:13:07-05:00",
+            "field": "Rassi",
+            "scored": false,
+            "name": "Qualifier #67",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147532,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 80,
+            "scheduled": "2025-03-08T14:36:00-05:00",
+            "started": "2025-03-08T14:52:42-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #80",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178837,
+                                "name": "PLATT3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147541,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 89,
+            "scheduled": "2025-03-08T15:03:00-05:00",
+            "started": "2025-03-08T15:20:25-05:00",
+            "field": "Bayless",
+            "scored": false,
+            "name": "Qualifier #89",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 154295,
+                                "name": "WLDCT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 110147560,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 108,
+            "scheduled": "2025-03-08T16:00:00-05:00",
+            "started": "2025-03-08T16:25:16-05:00",
+            "field": "Johnson",
+            "scored": false,
+            "name": "Qualifier #108",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170470,
+                                "name": "DKFNX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        },
+        {
+            "id": 106988106,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T16:48:21-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 107549716,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-27T18:45:45-05:00",
+            "field": "UND",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 110147565,
+            "event": {
+                "id": 58590,
+                "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+                "code": "RE-VURC-24-8590"
+            },
+            "division": {
+                "id": 1,
+                "name": "The Slammer",
+                "code": null
+            },
+            "round": 6,
+            "instance": 5,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-08T17:06:16-05:00",
+            "field": "Bayless",
+            "scored": false,
+            "name": "R16 #5-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161224,
+                                "name": "PLATT1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-08T19:06:57-05:00"
+        }
+    ]
+}

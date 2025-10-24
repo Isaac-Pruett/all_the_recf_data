@@ -1,0 +1,260 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/57462/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/57462/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/57462/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 9,
+        "total": 9
+    },
+    "data": [
+        {
+            "id": 149455,
+            "number": "BRYAN1",
+            "team_name": "Bryan College Team 1",
+            "robot_name": "Bryan1",
+            "organization": "Bryan College",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Dayton",
+                "region": "Tennessee",
+                "postcode": "37321",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 35.5,
+                    "lon": -85
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 77038,
+            "number": "BV1",
+            "team_name": "Vexasaurus Rex",
+            "robot_name": "",
+            "organization": "BridgeValley Community and Technical College",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "South Charleston",
+                "region": "West Virginia",
+                "postcode": "25303",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 38.4,
+                    "lon": -81.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 156006,
+            "number": "BV2",
+            "team_name": "MechaVexzilla",
+            "robot_name": "",
+            "organization": "BridgeValley Community and Technical College",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "South Charleston",
+                "region": "West Virginia",
+                "postcode": "25303",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 38.4,
+                    "lon": -81.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 76458,
+            "number": "FSU",
+            "team_name": "Falcotronix",
+            "robot_name": "",
+            "organization": "Fairmont State University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Fairmont",
+                "region": "West Virginia",
+                "postcode": "26554",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 39.5,
+                    "lon": -80.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 116384,
+            "number": "HERD",
+            "team_name": "Bison Robotics",
+            "robot_name": "Marco",
+            "organization": "VEX Robotics Club at Marshall University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Huntington",
+                "region": "West Virginia",
+                "postcode": "25755",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 38.4,
+                    "lon": -82.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 107284,
+            "number": "UWAT",
+            "team_name": "University of Waterloo",
+            "robot_name": "SHEEEEESH",
+            "organization": "University of Waterloo",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Waterloo",
+                "region": "Ontario",
+                "postcode": "N2L 3G1",
+                "country": "Canada",
+                "coordinates": {
+                    "lat": 43.5,
+                    "lon": -80.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 154295,
+            "number": "WLDCT",
+            "team_name": "Wildcat Robotics",
+            "robot_name": "",
+            "organization": "University of Kentucky",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Lexington",
+                "region": "Kentucky",
+                "postcode": "40505",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 38.1,
+                    "lon": -84.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 165179,
+            "number": "WVUTE1",
+            "team_name": "WVUTECH",
+            "robot_name": "",
+            "organization": "West Virginia University Institute of Technology",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Beckley",
+                "region": "West Virginia",
+                "postcode": "25801",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 37.8,
+                    "lon": -81.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 170436,
+            "number": "ZIPS1",
+            "team_name": "Phalanx Robotics",
+            "robot_name": "",
+            "organization": "The University of Akron",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Akron",
+                "region": "Ohio",
+                "postcode": "44325",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 41.1,
+                    "lon": -81.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

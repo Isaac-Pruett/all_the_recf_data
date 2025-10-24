@@ -1,0 +1,901 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/89985/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/89985/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/89985/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 17,
+        "total": 17
+    },
+    "data": [
+        {
+            "id": 105435040,
+            "event": {
+                "id": 57670,
+                "name": "Torneo Nacional ROB\u00d3TICA EXREMA VEX U",
+                "code": "RE-VURC-24-7670"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 1,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-02-19T12:11:00-05:00",
+            "started": "2025-02-19T12:47:00-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Practice #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152161,
+                                "name": "IQ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-20T19:07:38-05:00"
+        },
+        {
+            "id": 106928961,
+            "event": {
+                "id": 55722,
+                "name": "Columbia VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5722"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 1,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-02-21T12:56:00-05:00",
+            "started": "2025-02-21T13:20:54-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Practice #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 53020,
+                                "name": "UTCJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T17:29:03-05:00"
+        },
+        {
+            "id": 105435043,
+            "event": {
+                "id": 57670,
+                "name": "Torneo Nacional ROB\u00d3TICA EXREMA VEX U",
+                "code": "RE-VURC-24-7670"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 1,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-02-19T12:50:00-05:00",
+            "started": null,
+            "field": "Main Field",
+            "scored": false,
+            "name": "Practice #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 116351,
+                                "name": "SENAV2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-20T19:07:38-05:00"
+        },
+        {
+            "id": 105435044,
+            "event": {
+                "id": 57670,
+                "name": "Torneo Nacional ROB\u00d3TICA EXREMA VEX U",
+                "code": "RE-VURC-24-7670"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2025-02-19T15:30:00-05:00",
+            "started": "2025-02-19T15:47:55-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152161,
+                                "name": "IQ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-20T19:07:38-05:00"
+        },
+        {
+            "id": 106928964,
+            "event": {
+                "id": 55722,
+                "name": "Columbia VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5722"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-02-21T15:48:00-05:00",
+            "started": "2025-02-21T16:16:32-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165665,
+                                "name": "TCGMC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T17:29:03-05:00"
+        },
+        {
+            "id": 105435047,
+            "event": {
+                "id": 57670,
+                "name": "Torneo Nacional ROB\u00d3TICA EXREMA VEX U",
+                "code": "RE-VURC-24-7670"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-19T16:30:00-05:00",
+            "started": "2025-02-20T10:07:43-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152161,
+                                "name": "IQ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-20T19:07:38-05:00"
+        },
+        {
+            "id": 105435050,
+            "event": {
+                "id": 57670,
+                "name": "Torneo Nacional ROB\u00d3TICA EXREMA VEX U",
+                "code": "RE-VURC-24-7670"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 7,
+            "scheduled": "2025-02-20T08:10:00-05:00",
+            "started": "2025-02-20T11:18:47-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #7",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 116351,
+                                "name": "SENAV2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-20T19:07:38-05:00"
+        },
+        {
+            "id": 106928969,
+            "event": {
+                "id": 55722,
+                "name": "Columbia VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5722"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-21T16:58:00-05:00",
+            "started": "2025-02-21T17:21:49-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152161,
+                                "name": "IQ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T17:29:03-05:00"
+        },
+        {
+            "id": 106928972,
+            "event": {
+                "id": 55722,
+                "name": "Columbia VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5722"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2025-02-21T17:40:00-05:00",
+            "started": "2025-02-22T08:20:41-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 116351,
+                                "name": "SENAV2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T17:29:03-05:00"
+        },
+        {
+            "id": 105435054,
+            "event": {
+                "id": 57670,
+                "name": "Torneo Nacional ROB\u00d3TICA EXREMA VEX U",
+                "code": "RE-VURC-24-7670"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2025-02-20T09:26:00-05:00",
+            "started": "2025-02-20T12:13:52-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 65221,
+                                "name": "PUJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-20T19:07:38-05:00"
+        },
+        {
+            "id": 105435058,
+            "event": {
+                "id": 57670,
+                "name": "Torneo Nacional ROB\u00d3TICA EXREMA VEX U",
+                "code": "RE-VURC-24-7670"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-02-20T10:42:00-05:00",
+            "started": "2025-02-20T15:10:14-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151461,
+                                "name": "AA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-20T19:07:38-05:00"
+        },
+        {
+            "id": 106928978,
+            "event": {
+                "id": 55722,
+                "name": "Columbia VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5722"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-22T09:28:00-05:00",
+            "started": "2025-02-22T09:44:31-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151461,
+                                "name": "AA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T17:29:03-05:00"
+        },
+        {
+            "id": 105435061,
+            "event": {
+                "id": 57670,
+                "name": "Torneo Nacional ROB\u00d3TICA EXREMA VEX U",
+                "code": "RE-VURC-24-7670"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2025-02-20T11:39:00-05:00",
+            "started": null,
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 168025,
+                                "name": "IQIUB1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-20T19:07:38-05:00"
+        },
+        {
+            "id": 105435063,
+            "event": {
+                "id": 57670,
+                "name": "Torneo Nacional ROB\u00d3TICA EXREMA VEX U",
+                "code": "RE-VURC-24-7670"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2025-02-20T12:17:00-05:00",
+            "started": null,
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 65221,
+                                "name": "PUJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-20T19:07:38-05:00"
+        },
+        {
+            "id": 106928983,
+            "event": {
+                "id": 55722,
+                "name": "Columbia VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5722"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2025-02-22T10:53:00-05:00",
+            "started": "2025-02-22T11:47:06-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 53020,
+                                "name": "UTCJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T17:29:03-05:00"
+        },
+        {
+            "id": 106928987,
+            "event": {
+                "id": 55722,
+                "name": "Columbia VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5722"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-02-22T12:01:00-05:00",
+            "started": "2025-02-22T12:38:58-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 168025,
+                                "name": "IQIUB1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T17:29:03-05:00"
+        },
+        {
+            "id": 106928992,
+            "event": {
+                "id": 55722,
+                "name": "Columbia VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5722"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T15:23:33-05:00",
+            "field": null,
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 89985,
+                                "name": "SENAV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150432,
+                                "name": "UTCJ2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T17:29:03-05:00"
+        }
+    ]
+}

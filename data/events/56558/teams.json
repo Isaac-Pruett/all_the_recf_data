@@ -1,0 +1,611 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/56558/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/56558/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/56558/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 22,
+        "total": 22
+    },
+    "data": [
+        {
+            "id": 151461,
+            "number": "AA1",
+            "team_name": "EIABOTICS",
+            "robot_name": "",
+            "organization": "Universidad EIA",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Medellin",
+                "region": null,
+                "postcode": "055427",
+                "country": "Colombia",
+                "coordinates": {
+                    "lat": 6.2,
+                    "lon": -75.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 86615,
+            "number": "IEST1",
+            "team_name": "IEST1",
+            "robot_name": "RBTK & NOVA",
+            "organization": "Instituto de Estudios Superiores de Tamaulipas",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Altamira",
+                "region": "Tamaulipas",
+                "postcode": "89605",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 22.3,
+                    "lon": -97.9
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 90205,
+            "number": "ITESM1",
+            "team_name": "TEC 1",
+            "robot_name": "",
+            "organization": "TEC DE MONTERREY CAMPUS SALTILLO",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Saltillo",
+                "region": "Coahuila",
+                "postcode": "25270",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 25.4,
+                    "lon": -101
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 65152,
+            "number": "ITESM2",
+            "team_name": "TEC 2",
+            "robot_name": "",
+            "organization": "TEC DE MONTERREY CAMPUS SALTILLO",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Saltillo",
+                "region": "Coahuila",
+                "postcode": "25270",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 25.4,
+                    "lon": -101
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 178732,
+            "number": "ITSCJ1",
+            "team_name": "ITSCJ1",
+            "robot_name": null,
+            "organization": "Instituto Tecnol\u00f3gico De Ciudad Jim\u00e9nez",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Ciudad Jim\u00e9nez",
+                "region": "Chihuahua",
+                "postcode": "33986",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 27.1,
+                    "lon": -104.9
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 126341,
+            "number": "ITSMQ",
+            "team_name": "TMQ",
+            "robot_name": "",
+            "organization": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey Campus Quer\u00e9taro",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Quer\u00e9taro",
+                "region": "Quer\u00e9taro",
+                "postcode": "76130",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 20.6,
+                    "lon": -100.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 165665,
+            "number": "TCGMC2",
+            "team_name": "TCMG2",
+            "robot_name": "El I\u00f3nico",
+            "organization": "UTCAM",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Camargo",
+                "region": "Chihuahua",
+                "postcode": "33730",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 27.7,
+                    "lon": -105.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 55726,
+            "number": "TCMG1",
+            "team_name": "TCMG1",
+            "robot_name": "UTCAM1",
+            "organization": "Universidad Tecnol\u00f3gica de Camargo",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Camargo",
+                "region": "Chihuahua",
+                "postcode": "33770",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 27.7,
+                    "lon": -105.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 151616,
+            "number": "TECMI3",
+            "team_name": "Nova Legacy Fusion",
+            "robot_name": "",
+            "organization": "UNIVERSIDAD TECMILENIO LAS TORRES",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Monterrey",
+                "region": "Nuevo Le\u00f3n",
+                "postcode": "64700",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 25.6,
+                    "lon": -100.3
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 27472,
+            "number": "TMAT1",
+            "team_name": "TMAT1",
+            "robot_name": "",
+            "organization": "Universidad Tecnologica De Matamoros",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Matamoros",
+                "region": "Tamaulipas",
+                "postcode": "87569",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 25.9,
+                    "lon": -97.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 72552,
+            "number": "UACH1",
+            "team_name": "UACH1",
+            "robot_name": "",
+            "organization": "Universidad Autonoma de Chihuahua",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Chihuahua",
+                "region": "Chihuahua",
+                "postcode": "31000",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 28.6,
+                    "lon": -106.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 150422,
+            "number": "UPCH1",
+            "team_name": "MECHARCONIS",
+            "robot_name": null,
+            "organization": "UNIVERSIDAD POLITECNICA DE CHIHUAHUA",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Chihuahua",
+                "region": "Chihuahua",
+                "postcode": "31220",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 28.6,
+                    "lon": -106.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 178728,
+            "number": "UTBAB1",
+            "team_name": "UTBAB1",
+            "robot_name": "",
+            "organization": "Universidad Tecnologica de la Babicora",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Chihuahua",
+                "region": "Chihuahua",
+                "postcode": "31963",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 29,
+                    "lon": -107.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 178729,
+            "number": "UTBAB2",
+            "team_name": "UTBAB2",
+            "robot_name": null,
+            "organization": "Universidad Tecnol\u00f3gica de la Bab\u00edcora",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Chihuahua",
+                "region": "Chihuahua",
+                "postcode": "31963",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 29,
+                    "lon": -107.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181721,
+            "number": "UTCHH1",
+            "team_name": "UT Chihuahua",
+            "robot_name": null,
+            "organization": "Universidad Tecnol\u00f3gica de Chihuahua",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Chihuahua",
+                "region": "Chihuahua",
+                "postcode": "31216",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 28.6,
+                    "lon": -106.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 53020,
+            "number": "UTCJ1",
+            "team_name": "UTCJ1",
+            "robot_name": null,
+            "organization": "Universidad Tecnologica de Ciudad Juarez",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Cd. Juarez",
+                "region": "Chihuahua",
+                "postcode": "46680",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 31.7,
+                    "lon": -106.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 150432,
+            "number": "UTCJ2",
+            "team_name": "UT Ciudad Juarez",
+            "robot_name": "Bravo1_UTCJ",
+            "organization": "Universidad Tecnologica de Ciudad Juarez",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Juarez",
+                "region": "Chihuahua",
+                "postcode": "32695",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 31.6,
+                    "lon": -106.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 92705,
+            "number": "UTNLA1",
+            "team_name": "Nuevo Laredo 1",
+            "robot_name": "",
+            "organization": "Universidad Tecnologica de Nuevo Laredo",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Nuevo Laredo",
+                "region": "Tamaulipas",
+                "postcode": "88205",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 27.5,
+                    "lon": -99.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 92706,
+            "number": "UTNLA2",
+            "team_name": "Nuevo Laredo 2",
+            "robot_name": "",
+            "organization": "Universidad Tecnologica de Nuevo Laredo",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Nuevo Laredo",
+                "region": "Tamaulipas",
+                "postcode": "88205",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 27.5,
+                    "lon": -99.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 150417,
+            "number": "UTPN1",
+            "team_name": "UTPN1",
+            "robot_name": null,
+            "organization": "Universidad Tecnol\u00f3gica Paso del Norte",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Ciudad Juarez",
+                "region": "Chihuahua",
+                "postcode": "32107",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 31.8,
+                    "lon": -106.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 150418,
+            "number": "UTPN2",
+            "team_name": "UTPN2",
+            "robot_name": null,
+            "organization": "Universidad Tecnol\u00f3gica Paso del Norte",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Ciudad Juarez",
+                "region": "Chihuahua",
+                "postcode": "32107",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 31.8,
+                    "lon": -106.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 150424,
+            "number": "UTPRR1",
+            "team_name": "UT PARRAL 1",
+            "robot_name": null,
+            "organization": "UNIVERSIDAD TECNOLOGICA DEL PARRAL",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Hidalgo Del Parral",
+                "region": "Chihuahua",
+                "postcode": "33827",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 26.9,
+                    "lon": -105.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

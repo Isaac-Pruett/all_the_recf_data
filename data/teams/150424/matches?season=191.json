@@ -1,0 +1,1473 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/150424/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/150424/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/150424/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 28,
+        "total": 28
+    },
+    "data": [
+        {
+            "id": 92337206,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 1,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2024-12-03T16:18:00-05:00",
+            "started": "2024-12-03T16:54:15-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Practice #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 27472,
+                                "name": "TMAT1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 92337216,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2024-12-03T17:24:00-05:00",
+            "started": "2024-12-03T18:41:42-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151616,
+                                "name": "TECMI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107434111,
+            "event": {
+                "id": 59410,
+                "name": "Campeonato final de la liga del Estado de Chihuahua",
+                "code": "RE-VURC-24-9410"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-02-10T11:24:00-05:00",
+            "started": "2025-02-10T13:54:50-05:00",
+            "field": "Cancha 1",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165665,
+                                "name": "TCGMC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T09:42:55-05:00"
+        },
+        {
+            "id": 107467641,
+            "event": {
+                "id": 56796,
+                "name": "Girl Powered",
+                "code": "RE-VURC-24-6796"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-02-11T11:22:30-05:00",
+            "started": "2025-02-11T12:47:03-05:00",
+            "field": "Uni 1",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 55726,
+                                "name": "TCMG1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T13:29:46-05:00"
+        },
+        {
+            "id": 107434115,
+            "event": {
+                "id": 59410,
+                "name": "Campeonato final de la liga del Estado de Chihuahua",
+                "code": "RE-VURC-24-9410"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-10T11:48:00-05:00",
+            "started": "2025-02-10T15:12:25-05:00",
+            "field": "Cancha 1",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178728,
+                                "name": "UTBAB1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T09:42:55-05:00"
+        },
+        {
+            "id": 107467644,
+            "event": {
+                "id": 56796,
+                "name": "Girl Powered",
+                "code": "RE-VURC-24-6796"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-11T11:36:00-05:00",
+            "started": "2025-02-11T13:13:43-05:00",
+            "field": "Uni 1",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 72552,
+                                "name": "UACH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T13:29:46-05:00"
+        },
+        {
+            "id": 92337223,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2024-12-03T18:12:00-05:00",
+            "started": "2024-12-03T20:03:40-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178732,
+                                "name": "ITSCJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107434120,
+            "event": {
+                "id": 59410,
+                "name": "Campeonato final de la liga del Estado de Chihuahua",
+                "code": "RE-VURC-24-9410"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2025-02-10T12:20:00-05:00",
+            "started": "2025-02-10T15:53:58-05:00",
+            "field": "Cancha 1",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 53020,
+                                "name": "UTCJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T09:42:55-05:00"
+        },
+        {
+            "id": 107467653,
+            "event": {
+                "id": 56796,
+                "name": "Girl Powered",
+                "code": "RE-VURC-24-6796"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2025-02-11T12:13:30-05:00",
+            "started": "2025-02-11T14:32:03-05:00",
+            "field": "Uni 1",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150422,
+                                "name": "UPCH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T13:29:46-05:00"
+        },
+        {
+            "id": 107434125,
+            "event": {
+                "id": 59410,
+                "name": "Campeonato final de la liga del Estado de Chihuahua",
+                "code": "RE-VURC-24-9410"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2025-02-10T12:45:00-05:00",
+            "started": "2025-02-10T16:27:09-05:00",
+            "field": "Cancha 1",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 72552,
+                                "name": "UACH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T09:42:55-05:00"
+        },
+        {
+            "id": 92337230,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2024-12-03T19:00:00-05:00",
+            "started": "2024-12-03T21:19:05-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 53020,
+                                "name": "UTCJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107467658,
+            "event": {
+                "id": 56796,
+                "name": "Girl Powered",
+                "code": "RE-VURC-24-6796"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-11T12:36:00-05:00",
+            "started": "2025-02-11T15:43:45-05:00",
+            "field": "Uni 1",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152733,
+                                "name": "UTMY2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T13:29:46-05:00"
+        },
+        {
+            "id": 107434131,
+            "event": {
+                "id": 59410,
+                "name": "Campeonato final de la liga del Estado de Chihuahua",
+                "code": "RE-VURC-24-9410"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 25,
+            "scheduled": "2025-02-10T13:25:00-05:00",
+            "started": "2025-02-10T17:08:57-05:00",
+            "field": "Cancha 1",
+            "scored": false,
+            "name": "Qualifier #25",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178732,
+                                "name": "ITSCJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T09:42:55-05:00"
+        },
+        {
+            "id": 107434133,
+            "event": {
+                "id": 59410,
+                "name": "Campeonato final de la liga del Estado de Chihuahua",
+                "code": "RE-VURC-24-9410"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-02-10T13:35:00-05:00",
+            "started": "2025-02-10T17:21:39-05:00",
+            "field": "Cancha 1",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150432,
+                                "name": "UTCJ2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T09:42:55-05:00"
+        },
+        {
+            "id": 107467666,
+            "event": {
+                "id": 56796,
+                "name": "Girl Powered",
+                "code": "RE-VURC-24-6796"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-02-11T13:09:00-05:00",
+            "started": "2025-02-11T16:47:01-05:00",
+            "field": "Uni 1",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180422,
+                                "name": "ITMOR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T13:29:46-05:00"
+        },
+        {
+            "id": 92337242,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2024-12-03T20:18:00-05:00",
+            "started": "2024-12-04T11:53:02-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 27472,
+                                "name": "TMAT1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107434141,
+            "event": {
+                "id": 59410,
+                "name": "Campeonato final de la liga del Estado de Chihuahua",
+                "code": "RE-VURC-24-9410"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2025-02-10T15:21:00-05:00",
+            "started": "2025-02-10T18:18:34-05:00",
+            "field": "Cancha 1",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150417,
+                                "name": "UTPN1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T09:42:55-05:00"
+        },
+        {
+            "id": 107434144,
+            "event": {
+                "id": 59410,
+                "name": "Campeonato final de la liga del Estado de Chihuahua",
+                "code": "RE-VURC-24-9410"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2025-02-10T15:42:00-05:00",
+            "started": "2025-02-10T18:39:56-05:00",
+            "field": "Cancha 1",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178729,
+                                "name": "UTBAB2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T09:42:55-05:00"
+        },
+        {
+            "id": 92337252,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 41,
+            "scheduled": "2024-12-04T11:16:00-05:00",
+            "started": "2024-12-04T13:33:07-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #41",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151461,
+                                "name": "AA1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107467678,
+            "event": {
+                "id": 56796,
+                "name": "Girl Powered",
+                "code": "RE-VURC-24-6796"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 43,
+            "scheduled": "2025-02-11T15:00:00-05:00",
+            "started": null,
+            "field": "Uni 1",
+            "scored": false,
+            "name": "Qualifier #43",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150432,
+                                "name": "UTCJ2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T13:29:46-05:00"
+        },
+        {
+            "id": 107467681,
+            "event": {
+                "id": 56796,
+                "name": "Girl Powered",
+                "code": "RE-VURC-24-6796"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 46,
+            "scheduled": "2025-02-11T15:13:30-05:00",
+            "started": null,
+            "field": "Uni 1",
+            "scored": false,
+            "name": "Qualifier #46",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 127717,
+                                "name": "UTCHE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T13:29:46-05:00"
+        },
+        {
+            "id": 92337264,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 53,
+            "scheduled": "2024-12-04T12:09:00-05:00",
+            "started": "2024-12-04T15:17:58-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #53",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 126341,
+                                "name": "ITSMQ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107467689,
+            "event": {
+                "id": 56796,
+                "name": "Girl Powered",
+                "code": "RE-VURC-24-6796"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 54,
+            "scheduled": "2025-02-11T15:49:30-05:00",
+            "started": "2025-02-11T20:21:12-05:00",
+            "field": "Uni 1",
+            "scored": false,
+            "name": "Qualifier #54",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 53020,
+                                "name": "UTCJ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T13:29:46-05:00"
+        },
+        {
+            "id": 92337271,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 60,
+            "scheduled": "2024-12-04T12:30:00-05:00",
+            "started": "2024-12-04T16:45:49-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #60",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90205,
+                                "name": "ITESM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 92337275,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 64,
+            "scheduled": "2024-12-04T12:42:00-05:00",
+            "started": "2024-12-04T16:54:44-05:00",
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #64",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150432,
+                                "name": "UTCJ2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 92337290,
+            "event": {
+                "id": 56558,
+                "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+                "code": "RE-VURC-24-6558"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 79,
+            "scheduled": "2024-12-04T13:36:00-05:00",
+            "started": null,
+            "field": "Main Field U",
+            "scored": false,
+            "name": "Qualifier #79",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150422,
+                                "name": "UPCH1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T16:24:22-05:00"
+        },
+        {
+            "id": 107434149,
+            "event": {
+                "id": 59410,
+                "name": "Campeonato final de la liga del Estado de Chihuahua",
+                "code": "RE-VURC-24-9410"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-10T19:31:06-05:00",
+            "field": null,
+            "scored": false,
+            "name": "QF #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165665,
+                                "name": "TCGMC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T09:42:55-05:00"
+        },
+        {
+            "id": 107467698,
+            "event": {
+                "id": 56796,
+                "name": "Girl Powered",
+                "code": "RE-VURC-24-6796"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-11T21:36:20-05:00",
+            "field": null,
+            "scored": false,
+            "name": "QF #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150424,
+                                "name": "UTPRR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178729,
+                                "name": "UTBAB2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T13:29:46-05:00"
+        }
+    ]
+}

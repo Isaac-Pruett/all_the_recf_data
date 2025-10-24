@@ -1,0 +1,537 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/146939/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/146939/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/146939/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 10,
+        "total": 10
+    },
+    "data": [
+        {
+            "id": 107031755,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-21T11:31:30-05:00",
+            "started": "2025-02-22T12:02:10-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 1,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170695,
+                                "name": "COMET",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 52,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 146939,
+                                "name": "ETAMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 107031762,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-02-21T12:03:00-05:00",
+            "started": "2025-02-22T12:46:37-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 146939,
+                                "name": "ETAMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162873,
+                                "name": "ATUM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 107031770,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-21T12:39:00-05:00",
+            "started": "2025-02-22T13:29:15-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 146939,
+                                "name": "ETAMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 107031773,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-02-21T12:52:30-05:00",
+            "started": "2025-02-22T13:46:37-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131736,
+                                "name": "POLY3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 146939,
+                                "name": "ETAMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 107031784,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2025-02-21T14:36:00-05:00",
+            "started": "2025-02-22T14:48:20-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 146939,
+                                "name": "ETAMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 107031791,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2025-02-21T15:04:00-05:00",
+            "started": "2025-02-22T15:25:13-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177523,
+                                "name": "WIRED",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 146939,
+                                "name": "ETAMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 107031794,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 47,
+            "scheduled": "2025-02-21T15:16:00-05:00",
+            "started": "2025-02-22T15:39:44-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #47",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 146939,
+                                "name": "ETAMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182373,
+                                "name": "TTACE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 107031806,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 59,
+            "scheduled": "2025-02-21T16:04:00-05:00",
+            "started": "2025-02-22T16:57:29-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #59",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 146939,
+                                "name": "ETAMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117769,
+                                "name": "STARZ6",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 107031814,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 3,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:50:33-05:00",
+            "field": null,
+            "scored": false,
+            "name": "QF #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 2,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147851,
+                                "name": "WHOOP5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 146939,
+                                "name": "ETAMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 107031817,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T18:16:15-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139193,
+                                "name": "GHOST",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 146939,
+                                "name": "ETAMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        }
+    ]
+}

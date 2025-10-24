@@ -1,0 +1,3667 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/seasons/191/events?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/seasons/191/events?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/seasons/191/events",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 65,
+        "total": 65
+    },
+    "data": [
+        {
+            "id": 56726,
+            "sku": "RE-VURC-24-6726",
+            "name": "Ready or Not, Bring a Bot - VEX U Skills Only: presented by Union University",
+            "start": "2024-09-20T00:00:00-04:00",
+            "end": "2024-09-21T00:00:00-04:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Union University - Grant Center",
+                "address_1": "1050 Union University Drive",
+                "address_2": null,
+                "city": "Jackson",
+                "region": "Tennessee",
+                "postcode": "38305",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 35.677034,
+                    "lon": -88.860276
+                }
+            },
+            "locations": {
+                "2024-09-20": {
+                    "venue": "Union University - Grant Center",
+                    "address_1": "1050 Union University Drive",
+                    "address_2": null,
+                    "city": "Jackson",
+                    "region": "Tennessee",
+                    "postcode": "38305",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 35.677034,
+                        "lon": -88.860276
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 57037,
+            "sku": "RE-VURC-24-7037",
+            "name": "Philippine VEX Robotics Competition: VEXU Scrimmage",
+            "start": "2024-09-30T00:00:00-04:00",
+            "end": "2024-09-30T00:00:00-04:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Makati High School",
+                "address_1": "General Luna",
+                "address_2": null,
+                "city": "Makati",
+                "region": null,
+                "postcode": "1210",
+                "country": "Philippines",
+                "coordinates": {
+                    "lat": 14.562897,
+                    "lon": 121.033706
+                }
+            },
+            "locations": {
+                "2024-09-30": {
+                    "venue": "Makati High School",
+                    "address_1": "General Luna",
+                    "address_2": null,
+                    "city": "Makati",
+                    "region": null,
+                    "postcode": "1210",
+                    "country": "Philippines",
+                    "coordinates": {
+                        "lat": 14.562897,
+                        "lon": 121.033706
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 58810,
+            "sku": "RE-VURC-24-8810",
+            "name": "VEX U Robotics Competition, Practice Event: Practice event",
+            "start": "2024-10-12T00:00:00-04:00",
+            "end": "2024-10-12T00:00:00-04:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "King Saud University",
+                "address_1": "",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.713552,
+                    "lon": 46.675296
+                }
+            },
+            "locations": {
+                "2024-10-12": {
+                    "venue": "King Saud University",
+                    "address_1": "",
+                    "address_2": null,
+                    "city": "Riyadh",
+                    "region": null,
+                    "postcode": "",
+                    "country": "Saudi Arabia",
+                    "coordinates": {
+                        "lat": 24.713552,
+                        "lon": 46.675296
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 58432,
+            "sku": "RE-VURC-24-8432",
+            "name": "Saudi Games, VEX U Robotics Competition: Adult Division, Saudi Games",
+            "start": "2024-10-16T00:00:00-04:00",
+            "end": "2024-10-17T00:00:00-04:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "RIYADH BLVD",
+                "address_1": "2609 \u0627\u0644\u062d\u0648\u064a",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "13516",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.772017,
+                    "lon": 46.601895
+                }
+            },
+            "locations": {
+                "2024-10-16": {
+                    "venue": "RIYADH BLVD",
+                    "address_1": "2609 \u0627\u0644\u062d\u0648\u064a",
+                    "address_2": null,
+                    "city": "Riyadh",
+                    "region": null,
+                    "postcode": "13516",
+                    "country": "Saudi Arabia",
+                    "coordinates": {
+                        "lat": 24.772017,
+                        "lon": 46.601895
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Regional",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59176,
+            "sku": "RE-VURC-24-9176",
+            "name": "4ta Fecha de la LNR Vex U",
+            "start": "2024-11-09T00:00:00-05:00",
+            "end": "2024-11-09T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Universidad Americana",
+                "address_1": "1100 Avenida Brasilia",
+                "address_2": null,
+                "city": "Asunci\u00f3n",
+                "region": null,
+                "postcode": "1429",
+                "country": "Paraguay",
+                "coordinates": {
+                    "lat": -25.278667,
+                    "lon": -57.599554
+                }
+            },
+            "locations": {
+                "2024-11-09": {
+                    "venue": "Universidad Americana",
+                    "address_1": "1100 Avenida Brasilia",
+                    "address_2": null,
+                    "city": "Asunci\u00f3n",
+                    "region": null,
+                    "postcode": "1429",
+                    "country": "Paraguay",
+                    "coordinates": {
+                        "lat": -25.278667,
+                        "lon": -57.599554
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 58074,
+            "sku": "RE-VURC-24-8074",
+            "name": "Philippine VEX Robotics Competition: VEXU Tournament 1",
+            "start": "2024-11-13T00:00:00-05:00",
+            "end": "2024-11-13T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Makati High School",
+                "address_1": "General Luna",
+                "address_2": null,
+                "city": "Makati",
+                "region": null,
+                "postcode": "1210",
+                "country": "Philippines",
+                "coordinates": {
+                    "lat": 14.562897,
+                    "lon": 121.033706
+                }
+            },
+            "locations": {
+                "2024-11-13": {
+                    "venue": "Makati High School",
+                    "address_1": "General Luna",
+                    "address_2": null,
+                    "city": "Makati",
+                    "region": null,
+                    "postcode": "1210",
+                    "country": "Philippines",
+                    "coordinates": {
+                        "lat": 14.562897,
+                        "lon": 121.033706
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 56727,
+            "sku": "RE-VURC-24-6727",
+            "name": "Hub City VEX U - Skills Only: Presented by University of Memphis at Lambuth",
+            "start": "2024-11-15T00:00:00-05:00",
+            "end": "2024-11-16T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "The University of Memphis Lambuth Campus - Wilder Student Union Building",
+                "address_1": "307 Maple Street",
+                "address_2": null,
+                "city": "Jackson",
+                "region": "Tennessee",
+                "postcode": "38301",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 35.622956,
+                    "lon": -88.829807
+                }
+            },
+            "locations": {
+                "2024-11-15": {
+                    "venue": "The University of Memphis Lambuth Campus - Wilder Student Union Building",
+                    "address_1": "307 Maple Street",
+                    "address_2": null,
+                    "city": "Jackson",
+                    "region": "Tennessee",
+                    "postcode": "38301",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 35.622956,
+                        "lon": -88.829807
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 58031,
+            "sku": "RE-VURC-24-8031",
+            "name": "Torneo Regional de Robotica VEX Zona Noreste - UASLP - VEX U",
+            "start": "2024-11-16T00:00:00-05:00",
+            "end": "2024-11-16T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Unidad Deportiva Universitaria UASLP \u270c\ufe0f",
+                "address_1": "s/n Avenida Colorines",
+                "address_2": null,
+                "city": "San Luis Potos\u00ed",
+                "region": null,
+                "postcode": "78390",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 22.147639,
+                    "lon": -100.947488
+                }
+            },
+            "locations": {
+                "2024-11-16": {
+                    "venue": "Unidad Deportiva Universitaria UASLP \u270c\ufe0f",
+                    "address_1": "s/n Avenida Colorines",
+                    "address_2": null,
+                    "city": "San Luis Potos\u00ed",
+                    "region": null,
+                    "postcode": "78390",
+                    "country": "Mexico",
+                    "coordinates": {
+                        "lat": 22.147639,
+                        "lon": -100.947488
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 55797,
+            "sku": "RE-VURC-24-5797",
+            "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+            "start": "2024-11-23T00:00:00-05:00",
+            "end": "2024-11-23T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Learned Engineering Expansion Phase 2",
+                "address_1": "1536 West 15th Street",
+                "address_2": null,
+                "city": "Lawrence",
+                "region": "Kansas",
+                "postcode": "66045",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 38.957417,
+                    "lon": -95.254025
+                }
+            },
+            "locations": {
+                "2024-11-23": {
+                    "venue": "Learned Engineering Expansion Phase 2",
+                    "address_1": "1536 West 15th Street",
+                    "address_2": null,
+                    "city": "Lawrence",
+                    "region": "Kansas",
+                    "postcode": "66045",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 38.957417,
+                        "lon": -95.254025
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 58115,
+            "sku": "RE-VURC-24-8115",
+            "name": "Philippine VEX Robotics Competition: VEXU Tournament 2",
+            "start": "2024-11-25T00:00:00-05:00",
+            "end": "2024-11-25T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "SEAMEO INNOTECH",
+                "address_1": "Commonwealth Avenue",
+                "address_2": null,
+                "city": "Quezon City",
+                "region": null,
+                "postcode": "",
+                "country": "Philippines",
+                "coordinates": {
+                    "lat": 14.706431,
+                    "lon": 121.067211
+                }
+            },
+            "locations": {
+                "2024-11-25": {
+                    "venue": "SEAMEO INNOTECH",
+                    "address_1": "Commonwealth Avenue",
+                    "address_2": null,
+                    "city": "Quezon City",
+                    "region": null,
+                    "postcode": "",
+                    "country": "Philippines",
+                    "coordinates": {
+                        "lat": 14.706431,
+                        "lon": 121.067211
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 56558,
+            "sku": "RE-VURC-24-6558",
+            "name": "3er. Campeonato Internacional de la Frontera Norte: VEX U Robotics Comeptition Signature Event",
+            "start": "2024-12-03T00:00:00-05:00",
+            "end": "2024-12-04T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "CCI Centro de Convenciones Injectronic",
+                "address_1": "2050 Avenida A. J. Berm\u00fadez",
+                "address_2": null,
+                "city": "Ciudad Ju\u00e1rez",
+                "region": "Chihuahua",
+                "postcode": "32470",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 31.70695,
+                    "lon": -106.400764
+                }
+            },
+            "locations": {
+                "2024-12-03": {
+                    "venue": "CCI Centro de Convenciones Injectronic",
+                    "address_1": "2050 Avenida A. J. Berm\u00fadez",
+                    "address_2": null,
+                    "city": "Ciudad Ju\u00e1rez",
+                    "region": "Chihuahua",
+                    "postcode": "32470",
+                    "country": "Mexico",
+                    "coordinates": {
+                        "lat": 31.70695,
+                        "lon": -106.400764
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Signature",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 56053,
+            "sku": "RE-VURC-24-6053",
+            "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+            "start": "2024-12-04T00:00:00-05:00",
+            "end": "2024-12-06T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Rosehill Gardens Racecourse",
+                "address_1": "James Ruse Drive",
+                "address_2": null,
+                "city": "Rosehill",
+                "region": null,
+                "postcode": "2142",
+                "country": "Australia",
+                "coordinates": {
+                    "lat": -33.825466,
+                    "lon": 151.020921
+                }
+            },
+            "locations": {
+                "2024-12-04": {
+                    "venue": "Rosehill Gardens Racecourse",
+                    "address_1": "James Ruse Drive",
+                    "address_2": null,
+                    "city": "Rosehill",
+                    "region": null,
+                    "postcode": "2142",
+                    "country": "Australia",
+                    "coordinates": {
+                        "lat": -33.825466,
+                        "lon": 151.020921
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "VEXU",
+                    "order": 1
+                }
+            ],
+            "level": "National",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 56497,
+            "sku": "RE-VURC-24-6497",
+            "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+            "start": "2024-12-07T00:00:00-05:00",
+            "end": "2024-12-07T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Grandville Robotics Competition Center",
+                "address_1": "4900 Canal Avenue Southwest",
+                "address_2": null,
+                "city": "Grandville",
+                "region": "Michigan",
+                "postcode": "49418",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 42.875225,
+                    "lon": -85.767698
+                }
+            },
+            "locations": {
+                "2024-12-07": {
+                    "venue": "Grandville Robotics Competition Center",
+                    "address_1": "4900 Canal Avenue Southwest",
+                    "address_2": null,
+                    "city": "Grandville",
+                    "region": "Michigan",
+                    "postcode": "49418",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 42.875225,
+                        "lon": -85.767698
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 57701,
+            "sku": "RE-VURC-24-7701",
+            "name": "Icebreaker VEXU Skills Event",
+            "start": "2024-12-07T00:00:00-05:00",
+            "end": "2024-12-07T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Mazama High School",
+                "address_1": "3009 Summers Lane",
+                "address_2": null,
+                "city": "Klamath Falls",
+                "region": "Oregon",
+                "postcode": "97603",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 42.198891,
+                    "lon": -121.733682
+                }
+            },
+            "locations": {
+                "2024-12-07": {
+                    "venue": "Mazama High School",
+                    "address_1": "3009 Summers Lane",
+                    "address_2": null,
+                    "city": "Klamath Falls",
+                    "region": "Oregon",
+                    "postcode": "97603",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 42.198891,
+                        "lon": -121.733682
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 58670,
+            "sku": "RE-VURC-24-8670",
+            "name": "Vex University, Final de LNR de Rob\u00f3tica",
+            "start": "2024-12-07T00:00:00-05:00",
+            "end": "2024-12-07T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Asunci\u00f3n",
+                "address_1": "",
+                "address_2": null,
+                "city": "Asunci\u00f3n",
+                "region": null,
+                "postcode": "",
+                "country": "Paraguay",
+                "coordinates": {
+                    "lat": -25.26374,
+                    "lon": -57.575926
+                }
+            },
+            "locations": {
+                "2024-12-07": {
+                    "venue": "Asunci\u00f3n",
+                    "address_1": "",
+                    "address_2": null,
+                    "city": "Asunci\u00f3n",
+                    "region": null,
+                    "postcode": "",
+                    "country": "Paraguay",
+                    "coordinates": {
+                        "lat": -25.26374,
+                        "lon": -57.575926
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Regional",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 55731,
+            "sku": "RE-VURC-24-5731",
+            "name": "VURC (VEX U) High Stakes Thailand Tournament",
+            "start": "2024-12-08T00:00:00-05:00",
+            "end": "2024-12-08T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Panyapiwat Institute of Management",
+                "address_1": "85 Thanon Chaeng Watthana",
+                "address_2": null,
+                "city": "Tambon Bang Talat, Nonthaburi",
+                "region": null,
+                "postcode": "11120",
+                "country": "Thailand",
+                "coordinates": {
+                    "lat": 13.90175,
+                    "lon": 100.532864
+                }
+            },
+            "locations": {
+                "2024-12-08": {
+                    "venue": "Panyapiwat Institute of Management",
+                    "address_1": "85 Thanon Chaeng Watthana",
+                    "address_2": null,
+                    "city": "Tambon Bang Talat, Nonthaburi",
+                    "region": null,
+                    "postcode": "11120",
+                    "country": "Thailand",
+                    "coordinates": {
+                        "lat": 13.90175,
+                        "lon": 100.532864
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default Division",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 59089,
+            "sku": "RE-VURC-24-9089",
+            "name": "RIT VEX U Robotics Competition Skills Only Competition: Skills Only Competition",
+            "start": "2024-12-08T00:00:00-05:00",
+            "end": "2024-12-08T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "RIT SHED",
+                "address_1": "91 Lomb Memorial Drive",
+                "address_2": null,
+                "city": "Rochester",
+                "region": "New York",
+                "postcode": "14623",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 43.084171,
+                    "lon": -77.676321
+                }
+            },
+            "locations": {
+                "2024-12-08": {
+                    "venue": "RIT SHED",
+                    "address_1": "91 Lomb Memorial Drive",
+                    "address_2": null,
+                    "city": "Rochester",
+                    "region": "New York",
+                    "postcode": "14623",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 43.084171,
+                        "lon": -77.676321
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 55649,
+            "sku": "RE-VURC-24-5649",
+            "name": "The RiverBots III VEX U Robotics Competition Signature Event: College",
+            "start": "2024-12-14T00:00:00-05:00",
+            "end": "2024-12-15T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "River Raisin National Battlefield Park",
+                "address_1": "333 North Dixie Highway",
+                "address_2": null,
+                "city": "Monroe",
+                "region": "Michigan",
+                "postcode": "48162",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 41.916052,
+                    "lon": -83.380328
+                }
+            },
+            "locations": {
+                "2024-12-14": {
+                    "venue": "River Raisin National Battlefield Park",
+                    "address_1": "333 North Dixie Highway",
+                    "address_2": null,
+                    "city": "Monroe",
+                    "region": "Michigan",
+                    "postcode": "48162",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 41.916052,
+                        "lon": -83.380328
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Procter",
+                    "order": 1
+                }
+            ],
+            "level": "Signature",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 58116,
+            "sku": "RE-VURC-24-8116",
+            "name": "Philippine VEX Robotics Competition: VEXU National Championship",
+            "start": "2024-12-14T00:00:00-05:00",
+            "end": "2024-12-14T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "SEAMEO INNOTECH",
+                "address_1": "Commonwealth Avenue",
+                "address_2": null,
+                "city": "Quezon City",
+                "region": null,
+                "postcode": "",
+                "country": "Philippines",
+                "coordinates": {
+                    "lat": 14.706431,
+                    "lon": 121.067211
+                }
+            },
+            "locations": {
+                "2024-12-14": {
+                    "venue": "SEAMEO INNOTECH",
+                    "address_1": "Commonwealth Avenue",
+                    "address_2": null,
+                    "city": "Quezon City",
+                    "region": null,
+                    "postcode": "",
+                    "country": "Philippines",
+                    "coordinates": {
+                        "lat": 14.706431,
+                        "lon": 121.067211
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "National",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59374,
+            "sku": "RE-VURC-24-9374",
+            "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+            "start": "2024-12-19T00:00:00-05:00",
+            "end": "2024-12-22T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66",
+                "address_1": "",
+                "address_2": null,
+                "city": "shanghai",
+                "region": "Shanghai",
+                "postcode": "",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.230416,
+                    "lon": 121.473701
+                }
+            },
+            "locations": {
+                "2024-12-19": {
+                    "venue": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66",
+                    "address_1": "",
+                    "address_2": null,
+                    "city": "shanghai",
+                    "region": "Shanghai",
+                    "postcode": "",
+                    "country": "China",
+                    "coordinates": {
+                        "lat": 31.230416,
+                        "lon": 121.473701
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "National",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 55708,
+            "sku": "RE-VURC-24-5708",
+            "name": "2024-2025 Asia Open VEX U Robotics Competition Signature Event: College",
+            "start": "2024-12-29T00:00:00-05:00",
+            "end": "2025-01-01T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Wuxi International Conference Center",
+                "address_1": "Southwest of the intersection of Qingshu Road and Zhenze Road, Binhu District",
+                "address_2": null,
+                "city": "Wuxi",
+                "region": "Jiangsu",
+                "postcode": "214000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.47636,
+                    "lon": 120.32369
+                }
+            },
+            "locations": {
+                "2024-12-29": {
+                    "venue": "Wuxi International Conference Center",
+                    "address_1": "Southwest of the intersection of Qingshu Road and Zhenze Road, Binhu District",
+                    "address_2": null,
+                    "city": "Wuxi",
+                    "region": "Jiangsu",
+                    "postcode": "214000",
+                    "country": "China",
+                    "coordinates": {
+                        "lat": 31.47636,
+                        "lon": 120.32369
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Signature",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 57559,
+            "sku": "RE-VURC-24-7559",
+            "name": "VCAT VEXU Tournament at Vaughn College",
+            "start": "2025-01-03T00:00:00-05:00",
+            "end": "2025-01-03T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Vaughn College",
+                "address_1": "86-01 23rd Avenue",
+                "address_2": null,
+                "city": "Queens",
+                "region": "New York",
+                "postcode": "11369",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 40.767759,
+                    "lon": -73.882795
+                }
+            },
+            "locations": {
+                "2025-01-03": {
+                    "venue": "Vaughn College",
+                    "address_1": "86-01 23rd Avenue",
+                    "address_2": null,
+                    "city": "Queens",
+                    "region": "New York",
+                    "postcode": "11369",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 40.767759,
+                        "lon": -73.882795
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 55594,
+            "sku": "RE-VURC-24-5594",
+            "name": "Asia-Pacific VEX U Robotics Competition Signature Event: College",
+            "start": "2025-01-18T00:00:00-05:00",
+            "end": "2025-01-21T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Ocean Flower Island",
+                "address_1": "",
+                "address_2": null,
+                "city": "Hai Nan",
+                "region": "Hainan",
+                "postcode": "",
+                "country": "China",
+                "coordinates": {
+                    "lat": 19,
+                    "lon": 109.5
+                }
+            },
+            "locations": {
+                "2025-01-18": {
+                    "venue": "Ocean Flower Island",
+                    "address_1": "",
+                    "address_2": null,
+                    "city": "Hai Nan",
+                    "region": "Hainan",
+                    "postcode": "",
+                    "country": "China",
+                    "coordinates": {
+                        "lat": 19,
+                        "lon": 109.5
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default",
+                    "order": 1
+                }
+            ],
+            "level": "Signature",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 57077,
+            "sku": "RE-VURC-24-7077",
+            "name": "High Stakes Knightmare VURC",
+            "start": "2025-01-18T00:00:00-05:00",
+            "end": "2025-01-18T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Apopka High School",
+                "address_1": "555 Martin Street",
+                "address_2": null,
+                "city": "Apopka",
+                "region": "Florida",
+                "postcode": "32712",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 28.693486,
+                    "lon": -81.521927
+                }
+            },
+            "locations": {
+                "2025-01-18": {
+                    "venue": "Apopka High School",
+                    "address_1": "555 Martin Street",
+                    "address_2": null,
+                    "city": "Apopka",
+                    "region": "Florida",
+                    "postcode": "32712",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 28.693486,
+                        "lon": -81.521927
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59031,
+            "sku": "RE-VURC-24-9031",
+            "name": "KIWIBOTS VEX U VURC National Championship: VEX U Robotics Competition",
+            "start": "2025-01-18T00:00:00-05:00",
+            "end": "2025-01-18T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "University of Canterbury: Robert Scott Atrium",
+                "address_1": "20 Kirkwood Avenue",
+                "address_2": null,
+                "city": "Christchurch",
+                "region": null,
+                "postcode": "8041",
+                "country": "New Zealand",
+                "coordinates": {
+                    "lat": -43.528011,
+                    "lon": 172.584615
+                }
+            },
+            "locations": {
+                "2025-01-18": {
+                    "venue": "University of Canterbury: Robert Scott Atrium",
+                    "address_1": "20 Kirkwood Avenue",
+                    "address_2": null,
+                    "city": "Christchurch",
+                    "region": null,
+                    "postcode": "8041",
+                    "country": "New Zealand",
+                    "coordinates": {
+                        "lat": -43.528011,
+                        "lon": 172.584615
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default Division",
+                    "order": 1
+                }
+            ],
+            "level": "National",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59398,
+            "sku": "RE-VURC-24-9398",
+            "name": "Campeonato Regional de Occidente",
+            "start": "2025-01-18T00:00:00-05:00",
+            "end": "2025-01-18T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Lagos de Moreno",
+                "address_1": "",
+                "address_2": null,
+                "city": "Lagos de Moreno",
+                "region": "Jalisco",
+                "postcode": "",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 21.363496,
+                    "lon": -101.929102
+                }
+            },
+            "locations": {
+                "2025-01-18": {
+                    "venue": "Lagos de Moreno",
+                    "address_1": "",
+                    "address_2": null,
+                    "city": "Lagos de Moreno",
+                    "region": "Jalisco",
+                    "postcode": "",
+                    "country": "Mexico",
+                    "coordinates": {
+                        "lat": 21.363496,
+                        "lon": -101.929102
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 55869,
+            "sku": "RE-VURC-24-5869",
+            "name": "VURC (VEX U) High Stakes Thailand National Championship: VEX U",
+            "start": "2025-01-19T00:00:00-05:00",
+            "end": "2025-01-19T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Panyapiwat Institute of Management",
+                "address_1": "85 Thanon Chaeng Watthana",
+                "address_2": null,
+                "city": "Tambon Bang Talat, Nonthaburi",
+                "region": null,
+                "postcode": "11120",
+                "country": "Thailand",
+                "coordinates": {
+                    "lat": 13.90175,
+                    "lon": 100.532864
+                }
+            },
+            "locations": {
+                "2025-01-19": {
+                    "venue": "Panyapiwat Institute of Management",
+                    "address_1": "85 Thanon Chaeng Watthana",
+                    "address_2": null,
+                    "city": "Tambon Bang Talat, Nonthaburi",
+                    "region": null,
+                    "postcode": "11120",
+                    "country": "Thailand",
+                    "coordinates": {
+                        "lat": 13.90175,
+                        "lon": 100.532864
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default Division",
+                    "order": 1
+                }
+            ],
+            "level": "National",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 55611,
+            "sku": "RE-VURC-24-5611",
+            "name": "Cancelled Queen's Robotics Cup: VEX U Robotics Competition Signature Event College",
+            "start": "2025-01-24T00:00:00-05:00",
+            "end": "2025-01-24T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Mitchell Hall",
+                "address_1": "69 Union Street",
+                "address_2": null,
+                "city": "Kingston",
+                "region": "Ontario",
+                "postcode": "K7L 2N9",
+                "country": "Canada",
+                "coordinates": {
+                    "lat": 44.228244,
+                    "lon": -76.494206
+                }
+            },
+            "locations": {
+                "2025-01-24": {
+                    "venue": "Mitchell Hall",
+                    "address_1": "69 Union Street",
+                    "address_2": null,
+                    "city": "Kingston",
+                    "region": "Ontario",
+                    "postcode": "K7L 2N9",
+                    "country": "Canada",
+                    "coordinates": {
+                        "lat": 44.228244,
+                        "lon": -76.494206
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default",
+                    "order": 1
+                }
+            ],
+            "level": "Signature",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 56609,
+            "sku": "RE-VURC-24-6609",
+            "name": "Auburn Robotics Club VURC on the Plains",
+            "start": "2025-01-25T00:00:00-05:00",
+            "end": "2025-01-25T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Auburn University",
+                "address_1": "255 Heisman Drive",
+                "address_2": null,
+                "city": "Auburn",
+                "region": "Alabama",
+                "postcode": "36849",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 32.602487,
+                    "lon": -85.486959
+                }
+            },
+            "locations": {
+                "2025-01-25": {
+                    "venue": "Auburn University",
+                    "address_1": "255 Heisman Drive",
+                    "address_2": null,
+                    "city": "Auburn",
+                    "region": "Alabama",
+                    "postcode": "36849",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 32.602487,
+                        "lon": -85.486959
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59131,
+            "sku": "RE-VURC-24-9131",
+            "name": "Queen's Robotics Cup: 2025",
+            "start": "2025-01-25T00:00:00-05:00",
+            "end": "2025-01-25T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Grant Hall",
+                "address_1": "43 University Avenue",
+                "address_2": null,
+                "city": "Kingston",
+                "region": "Ontario",
+                "postcode": "K7L 3N5",
+                "country": "Canada",
+                "coordinates": {
+                    "lat": 44.22592,
+                    "lon": -76.495112
+                }
+            },
+            "locations": {
+                "2025-01-25": {
+                    "venue": "Grant Hall",
+                    "address_1": "43 University Avenue",
+                    "address_2": null,
+                    "city": "Kingston",
+                    "region": "Ontario",
+                    "postcode": "K7L 3N5",
+                    "country": "Canada",
+                    "coordinates": {
+                        "lat": 44.22592,
+                        "lon": -76.495112
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 57899,
+            "sku": "RE-VURC-24-7899",
+            "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+            "start": "2025-01-26T00:00:00-05:00",
+            "end": "2025-01-26T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Northern Kentucky University Student Union",
+                "address_1": "Nunn Drive",
+                "address_2": null,
+                "city": "Highland Heights",
+                "region": "Kentucky",
+                "postcode": "41075",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 39.03347,
+                    "lon": -84.459269
+                }
+            },
+            "locations": {
+                "2025-01-26": {
+                    "venue": "Northern Kentucky University Student Union",
+                    "address_1": "Nunn Drive",
+                    "address_2": null,
+                    "city": "Highland Heights",
+                    "region": "Kentucky",
+                    "postcode": "41075",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 39.03347,
+                        "lon": -84.459269
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 55820,
+            "sku": "RE-VURC-24-5820",
+            "name": "Framingham VURC High Stakes Tournament: February VURC Event",
+            "start": "2025-02-01T00:00:00-05:00",
+            "end": "2025-02-01T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Walsh Middle School",
+                "address_1": "301 Brook Street",
+                "address_2": null,
+                "city": "Framingham",
+                "region": "Massachusetts",
+                "postcode": "01701",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 42.322815,
+                    "lon": -71.426944
+                }
+            },
+            "locations": {
+                "2025-02-01": {
+                    "venue": "Walsh Middle School",
+                    "address_1": "301 Brook Street",
+                    "address_2": null,
+                    "city": "Framingham",
+                    "region": "Massachusetts",
+                    "postcode": "01701",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 42.322815,
+                        "lon": -71.426944
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59009,
+            "sku": "RE-VURC-24-9009",
+            "name": "The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes",
+            "start": "2025-02-01T00:00:00-05:00",
+            "end": "2025-02-01T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Jacaranda Hall - College of Engineering and Computer Science",
+                "address_1": "18111 Nordhoff Street",
+                "address_2": null,
+                "city": "Los Angeles",
+                "region": "California",
+                "postcode": "91330",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34.240102,
+                    "lon": -118.529327
+                }
+            },
+            "locations": {
+                "2025-02-01": {
+                    "venue": "Jacaranda Hall - College of Engineering and Computer Science",
+                    "address_1": "18111 Nordhoff Street",
+                    "address_2": null,
+                    "city": "Los Angeles",
+                    "region": "California",
+                    "postcode": "91330",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 34.240102,
+                        "lon": -118.529327
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59169,
+            "sku": "RE-VURC-24-9169",
+            "name": "PR National Championship - VEX U",
+            "start": "2025-02-02T00:00:00-05:00",
+            "end": "2025-02-02T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Cancha De Baloncesto Brasilia Vega Baja",
+                "address_1": "",
+                "address_2": null,
+                "city": "Vega Baja",
+                "region": null,
+                "postcode": "00693",
+                "country": "Puerto Rico",
+                "coordinates": {
+                    "lat": 18.446981,
+                    "lon": -66.397453
+                }
+            },
+            "locations": {
+                "2025-02-02": {
+                    "venue": "Cancha De Baloncesto Brasilia Vega Baja",
+                    "address_1": "",
+                    "address_2": null,
+                    "city": "Vega Baja",
+                    "region": null,
+                    "postcode": "00693",
+                    "country": "Puerto Rico",
+                    "coordinates": {
+                        "lat": 18.446981,
+                        "lon": -66.397453
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "VEXU Nationals",
+                    "order": 1
+                }
+            ],
+            "level": "Regional",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 57462,
+            "sku": "RE-VURC-24-7462",
+            "name": "James N. Butch VEXU Qualifier: WVUTECH Collegiate Tournament",
+            "start": "2025-02-07T00:00:00-05:00",
+            "end": "2025-02-07T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "WVU Tech Van Meter Gym",
+                "address_1": "350 South Kanawha Street",
+                "address_2": null,
+                "city": "Beckley",
+                "region": "West Virginia",
+                "postcode": "25801",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 37.775839,
+                    "lon": -81.186333
+                }
+            },
+            "locations": {
+                "2025-02-07": {
+                    "venue": "WVU Tech Van Meter Gym",
+                    "address_1": "350 South Kanawha Street",
+                    "address_2": null,
+                    "city": "Beckley",
+                    "region": "West Virginia",
+                    "postcode": "25801",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 37.775839,
+                        "lon": -81.186333
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 55506,
+            "sku": "RE-VURC-24-5506",
+            "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+            "start": "2025-02-08T00:00:00-05:00",
+            "end": "2025-02-09T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "BMO Centre",
+                "address_1": "1912 Flores LaDue Parade S.E.",
+                "address_2": null,
+                "city": "Calgary",
+                "region": "Alberta",
+                "postcode": "T2G 2W1",
+                "country": "Canada",
+                "coordinates": {
+                    "lat": 51.037821,
+                    "lon": -114.056334
+                }
+            },
+            "locations": {
+                "2025-02-08": {
+                    "venue": "BMO Centre",
+                    "address_1": "1912 Flores LaDue Parade S.E.",
+                    "address_2": null,
+                    "city": "Calgary",
+                    "region": "Alberta",
+                    "postcode": "T2G 2W1",
+                    "country": "Canada",
+                    "coordinates": {
+                        "lat": 51.037821,
+                        "lon": -114.056334
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Badlands",
+                    "order": 1
+                }
+            ],
+            "level": "Signature",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59067,
+            "sku": "RE-VURC-24-9067",
+            "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+            "start": "2025-02-08T00:00:00-05:00",
+            "end": "2025-02-08T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Seton Hall University",
+                "address_1": "400 South Orange Avenue",
+                "address_2": null,
+                "city": "South Orange",
+                "region": "New Jersey",
+                "postcode": "07079",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 40.743922,
+                    "lon": -74.248191
+                }
+            },
+            "locations": {
+                "2025-02-08": {
+                    "venue": "Seton Hall University",
+                    "address_1": "400 South Orange Avenue",
+                    "address_2": null,
+                    "city": "South Orange",
+                    "region": "New Jersey",
+                    "postcode": "07079",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 40.743922,
+                        "lon": -74.248191
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59536,
+            "sku": "RE-VURC-24-9536",
+            "name": "Kuwait National Robotics Competition | High Stakes | VURC",
+            "start": "2025-02-08T00:00:00-05:00",
+            "end": "2025-02-09T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0643\u0648\u064a\u062a (Kuwait University)",
+                "address_1": "",
+                "address_2": null,
+                "city": "Kuwait",
+                "region": null,
+                "postcode": "",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.31166,
+                    "lon": 47.481766
+                }
+            },
+            "locations": {
+                "2025-02-08": {
+                    "venue": "\u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0643\u0648\u064a\u062a (Kuwait University)",
+                    "address_1": "",
+                    "address_2": null,
+                    "city": "Kuwait",
+                    "region": null,
+                    "postcode": "",
+                    "country": "Kuwait",
+                    "coordinates": {
+                        "lat": 29.31166,
+                        "lon": 47.481766
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Regional",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 57605,
+            "sku": "RE-VURC-24-7605",
+            "name": "VT CRO-Down \u2022 High Stakes \u2022 VEX U: Hosted by VT CRO in Blacksburg",
+            "start": "2025-02-09T00:00:00-05:00",
+            "end": "2025-02-09T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Data and Decisions Building",
+                "address_1": "727 Prices Fork Road",
+                "address_2": null,
+                "city": "Blacksburg",
+                "region": "Virginia",
+                "postcode": "24060",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 37.231539,
+                    "lon": -80.427489
+                }
+            },
+            "locations": {
+                "2025-02-09": {
+                    "venue": "Data and Decisions Building",
+                    "address_1": "727 Prices Fork Road",
+                    "address_2": null,
+                    "city": "Blacksburg",
+                    "region": "Virginia",
+                    "postcode": "24060",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 37.231539,
+                        "lon": -80.427489
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59410,
+            "sku": "RE-VURC-24-9410",
+            "name": "Campeonato final de la liga del Estado de Chihuahua",
+            "start": "2025-02-10T00:00:00-05:00",
+            "end": "2025-02-10T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Universidad Aut\u00f3noma de Chihuahua",
+                "address_1": "s/n Avenida Pascual Orozco",
+                "address_2": null,
+                "city": "Chihuahua",
+                "region": "Chihuahua",
+                "postcode": "31110",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 28.654567,
+                    "lon": -106.091509
+                }
+            },
+            "locations": {
+                "2025-02-10": {
+                    "venue": "Universidad Aut\u00f3noma de Chihuahua",
+                    "address_1": "s/n Avenida Pascual Orozco",
+                    "address_2": null,
+                    "city": "Chihuahua",
+                    "region": "Chihuahua",
+                    "postcode": "31110",
+                    "country": "Mexico",
+                    "coordinates": {
+                        "lat": 28.654567,
+                        "lon": -106.091509
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 56796,
+            "sku": "RE-VURC-24-6796",
+            "name": "Girl Powered",
+            "start": "2025-02-11T00:00:00-05:00",
+            "end": "2025-02-11T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Universidad Aut\u00f3noma de Chihuahua",
+                "address_1": "s/n Avenida Pascual Orozco",
+                "address_2": null,
+                "city": "Chihuahua",
+                "region": "Chihuahua",
+                "postcode": "31110",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 28.654567,
+                    "lon": -106.091509
+                }
+            },
+            "locations": {
+                "2025-02-11": {
+                    "venue": "Universidad Aut\u00f3noma de Chihuahua",
+                    "address_1": "s/n Avenida Pascual Orozco",
+                    "address_2": null,
+                    "city": "Chihuahua",
+                    "region": "Chihuahua",
+                    "postcode": "31110",
+                    "country": "Mexico",
+                    "coordinates": {
+                        "lat": 28.654567,
+                        "lon": -106.091509
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 56610,
+            "sku": "RE-VURC-24-6610",
+            "name": "CSM VEX U Tournament",
+            "start": "2025-02-14T00:00:00-05:00",
+            "end": "2025-02-14T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "College of Southern Maryland",
+                "address_1": "8730 Mitchell Road",
+                "address_2": null,
+                "city": "La Plata",
+                "region": "Maryland",
+                "postcode": "20646",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 38.560435,
+                    "lon": -77.009682
+                }
+            },
+            "locations": {
+                "2025-02-14": {
+                    "venue": "College of Southern Maryland",
+                    "address_1": "8730 Mitchell Road",
+                    "address_2": null,
+                    "city": "La Plata",
+                    "region": "Maryland",
+                    "postcode": "20646",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 38.560435,
+                        "lon": -77.009682
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 56255,
+            "sku": "RE-VURC-24-6255",
+            "name": "Mt. SAC VEXU High Stakes with BBQ sauce",
+            "start": "2025-02-15T00:00:00-05:00",
+            "end": "2025-02-15T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "1100 N Grand Ave",
+                "address_1": "1100 North Grand Avenue",
+                "address_2": null,
+                "city": "Walnut",
+                "region": "California",
+                "postcode": "91789",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34.048133,
+                    "lon": -117.845114
+                }
+            },
+            "locations": {
+                "2025-02-15": {
+                    "venue": "1100 N Grand Ave",
+                    "address_1": "1100 North Grand Avenue",
+                    "address_2": null,
+                    "city": "Walnut",
+                    "region": "California",
+                    "postcode": "91789",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 34.048133,
+                        "lon": -117.845114
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 56294,
+            "sku": "RE-VURC-24-6294",
+            "name": "PHSC Bobcat Robotics Rumble Rama VURC High Stakes Tournament: Open Florida State Championship",
+            "start": "2025-02-15T00:00:00-05:00",
+            "end": "2025-02-15T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Pasco-Hernando State College West Campus gym",
+                "address_1": "10230 Ridge Road",
+                "address_2": null,
+                "city": "New Port Richey",
+                "region": "Florida",
+                "postcode": "34654",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 28.276471,
+                    "lon": -82.647367
+                }
+            },
+            "locations": {
+                "2025-02-15": {
+                    "venue": "Pasco-Hernando State College West Campus gym",
+                    "address_1": "10230 Ridge Road",
+                    "address_2": null,
+                    "city": "New Port Richey",
+                    "region": "Florida",
+                    "postcode": "34654",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 28.276471,
+                        "lon": -82.647367
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59063,
+            "sku": "RE-VURC-24-9063",
+            "name": "Illini Cornfield Clash 2025 - VURC; Champaign: VEX VURC Robotics Competition - University of Illinois Urbana-Champaign",
+            "start": "2025-02-15T00:00:00-05:00",
+            "end": "2025-02-15T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Siebel Center for Design",
+                "address_1": "1208 South 4th Street",
+                "address_2": null,
+                "city": "Champaign",
+                "region": "Illinois",
+                "postcode": "61820",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 40.102723,
+                    "lon": -88.232535
+                }
+            },
+            "locations": {
+                "2025-02-15": {
+                    "venue": "Siebel Center for Design",
+                    "address_1": "1208 South 4th Street",
+                    "address_2": null,
+                    "city": "Champaign",
+                    "region": "Illinois",
+                    "postcode": "61820",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 40.102723,
+                        "lon": -88.232535
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59097,
+            "sku": "RE-VURC-24-9097",
+            "name": "RIT 2025 VEXU High Stakes Qualifying Tournament: February VEXU Robotics Competition Event",
+            "start": "2025-02-15T00:00:00-05:00",
+            "end": "2025-02-15T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "RIT SHED",
+                "address_1": "91 Lomb Memorial Drive",
+                "address_2": null,
+                "city": "Rochester",
+                "region": "New York",
+                "postcode": "14623",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 43.084171,
+                    "lon": -77.676321
+                }
+            },
+            "locations": {
+                "2025-02-15": {
+                    "venue": "RIT SHED",
+                    "address_1": "91 Lomb Memorial Drive",
+                    "address_2": null,
+                    "city": "Rochester",
+                    "region": "New York",
+                    "postcode": "14623",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 43.084171,
+                        "lon": -77.676321
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59506,
+            "sku": "RE-VURC-24-9506",
+            "name": "VEX U Morocco National Championship 2025",
+            "start": "2025-02-16T00:00:00-05:00",
+            "end": "2025-02-16T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "RoboTalent",
+                "address_1": "3,Avenue Mohammed AlYazidi, Hay Riyad",
+                "address_2": null,
+                "city": "Rabat",
+                "region": null,
+                "postcode": "",
+                "country": "Morocco",
+                "coordinates": {
+                    "lat": 33.952406,
+                    "lon": -6.878444
+                }
+            },
+            "locations": {
+                "2025-02-16": {
+                    "venue": "RoboTalent",
+                    "address_1": "3,Avenue Mohammed AlYazidi, Hay Riyad",
+                    "address_2": null,
+                    "city": "Rabat",
+                    "region": null,
+                    "postcode": "",
+                    "country": "Morocco",
+                    "coordinates": {
+                        "lat": 33.952406,
+                        "lon": -6.878444
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default",
+                    "order": 1
+                }
+            ],
+            "level": "Regional",
+            "ongoing": false,
+            "awards_finalized": false,
+            "event_type": null
+        },
+        {
+            "id": 57670,
+            "sku": "RE-VURC-24-7670",
+            "name": "Torneo Nacional ROB\u00d3TICA EXREMA VEX U",
+            "start": "2025-02-19T00:00:00-05:00",
+            "end": "2025-02-20T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "EIA University",
+                "address_1": "Universidad EIA",
+                "address_2": null,
+                "city": "Vereda El Penasco",
+                "region": null,
+                "postcode": "055428",
+                "country": "Colombia",
+                "coordinates": {
+                    "lat": 6.157577,
+                    "lon": -75.518
+                }
+            },
+            "locations": {
+                "2025-02-19": {
+                    "venue": "EIA University",
+                    "address_1": "Universidad EIA",
+                    "address_2": null,
+                    "city": "Vereda El Penasco",
+                    "region": null,
+                    "postcode": "055428",
+                    "country": "Colombia",
+                    "coordinates": {
+                        "lat": 6.157577,
+                        "lon": -75.518
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Regional",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59619,
+            "sku": "RE-VURC-24-9619",
+            "name": "2024-2025 VEX Robotics Competition Asia Open Finals (VEX U)",
+            "start": "2025-02-20T00:00:00-05:00",
+            "end": "2025-02-23T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "\u53f0\u5dde\u56fd\u9645\u535a\u89c8\u4e2d\u5fc3",
+                "address_1": "\u6912\u6c5f\u533a\u5fc3\u6d77\u8def588\u53f7",
+                "address_2": null,
+                "city": "\u53f0\u5dde\u5e02",
+                "region": "Zhejiang",
+                "postcode": "318000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 28.65985,
+                    "lon": 121.42501
+                }
+            },
+            "locations": {
+                "2025-02-20": {
+                    "venue": "\u53f0\u5dde\u56fd\u9645\u535a\u89c8\u4e2d\u5fc3",
+                    "address_1": "\u6912\u6c5f\u533a\u5fc3\u6d77\u8def588\u53f7",
+                    "address_2": null,
+                    "city": "\u53f0\u5dde\u5e02",
+                    "region": "Zhejiang",
+                    "postcode": "318000",
+                    "country": "China",
+                    "coordinates": {
+                        "lat": 28.65985,
+                        "lon": 121.42501
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "National",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 55722,
+            "sku": "RE-VURC-24-5722",
+            "name": "Columbia VEX U Robotics Competition Signature Event: College",
+            "start": "2025-02-21T00:00:00-05:00",
+            "end": "2025-02-22T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "EIA University",
+                "address_1": "Universidad EIA",
+                "address_2": null,
+                "city": "Vereda El Penasco",
+                "region": null,
+                "postcode": "055428",
+                "country": "Colombia",
+                "coordinates": {
+                    "lat": 6.157577,
+                    "lon": -75.518
+                }
+            },
+            "locations": {
+                "2025-02-21": {
+                    "venue": "EIA University",
+                    "address_1": "Universidad EIA",
+                    "address_2": null,
+                    "city": "Vereda El Penasco",
+                    "region": null,
+                    "postcode": "055428",
+                    "country": "Colombia",
+                    "coordinates": {
+                        "lat": 6.157577,
+                        "lon": -75.518
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Signature",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 56659,
+            "sku": "RE-VURC-24-6659",
+            "name": "Texas VEX University Robotics Competition",
+            "start": "2025-02-21T00:00:00-05:00",
+            "end": "2025-02-22T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Learner Support Center CCISD",
+                "address_1": "2903 Falcon Pass",
+                "address_2": null,
+                "city": "Houston",
+                "region": "Texas",
+                "postcode": "77062",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 29.579033,
+                    "lon": -95.110292
+                }
+            },
+            "locations": {
+                "2025-02-21": {
+                    "venue": "Learner Support Center CCISD",
+                    "address_1": "2903 Falcon Pass",
+                    "address_2": null,
+                    "city": "Houston",
+                    "region": "Texas",
+                    "postcode": "77062",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 29.579033,
+                        "lon": -95.110292
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "VEXU",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 56805,
+            "sku": "RE-VURC-24-6805",
+            "name": "2025 West Virginia VURC Qualifier",
+            "start": "2025-02-21T00:00:00-05:00",
+            "end": "2025-02-21T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "WVU Student Recreation Center",
+                "address_1": "2001 Rec Center Drive",
+                "address_2": null,
+                "city": "Morgantown",
+                "region": "West Virginia",
+                "postcode": "26506",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 39.648159,
+                    "lon": -79.970957
+                }
+            },
+            "locations": {
+                "2025-02-21": {
+                    "venue": "WVU Student Recreation Center",
+                    "address_1": "2001 Rec Center Drive",
+                    "address_2": null,
+                    "city": "Morgantown",
+                    "region": "West Virginia",
+                    "postcode": "26506",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 39.648159,
+                        "lon": -79.970957
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59718,
+            "sku": "RE-VURC-25-9718",
+            "name": "2024-2025 VEX TAIWAN OPEN VURC \u6280\u80fd\u8cfd\uff08Skill Only\uff09",
+            "start": "2025-02-21T00:00:00-05:00",
+            "end": "2025-02-21T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "\u57fa\u9686\u8def2\u6bb5189\u865f11\u6a13\u4e4b6",
+                "address_1": "110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u57fa\u9686\u8def\u4e8c\u6bb5189\u865f11\u4e4b6",
+                "address_2": null,
+                "city": "Taipei",
+                "region": null,
+                "postcode": "110",
+                "country": "Taiwan",
+                "coordinates": {
+                    "lat": 25.024853,
+                    "lon": 121.553366
+                }
+            },
+            "locations": {
+                "2025-02-21": {
+                    "venue": "\u57fa\u9686\u8def2\u6bb5189\u865f11\u6a13\u4e4b6",
+                    "address_1": "110\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u57fa\u9686\u8def\u4e8c\u6bb5189\u865f11\u4e4b6",
+                    "address_2": null,
+                    "city": "Taipei",
+                    "region": null,
+                    "postcode": "110",
+                    "country": "Taiwan",
+                    "coordinates": {
+                        "lat": 25.024853,
+                        "lon": 121.553366
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59013,
+            "sku": "RE-VURC-24-9013",
+            "name": "2025 Tussle For The Southwest: VEX U Robotics Competition",
+            "start": "2025-02-22T00:00:00-05:00",
+            "end": "2025-02-22T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Desert Ridge High School",
+                "address_1": "10045 East Madero Avenue",
+                "address_2": null,
+                "city": "Mesa",
+                "region": "Arizona",
+                "postcode": "85209",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 33.370969,
+                    "lon": -111.617275
+                }
+            },
+            "locations": {
+                "2025-02-22": {
+                    "venue": "Desert Ridge High School",
+                    "address_1": "10045 East Madero Avenue",
+                    "address_2": null,
+                    "city": "Mesa",
+                    "region": "Arizona",
+                    "postcode": "85209",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 33.370969,
+                        "lon": -111.617275
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59239,
+            "sku": "RE-VURC-24-9239",
+            "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+            "start": "2025-02-22T00:00:00-05:00",
+            "end": "2025-02-22T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Strategic Air Command & Aerospace Museum",
+                "address_1": "28210 West Park Highway",
+                "address_2": null,
+                "city": "Ashland",
+                "region": "Nebraska",
+                "postcode": "68003",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 41.017672,
+                    "lon": -96.320946
+                }
+            },
+            "locations": {
+                "2025-02-22": {
+                    "venue": "Strategic Air Command & Aerospace Museum",
+                    "address_1": "28210 West Park Highway",
+                    "address_2": null,
+                    "city": "Ashland",
+                    "region": "Nebraska",
+                    "postcode": "68003",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 41.017672,
+                        "lon": -96.320946
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": " Willy's Aerospace Extravaganza VURC",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59418,
+            "sku": "RE-VURC-24-9418",
+            "name": "Campeonato final de la liga del Estado de Hidalgo",
+            "start": "2025-02-25T00:00:00-05:00",
+            "end": "2025-02-25T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Instalaciones de la Feria Pachuca, Hidalgo",
+                "address_1": "Carretera Mexico-Pachuca Km. 84.5 Letra A Col. Juan C. Doria",
+                "address_2": null,
+                "city": "PACHUCA",
+                "region": "Hidalgo",
+                "postcode": "42083",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 20.066924,
+                    "lon": -98.777721
+                }
+            },
+            "locations": {
+                "2025-02-25": {
+                    "venue": "Instalaciones de la Feria Pachuca, Hidalgo",
+                    "address_1": "Carretera Mexico-Pachuca Km. 84.5 Letra A Col. Juan C. Doria",
+                    "address_2": null,
+                    "city": "PACHUCA",
+                    "region": "Hidalgo",
+                    "postcode": "42083",
+                    "country": "Mexico",
+                    "coordinates": {
+                        "lat": 20.066924,
+                        "lon": -98.777721
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 57756,
+            "sku": "RE-VURC-24-7756",
+            "name": "16vo.Campeonato Nacional de Rob\u00f3tica y Habilidades STEM",
+            "start": "2025-02-26T00:00:00-05:00",
+            "end": "2025-02-28T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "RECINTO FERIAL PACHUCA HIDALGO",
+                "address_1": "CARRETERA MEXICO PACHUCA KM. 84.5 LETRA \u201cA\u201d COL. JUAN C. DORIA, INSTALACIONES DE LA FERIA",
+                "address_2": null,
+                "city": "Pachuca de Soto",
+                "region": "Hidalgo",
+                "postcode": "42083",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 20.075842,
+                    "lon": -98.776776
+                }
+            },
+            "locations": {
+                "2025-02-26": {
+                    "venue": "RECINTO FERIAL PACHUCA HIDALGO",
+                    "address_1": "CARRETERA MEXICO PACHUCA KM. 84.5 LETRA \u201cA\u201d COL. JUAN C. DORIA, INSTALACIONES DE LA FERIA",
+                    "address_2": null,
+                    "city": "Pachuca de Soto",
+                    "region": "Hidalgo",
+                    "postcode": "42083",
+                    "country": "Mexico",
+                    "coordinates": {
+                        "lat": 20.075842,
+                        "lon": -98.776776
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Ciencia",
+                    "order": 1
+                }
+            ],
+            "level": "Regional",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59831,
+            "sku": "RE-VURC-25-9831",
+            "name": "UAE VEX U Skills Only: National Qualifier",
+            "start": "2025-02-26T00:00:00-05:00",
+            "end": "2025-02-26T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Sharjah Research Technology and Innovation Park",
+                "address_1": "",
+                "address_2": null,
+                "city": "Sharjah",
+                "region": null,
+                "postcode": "",
+                "country": "United Arab Emirates",
+                "coordinates": {
+                    "lat": 25.35617,
+                    "lon": 55.427211
+                }
+            },
+            "locations": {
+                "2025-02-26": {
+                    "venue": "Sharjah Research Technology and Innovation Park",
+                    "address_1": "",
+                    "address_2": null,
+                    "city": "Sharjah",
+                    "region": null,
+                    "postcode": "",
+                    "country": "United Arab Emirates",
+                    "coordinates": {
+                        "lat": 25.35617,
+                        "lon": 55.427211
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 57770,
+            "sku": "RE-VURC-24-7770",
+            "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+            "start": "2025-02-27T00:00:00-05:00",
+            "end": "2025-02-27T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "St. Cloud River\u2019s Edge Convention Center",
+                "address_1": "10 4th Avenue South",
+                "address_2": null,
+                "city": "Saint Cloud",
+                "region": "Minnesota",
+                "postcode": "56301",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 45.562026,
+                    "lon": -94.157052
+                }
+            },
+            "locations": {
+                "2025-02-27": {
+                    "venue": "St. Cloud River\u2019s Edge Convention Center",
+                    "address_1": "10 4th Avenue South",
+                    "address_2": null,
+                    "city": "Saint Cloud",
+                    "region": "Minnesota",
+                    "postcode": "56301",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 45.562026,
+                        "lon": -94.157052
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "MN VEX U",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59825,
+            "sku": "RE-VURC-25-9825",
+            "name": "Egypt VEX U National Skills Only Event: National Qualifier",
+            "start": "2025-02-27T00:00:00-05:00",
+            "end": "2025-02-27T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "The Club Plus Gate 4",
+                "address_1": "",
+                "address_2": null,
+                "city": "New Administrative Capital",
+                "region": null,
+                "postcode": "4826001",
+                "country": "Egypt",
+                "coordinates": {
+                    "lat": 30.041468,
+                    "lon": 31.689617
+                }
+            },
+            "locations": {
+                "2025-02-27": {
+                    "venue": "The Club Plus Gate 4",
+                    "address_1": "",
+                    "address_2": null,
+                    "city": "New Administrative Capital",
+                    "region": null,
+                    "postcode": "4826001",
+                    "country": "Egypt",
+                    "coordinates": {
+                        "lat": 30.041468,
+                        "lon": 31.689617
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 55623,
+            "sku": "RE-VURC-24-5623",
+            "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+            "start": "2025-03-01T00:00:00-05:00",
+            "end": "2025-03-01T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "California Polytechnic State University: San Luis Obispo",
+                "address_1": "1 Grand Avenue",
+                "address_2": null,
+                "city": "San Luis Obispo",
+                "region": "California",
+                "postcode": "93407",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 35.302023,
+                    "lon": -120.659368
+                }
+            },
+            "locations": {
+                "2025-03-01": {
+                    "venue": "California Polytechnic State University: San Luis Obispo",
+                    "address_1": "1 Grand Avenue",
+                    "address_2": null,
+                    "city": "San Luis Obispo",
+                    "region": "California",
+                    "postcode": "93407",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 35.302023,
+                        "lon": -120.659368
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59225,
+            "sku": "RE-VURC-24-9225",
+            "name": "Mid-Atlantic VEXU High Stakes Tournament",
+            "start": "2025-03-01T00:00:00-05:00",
+            "end": "2025-03-01T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "STAR Tower - Audion",
+                "address_1": "100 Discovery Boulevard",
+                "address_2": null,
+                "city": "Newark",
+                "region": "Delaware",
+                "postcode": "19713",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 39.663501,
+                    "lon": -75.754876
+                }
+            },
+            "locations": {
+                "2025-03-01": {
+                    "venue": "STAR Tower - Audion",
+                    "address_1": "100 Discovery Boulevard",
+                    "address_2": null,
+                    "city": "Newark",
+                    "region": "Delaware",
+                    "postcode": "19713",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 39.663501,
+                        "lon": -75.754876
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Default Division",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 59650,
+            "sku": "RE-VURC-24-9650",
+            "name": "VEXU | High Stakes | Spain Championship 2025: ESEIAAT - UPC",
+            "start": "2025-03-01T00:00:00-05:00",
+            "end": "2025-03-02T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "UPC Escuela Superior de Ingenier\u00edas Industrial, Aeroespacial y Audiovisual",
+                "address_1": "11 Carrer de Colom",
+                "address_2": null,
+                "city": "Terrassa",
+                "region": null,
+                "postcode": "08222",
+                "country": "Spain",
+                "coordinates": {
+                    "lat": 41.563272,
+                    "lon": 2.0232
+                }
+            },
+            "locations": {
+                "2025-03-01": {
+                    "venue": "UPC Escuela Superior de Ingenier\u00edas Industrial, Aeroespacial y Audiovisual",
+                    "address_1": "11 Carrer de Colom",
+                    "address_2": null,
+                    "city": "Terrassa",
+                    "region": null,
+                    "postcode": "08222",
+                    "country": "Spain",
+                    "coordinates": {
+                        "lat": 41.563272,
+                        "lon": 2.0232
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Division 1",
+                    "order": 1
+                }
+            ],
+            "level": "Regional",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 58590,
+            "sku": "RE-VURC-24-8590",
+            "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+            "start": "2025-03-08T00:00:00-05:00",
+            "end": "2025-03-08T00:00:00-05:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "812 3rd Street",
+                "address_1": "812 3rd Street",
+                "address_2": null,
+                "city": "West Lafayette",
+                "region": "Indiana",
+                "postcode": "47907",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 40.428079,
+                    "lon": -86.916303
+                }
+            },
+            "locations": {
+                "2025-03-08": {
+                    "venue": "812 3rd Street",
+                    "address_1": "812 3rd Street",
+                    "address_2": null,
+                    "city": "West Lafayette",
+                    "region": "Indiana",
+                    "postcode": "47907",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 40.428079,
+                        "lon": -86.916303
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "The Slammer",
+                    "order": 1
+                }
+            ],
+            "level": "Other",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        },
+        {
+            "id": 58911,
+            "sku": "RE-VURC-24-8911",
+            "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+            "start": "2025-05-09T00:00:00-04:00",
+            "end": "2025-05-11T00:00:00-04:00",
+            "season": {
+                "id": 191,
+                "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+                "code": null
+            },
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "location": {
+                "venue": "Kay Bailey Hutchison Convention Center Dallas",
+                "address_1": "650 South Griffin Street",
+                "address_2": null,
+                "city": "Dallas",
+                "region": "Texas",
+                "postcode": "75202",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 32.774509,
+                    "lon": -96.800605
+                }
+            },
+            "locations": {
+                "2025-05-09": {
+                    "venue": "Kay Bailey Hutchison Convention Center Dallas",
+                    "address_1": "650 South Griffin Street",
+                    "address_2": null,
+                    "city": "Dallas",
+                    "region": "Texas",
+                    "postcode": "75202",
+                    "country": "United States",
+                    "coordinates": {
+                        "lat": 32.774509,
+                        "lon": -96.800605
+                    }
+                }
+            },
+            "divisions": [
+                {
+                    "id": 1,
+                    "name": "Math",
+                    "order": 1
+                },
+                {
+                    "id": 2,
+                    "name": "Technology",
+                    "order": 2
+                },
+                {
+                    "id": 3,
+                    "name": "VEX U",
+                    "order": 3
+                }
+            ],
+            "level": "World",
+            "ongoing": false,
+            "awards_finalized": true,
+            "event_type": null
+        }
+    ]
+}

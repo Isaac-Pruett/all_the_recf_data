@@ -1,0 +1,953 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/177201/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/177201/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/177201/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 18,
+        "total": 18
+    },
+    "data": [
+        {
+            "id": 108738778,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-03-01T10:04:30-05:00",
+            "started": null,
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 22168,
+                                "name": "CSM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 103700486,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-02-08T10:41:00-05:00",
+            "started": "2025-02-08T10:57:16-05:00",
+            "field": "A",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 151699,
+                                "name": "SHU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 103700492,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-08T11:14:00-05:00",
+            "started": "2025-02-08T11:41:48-05:00",
+            "field": "A",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131010,
+                                "name": "HSKY",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 108738785,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-03-01T10:36:00-05:00",
+            "started": "2025-03-01T11:09:55-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164364,
+                                "name": "SCAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 103700496,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-02-08T11:36:00-05:00",
+            "started": "2025-02-08T12:13:03-05:00",
+            "field": "A",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 108738792,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-03-01T11:07:30-05:00",
+            "started": "2025-03-01T11:41:23-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59565,
+                                "name": "NJIT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 103700500,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-08T11:58:00-05:00",
+            "started": "2025-02-08T12:49:43-05:00",
+            "field": "A",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164364,
+                                "name": "SCAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 108738794,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2025-03-01T11:16:30-05:00",
+            "started": "2025-03-01T11:49:40-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142160,
+                                "name": "UDVEX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 103700503,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2025-02-08T12:14:30-05:00",
+            "started": "2025-02-08T13:16:08-05:00",
+            "field": "B",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73839,
+                                "name": "WPI",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 108738802,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-03-01T11:52:30-05:00",
+            "started": "2025-03-01T12:43:10-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130065,
+                                "name": "GULLS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 103700510,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-02-08T12:53:00-05:00",
+            "started": "2025-02-08T14:20:13-05:00",
+            "field": "A",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160122,
+                                "name": "ONE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 103700512,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2025-02-08T13:04:00-05:00",
+            "started": "2025-02-08T14:34:37-05:00",
+            "field": "A",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174081,
+                                "name": "RREV",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 108738809,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-03-01T13:22:30-05:00",
+            "started": "2025-03-01T13:28:17-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148043,
+                                "name": "QUEEN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 103700518,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2025-02-08T13:37:00-05:00",
+            "started": null,
+            "field": "A",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59565,
+                                "name": "NJIT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        },
+        {
+            "id": 108738813,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2025-03-01T13:40:30-05:00",
+            "started": "2025-03-01T13:49:17-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738817,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 41,
+            "scheduled": "2025-03-01T13:58:30-05:00",
+            "started": "2025-03-01T14:10:58-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "Qualifier #41",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77038,
+                                "name": "BV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738822,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-01T15:13:18-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 22168,
+                                "name": "CSM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 103700523,
+            "event": {
+                "id": 59067,
+                "name": "SHU VEXU High Stakes Tournament: VEX U Only",
+                "code": "RE-VURC-24-9067"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-08T16:16:18-05:00",
+            "field": null,
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T17:20:25-05:00"
+        }
+    ]
+}

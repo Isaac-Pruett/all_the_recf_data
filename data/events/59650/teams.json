@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/59650/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/59650/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/59650/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 3,
+        "total": 3
+    },
+    "data": [
+        {
+            "id": 90567,
+            "number": "PUCR4",
+            "team_name": "PUCRA Robotics",
+            "robot_name": "",
+            "organization": "PUCRA (EEBE UPC)",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Barcelona",
+                "region": "Barcelona",
+                "postcode": "08019",
+                "country": "Spain",
+                "coordinates": {
+                    "lat": 41.4,
+                    "lon": 2.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 91233,
+            "number": "VEDRU1",
+            "team_name": "The Lords of the Ring",
+            "robot_name": "The Lords of the Ring",
+            "organization": "Col\u00b7legi Vedruna Vall",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Terrassa",
+                "region": "Barcelona",
+                "postcode": "08221",
+                "country": "Spain",
+                "coordinates": {
+                    "lat": 41.6,
+                    "lon": 2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 126425,
+            "number": "VEDRU2",
+            "team_name": "Pegasus",
+            "robot_name": "Pegasus",
+            "organization": "Col\u00b7legi Vedruna Vall",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Terrassa",
+                "region": "Barcelona",
+                "postcode": "08221",
+                "country": "Spain",
+                "coordinates": {
+                    "lat": 41.6,
+                    "lon": 2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

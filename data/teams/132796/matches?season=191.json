@@ -1,0 +1,589 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/132796/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/132796/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/132796/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 11,
+        "total": 11
+    },
+    "data": [
+        {
+            "id": 92421664,
+            "event": {
+                "id": 56053,
+                "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+                "code": "RE-VURC-24-6053"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2024-12-05T18:00:00-05:00",
+            "started": "2024-12-05T19:36:39-05:00",
+            "field": "RECF",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169748,
+                                "name": "TROBE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 132796,
+                                "name": "EMU5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-12T18:44:53-05:00"
+        },
+        {
+            "id": 92421668,
+            "event": {
+                "id": 56053,
+                "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+                "code": "RE-VURC-24-6053"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2024-12-05T18:28:00-05:00",
+            "started": "2024-12-05T20:59:09-05:00",
+            "field": "RECF",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 132796,
+                                "name": "EMU5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179498,
+                                "name": "FLARE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-12T18:44:53-05:00"
+        },
+        {
+            "id": 92421671,
+            "event": {
+                "id": 56053,
+                "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+                "code": "RE-VURC-24-6053"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2024-12-05T18:49:00-05:00",
+            "started": "2024-12-05T21:25:35-05:00",
+            "field": "RECF",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 134913,
+                                "name": "GUARD",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 132796,
+                                "name": "EMU5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-12T18:44:53-05:00"
+        },
+        {
+            "id": 92421673,
+            "event": {
+                "id": 56053,
+                "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+                "code": "RE-VURC-24-6053"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2024-12-05T19:03:00-05:00",
+            "started": "2024-12-05T21:40:46-05:00",
+            "field": "RECF",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 132796,
+                                "name": "EMU5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179498,
+                                "name": "FLARE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-12T18:44:53-05:00"
+        },
+        {
+            "id": 92421675,
+            "event": {
+                "id": 56053,
+                "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+                "code": "RE-VURC-24-6053"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2024-12-05T19:17:00-05:00",
+            "started": "2024-12-05T21:54:07-05:00",
+            "field": "RECF",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 132796,
+                                "name": "EMU5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181049,
+                                "name": "OBR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-12T18:44:53-05:00"
+        },
+        {
+            "id": 92421677,
+            "event": {
+                "id": 56053,
+                "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+                "code": "RE-VURC-24-6053"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2024-12-05T19:31:00-05:00",
+            "started": "2024-12-05T22:07:06-05:00",
+            "field": "RECF",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169748,
+                                "name": "TROBE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 132796,
+                                "name": "EMU5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-12T18:44:53-05:00"
+        },
+        {
+            "id": 92421679,
+            "event": {
+                "id": 56053,
+                "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+                "code": "RE-VURC-24-6053"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2024-12-05T19:45:00-05:00",
+            "started": "2024-12-05T22:19:42-05:00",
+            "field": "RECF",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 134913,
+                                "name": "GUARD",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 132796,
+                                "name": "EMU5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-12T18:44:53-05:00"
+        },
+        {
+            "id": 92421682,
+            "event": {
+                "id": 56053,
+                "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+                "code": "RE-VURC-24-6053"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2024-12-05T20:06:00-05:00",
+            "started": "2024-12-05T22:37:38-05:00",
+            "field": "RECF",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 132796,
+                                "name": "EMU5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181049,
+                                "name": "OBR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-12T18:44:53-05:00"
+        },
+        {
+            "id": 92421686,
+            "event": {
+                "id": 56053,
+                "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+                "code": "RE-VURC-24-6053"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-05T23:11:35-05:00",
+            "field": "RECF",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 134913,
+                                "name": "GUARD",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 132796,
+                                "name": "EMU5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-12T18:44:53-05:00"
+        },
+        {
+            "id": 92421687,
+            "event": {
+                "id": 56053,
+                "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+                "code": "RE-VURC-24-6053"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-06T00:34:18-05:00",
+            "field": null,
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 132796,
+                                "name": "EMU5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181049,
+                                "name": "OBR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-12T18:44:53-05:00"
+        },
+        {
+            "id": 92421688,
+            "event": {
+                "id": 56053,
+                "name": "VEX Robotics 2024-2025 Australian National Championships (VURC): Vex University  Robotics Competition (VEXU)",
+                "code": "RE-VURC-24-6053"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "Final #1-2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 2,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 132796,
+                                "name": "EMU5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181049,
+                                "name": "OBR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-12T18:44:53-05:00"
+        }
+    ]
+}

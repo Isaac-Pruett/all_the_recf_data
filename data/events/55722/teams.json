@@ -1,0 +1,287 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/55722/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/55722/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/55722/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 10,
+        "total": 10
+    },
+    "data": [
+        {
+            "id": 151461,
+            "number": "AA1",
+            "team_name": "EIABOTICS",
+            "robot_name": "",
+            "organization": "Universidad EIA",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Medellin",
+                "region": null,
+                "postcode": "055427",
+                "country": "Colombia",
+                "coordinates": {
+                    "lat": 6.2,
+                    "lon": -75.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 157830,
+            "number": "IABC1",
+            "team_name": "Inter Robotics",
+            "robot_name": "",
+            "organization": "Inter American University Of Puerto Rico - Bayamon Campus",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Bayam\u00f3n",
+                "region": null,
+                "postcode": "00956",
+                "country": "Puerto Rico",
+                "coordinates": {
+                    "lat": 18.3,
+                    "lon": -66.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 152161,
+            "number": "IQ1",
+            "team_name": "Cazadores",
+            "robot_name": "Roadhog and Junkrat",
+            "organization": "Fundacion IQ Tecnologia",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Barranquilla",
+                "region": null,
+                "postcode": "080015",
+                "country": "Colombia",
+                "coordinates": {
+                    "lat": 11,
+                    "lon": -74.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 168025,
+            "number": "IQIUB1",
+            "team_name": "Unibarranquilla",
+            "robot_name": "",
+            "organization": "Fundacion IQ/instituci\u00f3n universitaria de Barranquilla",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Barranquilla",
+                "region": null,
+                "postcode": "080015",
+                "country": "Colombia",
+                "coordinates": {
+                    "lat": 11,
+                    "lon": -74.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 65221,
+            "number": "PUJ1",
+            "team_name": "Javex Robotics",
+            "robot_name": "Rayo Mcqueen",
+            "organization": "Pontificia Universidad Javeriana",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Bogot\u00e1 D.c",
+                "region": null,
+                "postcode": "110231",
+                "country": "Colombia",
+                "coordinates": {
+                    "lat": 4.6,
+                    "lon": -74.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 89985,
+            "number": "SENAV1",
+            "team_name": "SENA VALLE",
+            "robot_name": "",
+            "organization": "SENA VALLE",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Cali",
+                "region": null,
+                "postcode": "00000",
+                "country": "Colombia",
+                "coordinates": {
+                    "lat": 3.4,
+                    "lon": -76.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 116351,
+            "number": "SENAV2",
+            "team_name": "SENA VALLE",
+            "robot_name": "",
+            "organization": "SENA VALLE",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Cali",
+                "region": null,
+                "postcode": "00000",
+                "country": "Colombia",
+                "coordinates": {
+                    "lat": 3.4,
+                    "lon": -76.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 165665,
+            "number": "TCGMC2",
+            "team_name": "TCMG2",
+            "robot_name": "El I\u00f3nico",
+            "organization": "UTCAM",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Camargo",
+                "region": "Chihuahua",
+                "postcode": "33730",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 27.7,
+                    "lon": -105.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 53020,
+            "number": "UTCJ1",
+            "team_name": "UTCJ1",
+            "robot_name": null,
+            "organization": "Universidad Tecnologica de Ciudad Juarez",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Cd. Juarez",
+                "region": "Chihuahua",
+                "postcode": "46680",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 31.7,
+                    "lon": -106.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 150432,
+            "number": "UTCJ2",
+            "team_name": "UT Ciudad Juarez",
+            "robot_name": "Bravo1_UTCJ",
+            "organization": "Universidad Tecnologica de Ciudad Juarez",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Juarez",
+                "region": "Chihuahua",
+                "postcode": "32695",
+                "country": "Mexico",
+                "coordinates": {
+                    "lat": 31.6,
+                    "lon": -106.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

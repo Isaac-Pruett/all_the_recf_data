@@ -1,0 +1,1733 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/176372/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/176372/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/176372/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 33,
+        "total": 33
+    },
+    "data": [
+        {
+            "id": 106988066,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-22T10:08:30-05:00",
+            "started": "2025-02-22T10:38:34-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 1,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175783,
+                                "name": "INTRT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 107549682,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-27T15:10:00-05:00",
+            "started": "2025-02-27T15:45:37-05:00",
+            "field": "Coldspring",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162386,
+                                "name": "CYBER5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 92335062,
+            "event": {
+                "id": 56497,
+                "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+                "code": "RE-VURC-24-6497"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2024-12-07T10:07:00-05:00",
+            "started": "2024-12-07T10:41:32-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 112815,
+                                "name": "HAIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T14:23:00-05:00"
+        },
+        {
+            "id": 92335065,
+            "event": {
+                "id": 56497,
+                "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+                "code": "RE-VURC-24-6497"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2024-12-07T10:23:30-05:00",
+            "started": "2024-12-07T11:17:03-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 103093,
+                                "name": "WMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T14:23:00-05:00"
+        },
+        {
+            "id": 106988072,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-22T10:59:30-05:00",
+            "started": "2025-02-22T11:42:25-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 107549687,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-27T15:26:40-05:00",
+            "started": "2025-02-27T16:14:48-05:00",
+            "field": "UND",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162290,
+                                "name": "DEVIL5",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 92335069,
+            "event": {
+                "id": 56497,
+                "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+                "code": "RE-VURC-24-6497"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2024-12-07T10:45:30-05:00",
+            "started": "2024-12-07T11:42:57-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147253,
+                                "name": "KUDOS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T14:23:00-05:00"
+        },
+        {
+            "id": 106988076,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-02-22T11:33:30-05:00",
+            "started": "2025-02-22T12:22:01-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182359,
+                                "name": "RVRSE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 107549691,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-02-27T15:40:00-05:00",
+            "started": "2025-02-27T16:40:39-05:00",
+            "field": "Coldspring",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157098,
+                                "name": "JACKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 106988080,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-02-22T12:07:30-05:00",
+            "started": "2025-02-22T13:03:45-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179009,
+                                "name": "SKERS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 107549695,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-27T15:53:20-05:00",
+            "started": "2025-02-27T17:00:39-05:00",
+            "field": "Park Industries",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 99253,
+                                "name": "BISON1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 106988082,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2025-02-22T12:24:30-05:00",
+            "started": "2025-02-22T14:02:46-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179009,
+                                "name": "SKERS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 92335075,
+            "event": {
+                "id": 56497,
+                "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+                "code": "RE-VURC-24-6497"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2024-12-07T11:18:30-05:00",
+            "started": "2024-12-07T12:52:50-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161224,
+                                "name": "PLATT1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T14:23:00-05:00"
+        },
+        {
+            "id": 107549698,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2025-02-27T16:03:20-05:00",
+            "started": "2025-02-27T17:15:42-05:00",
+            "field": "Park Industries",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59198,
+                                "name": "ESR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 106988085,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-02-22T12:50:00-05:00",
+            "started": "2025-02-22T14:41:42-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 106988090,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-02-22T13:24:00-05:00",
+            "started": "2025-02-22T15:25:42-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 107549705,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-02-27T16:26:40-05:00",
+            "started": "2025-02-27T17:39:39-05:00",
+            "field": "UND",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 63958,
+                                "name": "UMN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 92335085,
+            "event": {
+                "id": 56497,
+                "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+                "code": "RE-VURC-24-6497"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2024-12-07T12:41:00-05:00",
+            "started": "2024-12-07T13:54:12-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161225,
+                                "name": "PLATT2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T14:23:00-05:00"
+        },
+        {
+            "id": 107549708,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-02-27T16:36:40-05:00",
+            "started": null,
+            "field": "UND",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 92335087,
+            "event": {
+                "id": 56497,
+                "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+                "code": "RE-VURC-24-6497"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2024-12-07T12:52:00-05:00",
+            "started": "2024-12-07T14:06:03-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161622,
+                                "name": "MSOE",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T14:23:00-05:00"
+        },
+        {
+            "id": 106988096,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 32,
+            "scheduled": "2025-02-22T14:12:00-05:00",
+            "started": "2025-02-22T16:16:44-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #32",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 107549712,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2025-02-27T16:50:00-05:00",
+            "started": null,
+            "field": "Coldspring",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 167565,
+                                "name": "UND",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 106988100,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2025-02-22T14:44:00-05:00",
+            "started": null,
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 92335094,
+            "event": {
+                "id": 56497,
+                "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+                "code": "RE-VURC-24-6497"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2024-12-07T13:30:30-05:00",
+            "started": "2024-12-07T14:52:30-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170436,
+                                "name": "ZIPS1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T14:23:00-05:00"
+        },
+        {
+            "id": 106988102,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2025-02-22T15:00:00-05:00",
+            "started": null,
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 92335098,
+            "event": {
+                "id": 56497,
+                "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+                "code": "RE-VURC-24-6497"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 41,
+            "scheduled": "2024-12-07T13:52:30-05:00",
+            "started": "2024-12-07T15:16:42-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #41",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178837,
+                                "name": "PLATT3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T14:23:00-05:00"
+        },
+        {
+            "id": 92335102,
+            "event": {
+                "id": 56497,
+                "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+                "code": "RE-VURC-24-6497"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 45,
+            "scheduled": "2024-12-07T14:14:30-05:00",
+            "started": "2024-12-07T15:41:38-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #45",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 1,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 158187,
+                                "name": "AYO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T14:23:00-05:00"
+        },
+        {
+            "id": 92335107,
+            "event": {
+                "id": 56497,
+                "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+                "code": "RE-VURC-24-6497"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 50,
+            "scheduled": "2024-12-07T14:42:00-05:00",
+            "started": "2024-12-07T16:13:08-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #50",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 49,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176526,
+                                "name": "ARESZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T14:23:00-05:00"
+        },
+        {
+            "id": 107549716,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-27T18:45:45-05:00",
+            "field": "UND",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 106988106,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T16:48:21-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 75787,
+                                "name": "MINES",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 107549719,
+            "event": {
+                "id": 57770,
+                "name": "SCTCC VEX U Regional Qualifying Tournament in Minnesota: VEX U Robotics Competition",
+                "code": "RE-VURC-24-7770"
+            },
+            "division": {
+                "id": 1,
+                "name": "MN VEX U",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-27T19:13:01-05:00",
+            "field": null,
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157098,
+                                "name": "JACKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-27T20:08:49-05:00"
+        },
+        {
+            "id": 106988109,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:16:34-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 92335113,
+            "event": {
+                "id": 56497,
+                "name": "West Michigan Holiday VURC High Stakes Tournament: VURC",
+                "code": "RE-VURC-24-6497"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T16:56:59-05:00",
+            "field": null,
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161225,
+                                "name": "PLATT2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-09T14:23:00-05:00"
+        }
+    ]
+}

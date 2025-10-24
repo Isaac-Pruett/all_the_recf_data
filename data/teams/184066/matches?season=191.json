@@ -1,0 +1,381 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/184066/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/184066/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/184066/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 7,
+        "total": 7
+    },
+    "data": [
+        {
+            "id": 105013037,
+            "event": {
+                "id": 59097,
+                "name": "RIT 2025 VEXU High Stakes Qualifying Tournament: February VEXU Robotics Competition Event",
+                "code": "RE-VURC-24-9097"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-15T10:14:00-05:00",
+            "started": "2025-02-15T11:07:02-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 184066,
+                                "name": "DART",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73839,
+                                "name": "WPI",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T16:43:25-05:00"
+        },
+        {
+            "id": 105013039,
+            "event": {
+                "id": 59097,
+                "name": "RIT 2025 VEXU High Stakes Qualifying Tournament: February VEXU Robotics Competition Event",
+                "code": "RE-VURC-24-9097"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-15T10:42:00-05:00",
+            "started": "2025-02-15T11:22:04-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174882,
+                                "name": "ORANG3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 184066,
+                                "name": "DART",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T16:43:25-05:00"
+        },
+        {
+            "id": 105013043,
+            "event": {
+                "id": 59097,
+                "name": "RIT 2025 VEXU High Stakes Qualifying Tournament: February VEXU Robotics Competition Event",
+                "code": "RE-VURC-24-9097"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-15T11:38:00-05:00",
+            "started": "2025-02-15T11:49:49-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 184066,
+                                "name": "DART",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 54,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148043,
+                                "name": "QUEEN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T16:43:25-05:00"
+        },
+        {
+            "id": 105013046,
+            "event": {
+                "id": 59097,
+                "name": "RIT 2025 VEXU High Stakes Qualifying Tournament: February VEXU Robotics Competition Event",
+                "code": "RE-VURC-24-9097"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2025-02-15T13:14:00-05:00",
+            "started": "2025-02-15T13:33:56-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131010,
+                                "name": "HSKY",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 184066,
+                                "name": "DART",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T16:43:25-05:00"
+        },
+        {
+            "id": 105013048,
+            "event": {
+                "id": 59097,
+                "name": "RIT 2025 VEXU High Stakes Qualifying Tournament: February VEXU Robotics Competition Event",
+                "code": "RE-VURC-24-9097"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-02-15T13:42:00-05:00",
+            "started": "2025-02-15T13:49:01-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 184066,
+                                "name": "DART",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 129604,
+                                "name": "RIT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T16:43:25-05:00"
+        },
+        {
+            "id": 105013052,
+            "event": {
+                "id": 59097,
+                "name": "RIT 2025 VEXU High Stakes Qualifying Tournament: February VEXU Robotics Competition Event",
+                "code": "RE-VURC-24-9097"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-15T14:38:00-05:00",
+            "started": "2025-02-15T14:36:25-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148043,
+                                "name": "QUEEN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 184066,
+                                "name": "DART",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T16:43:25-05:00"
+        },
+        {
+            "id": 105013054,
+            "event": {
+                "id": 59097,
+                "name": "RIT 2025 VEXU High Stakes Qualifying Tournament: February VEXU Robotics Competition Event",
+                "code": "RE-VURC-24-9097"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T15:21:25-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 184066,
+                                "name": "DART",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131010,
+                                "name": "HSKY",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T16:43:25-05:00"
+        }
+    ]
+}

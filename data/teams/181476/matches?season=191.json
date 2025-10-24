@@ -1,0 +1,381 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/181476/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/181476/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/181476/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 7,
+        "total": 7
+    },
+    "data": [
+        {
+            "id": 101857555,
+            "event": {
+                "id": 55820,
+                "name": "Framingham VURC High Stakes Tournament: February VURC Event",
+                "code": "RE-VURC-24-5820"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-01T09:41:40-05:00",
+            "started": "2025-02-01T10:17:38-05:00",
+            "field": "Green",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181476,
+                                "name": "MC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59565,
+                                "name": "NJIT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T17:19:05-05:00"
+        },
+        {
+            "id": 101857563,
+            "event": {
+                "id": 55820,
+                "name": "Framingham VURC High Stakes Tournament: February VURC Event",
+                "code": "RE-VURC-24-5820"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-01T10:45:40-05:00",
+            "started": "2025-02-01T11:47:40-05:00",
+            "field": "Green",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 129604,
+                                "name": "RIT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181476,
+                                "name": "MC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T17:19:05-05:00"
+        },
+        {
+            "id": 101857566,
+            "event": {
+                "id": 55820,
+                "name": "Framingham VURC High Stakes Tournament: February VURC Event",
+                "code": "RE-VURC-24-5820"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-02-01T11:09:40-05:00",
+            "started": "2025-02-01T12:17:24-05:00",
+            "field": "Green",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178716,
+                                "name": "HAM7",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181476,
+                                "name": "MC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T17:19:05-05:00"
+        },
+        {
+            "id": 101857570,
+            "event": {
+                "id": 55820,
+                "name": "Framingham VURC High Stakes Tournament: February VURC Event",
+                "code": "RE-VURC-24-5820"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-01T11:41:40-05:00",
+            "started": "2025-02-01T12:55:19-05:00",
+            "field": "Green",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181476,
+                                "name": "MC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179500,
+                                "name": "MC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T17:19:05-05:00"
+        },
+        {
+            "id": 101857577,
+            "event": {
+                "id": 55820,
+                "name": "Framingham VURC High Stakes Tournament: February VURC Event",
+                "code": "RE-VURC-24-5820"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-02-01T12:37:40-05:00",
+            "started": "2025-02-01T14:00:09-05:00",
+            "field": "Green",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 53,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170470,
+                                "name": "DKFNX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181476,
+                                "name": "MC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T17:19:05-05:00"
+        },
+        {
+            "id": 101857582,
+            "event": {
+                "id": 55820,
+                "name": "Framingham VURC High Stakes Tournament: February VURC Event",
+                "code": "RE-VURC-24-5820"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2025-02-01T13:17:40-05:00",
+            "started": "2025-02-01T14:35:59-05:00",
+            "field": "Green",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181476,
+                                "name": "MC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131010,
+                                "name": "HSKY",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T17:19:05-05:00"
+        },
+        {
+            "id": 101857593,
+            "event": {
+                "id": 55820,
+                "name": "Framingham VURC High Stakes Tournament: February VURC Event",
+                "code": "RE-VURC-24-5820"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-01T16:37:28-05:00",
+            "field": "Green",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 131010,
+                                "name": "HSKY",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181476,
+                                "name": "MC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T17:19:05-05:00"
+        }
+    ]
+}

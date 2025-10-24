@@ -1,0 +1,537 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/149297/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/149297/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/149297/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 10,
+        "total": 10
+    },
+    "data": [
+        {
+            "id": 94782464,
+            "event": {
+                "id": 55708,
+                "name": "2024-2025 Asia Open VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5708"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2024-12-30T20:30:00-05:00",
+            "started": "2024-12-30T21:00:00-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149297,
+                                "name": "MIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181522,
+                                "name": "NYUSH2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-01T02:00:09-05:00"
+        },
+        {
+            "id": 94782471,
+            "event": {
+                "id": 55708,
+                "name": "2024-2025 Asia Open VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5708"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2024-12-30T21:40:00-05:00",
+            "started": "2024-12-30T22:04:37-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149297,
+                                "name": "MIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182217,
+                                "name": "CUMAE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-01T02:00:09-05:00"
+        },
+        {
+            "id": 94782479,
+            "event": {
+                "id": 55708,
+                "name": "2024-2025 Asia Open VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5708"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2024-12-31T00:00:00-05:00",
+            "started": "2024-12-31T00:11:51-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183573,
+                                "name": "CSTU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149297,
+                                "name": "MIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-01T02:00:09-05:00"
+        },
+        {
+            "id": 94782483,
+            "event": {
+                "id": 55708,
+                "name": "2024-2025 Asia Open VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5708"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2024-12-31T00:40:00-05:00",
+            "started": "2024-12-31T00:48:21-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 100169,
+                                "name": "TJU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149297,
+                                "name": "MIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-01T02:00:09-05:00"
+        },
+        {
+            "id": 94782492,
+            "event": {
+                "id": 55708,
+                "name": "2024-2025 Asia Open VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5708"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 32,
+            "scheduled": "2024-12-31T02:10:00-05:00",
+            "started": "2024-12-31T02:12:56-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #32",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149297,
+                                "name": "MIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165345,
+                                "name": "USST1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-01T02:00:09-05:00"
+        },
+        {
+            "id": 94782496,
+            "event": {
+                "id": 55708,
+                "name": "2024-2025 Asia Open VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5708"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2024-12-31T02:50:00-05:00",
+            "started": "2024-12-31T02:47:43-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176526,
+                                "name": "ARESZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149297,
+                                "name": "MIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-01T02:00:09-05:00"
+        },
+        {
+            "id": 94782505,
+            "event": {
+                "id": 55708,
+                "name": "2024-2025 Asia Open VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5708"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 45,
+            "scheduled": "2024-12-31T04:20:00-05:00",
+            "started": "2024-12-31T03:51:15-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #45",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181532,
+                                "name": "USST2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149297,
+                                "name": "MIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-01T02:00:09-05:00"
+        },
+        {
+            "id": 94782509,
+            "event": {
+                "id": 55708,
+                "name": "2024-2025 Asia Open VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5708"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": "2024-12-31T20:00:00-05:00",
+            "started": "2024-12-31T04:17:14-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149297,
+                                "name": "MIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181785,
+                                "name": "SMP1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-01T02:00:09-05:00"
+        },
+        {
+            "id": 94782520,
+            "event": {
+                "id": 55708,
+                "name": "2024-2025 Asia Open VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5708"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": "U",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150608,
+                                "name": "RQ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149297,
+                                "name": "MIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-01T02:00:09-05:00"
+        },
+        {
+            "id": 94782522,
+            "event": {
+                "id": 55708,
+                "name": "2024-2025 Asia Open VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5708"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-31T21:46:02-05:00",
+            "field": "U",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149297,
+                                "name": "MIL",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183573,
+                                "name": "CSTU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-01T02:00:09-05:00"
+        }
+    ]
+}

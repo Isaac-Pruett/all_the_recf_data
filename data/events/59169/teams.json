@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/59169/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/59169/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/59169/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 5,
+        "total": 5
+    },
+    "data": [
+        {
+            "id": 157830,
+            "number": "IABC1",
+            "team_name": "Inter Robotics",
+            "robot_name": "",
+            "organization": "Inter American University Of Puerto Rico - Bayamon Campus",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Bayam\u00f3n",
+                "region": null,
+                "postcode": "00956",
+                "country": "Puerto Rico",
+                "coordinates": {
+                    "lat": 18.3,
+                    "lon": -66.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 184100,
+            "number": "MMCE2",
+            "team_name": "Mayag\u00fcez Mechatronics & Computational Engineering",
+            "robot_name": "Crispy-T, Robo-Rush",
+            "organization": "University of Puerto Rico - Mayag\u00fcez",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Mayag\u00fcez",
+                "region": null,
+                "postcode": "00680",
+                "country": "Puerto Rico",
+                "coordinates": {
+                    "lat": 18.2,
+                    "lon": -67.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 182786,
+            "number": "NOCSU",
+            "team_name": "NOCSU",
+            "robot_name": "NOCSU",
+            "organization": "Caribbean Robotics Academy",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "San Juan",
+                "region": null,
+                "postcode": "00926",
+                "country": "Puerto Rico",
+                "coordinates": {
+                    "lat": 18.3,
+                    "lon": -66.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 165106,
+            "number": "UPRC",
+            "team_name": "Universidad de Puerto Rico - Carolina",
+            "robot_name": "",
+            "organization": "Universidad de Puerto Rico - Carolina",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Carolina",
+                "region": null,
+                "postcode": "00984",
+                "country": "Puerto Rico",
+                "coordinates": {
+                    "lat": 18.4,
+                    "lon": -66
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 58481,
+            "number": "UPRM",
+            "team_name": "AON Robotics",
+            "robot_name": "",
+            "organization": "Universidad de Puerto Rico - Mayaguez",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Mayaguez",
+                "region": null,
+                "postcode": "00680",
+                "country": "Puerto Rico",
+                "coordinates": {
+                    "lat": 18.2,
+                    "lon": -67.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

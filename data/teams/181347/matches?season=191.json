@@ -1,0 +1,329 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/181347/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/181347/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/181347/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 6,
+        "total": 6
+    },
+    "data": [
+        {
+            "id": 90418914,
+            "event": {
+                "id": 58115,
+                "name": "Philippine VEX Robotics Competition: VEXU Tournament 2",
+                "code": "RE-VURC-24-8115"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2024-11-24T21:30:00-05:00",
+            "started": "2024-11-24T21:45:09-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181347,
+                                "name": "DFCAM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181219,
+                                "name": "NEUST1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-25T03:12:34-05:00"
+        },
+        {
+            "id": 90418916,
+            "event": {
+                "id": 58115,
+                "name": "Philippine VEX Robotics Competition: VEXU Tournament 2",
+                "code": "RE-VURC-24-8115"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2024-11-24T21:50:00-05:00",
+            "started": "2024-11-24T22:06:49-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 167375,
+                                "name": "QCU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181347,
+                                "name": "DFCAM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-25T03:12:34-05:00"
+        },
+        {
+            "id": 90418917,
+            "event": {
+                "id": 58115,
+                "name": "Philippine VEX Robotics Competition: VEXU Tournament 2",
+                "code": "RE-VURC-24-8115"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2024-11-24T22:00:00-05:00",
+            "started": "2024-11-24T22:19:10-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181347,
+                                "name": "DFCAM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181219,
+                                "name": "NEUST1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-25T03:12:34-05:00"
+        },
+        {
+            "id": 90418919,
+            "event": {
+                "id": 58115,
+                "name": "Philippine VEX Robotics Competition: VEXU Tournament 2",
+                "code": "RE-VURC-24-8115"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2024-11-24T22:20:00-05:00",
+            "started": "2024-11-24T22:43:03-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 167375,
+                                "name": "QCU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181347,
+                                "name": "DFCAM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-25T03:12:34-05:00"
+        },
+        {
+            "id": 90418920,
+            "event": {
+                "id": 58115,
+                "name": "Philippine VEX Robotics Competition: VEXU Tournament 2",
+                "code": "RE-VURC-24-8115"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 7,
+            "scheduled": "2024-11-24T22:30:00-05:00",
+            "started": "2024-11-24T22:56:51-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #7",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181347,
+                                "name": "DFCAM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181219,
+                                "name": "NEUST1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-25T03:12:34-05:00"
+        },
+        {
+            "id": 90418922,
+            "event": {
+                "id": 58115,
+                "name": "Philippine VEX Robotics Competition: VEXU Tournament 2",
+                "code": "RE-VURC-24-8115"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2024-11-24T22:50:00-05:00",
+            "started": "2024-11-25T00:05:58-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 167375,
+                                "name": "QCU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181347,
+                                "name": "DFCAM1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-25T03:12:34-05:00"
+        }
+    ]
+}

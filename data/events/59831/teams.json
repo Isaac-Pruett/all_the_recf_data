@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/59831/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/59831/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/59831/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 1,
+        "total": 1
+    },
+    "data": [
+        {
+            "id": 182318,
+            "number": "RAIA1",
+            "team_name": "RAIA42AD",
+            "robot_name": null,
+            "organization": "42 Abu Dhabi",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Abu Dhabi",
+                "region": null,
+                "postcode": "00000",
+                "country": "United Arab Emirates",
+                "coordinates": {
+                    "lat": 24.5,
+                    "lon": 54.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

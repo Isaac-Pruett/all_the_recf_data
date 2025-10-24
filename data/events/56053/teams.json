@@ -1,0 +1,152 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/56053/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/56053/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/56053/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 5,
+        "total": 5
+    },
+    "data": [
+        {
+            "id": 132796,
+            "number": "EMU5",
+            "team_name": "Engineering at Melbourne University",
+            "robot_name": "Barraimal & Dromaius",
+            "organization": "University of Melbourne",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Melbourne",
+                "region": null,
+                "postcode": "3010",
+                "country": "Australia",
+                "coordinates": {
+                    "lat": -37.8,
+                    "lon": 145
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 179498,
+            "number": "FLARE",
+            "team_name": "Flinders Automation and Robotics Engineering",
+            "robot_name": null,
+            "organization": "Flinders University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Adelaide",
+                "region": null,
+                "postcode": "5042",
+                "country": "Australia",
+                "coordinates": {
+                    "lat": -35,
+                    "lon": 138.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 134913,
+            "number": "GUARD",
+            "team_name": "Griffith University Advanced Robotics Development",
+            "robot_name": null,
+            "organization": "Griffith University Gold Coast",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Gold Coast",
+                "region": null,
+                "postcode": "4215",
+                "country": "Australia",
+                "coordinates": {
+                    "lat": -28,
+                    "lon": 153.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181049,
+            "number": "OBR",
+            "team_name": "Old Barker Robotics",
+            "robot_name": null,
+            "organization": "Old Barker Robotics",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Sydney",
+                "region": null,
+                "postcode": "2077",
+                "country": "Australia",
+                "coordinates": {
+                    "lat": -33.7,
+                    "lon": 151.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 169748,
+            "number": "TROBE",
+            "team_name": "La Trobe Robotics Club",
+            "robot_name": null,
+            "organization": "La Trobe Robotics Club (La Trobe University)",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Bundoora",
+                "region": null,
+                "postcode": "3086",
+                "country": "Australia",
+                "coordinates": {
+                    "lat": -37.7,
+                    "lon": 145.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/59536/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/59536/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/59536/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 12,
+        "total": 12
+    },
+    "data": [
+        {
+            "id": 183726,
+            "number": "ASE1",
+            "team_name": "AutoVortex ASE",
+            "robot_name": null,
+            "organization": "Bucharest University of Economic Studies",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Bucharest",
+                "region": null,
+                "postcode": "010374",
+                "country": "Romania",
+                "coordinates": {
+                    "lat": 44.4,
+                    "lon": 26.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181579,
+            "number": "AUK1",
+            "team_name": "SPARC",
+            "robot_name": null,
+            "organization": "American University of Kuwait (AUK)",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Salmiya",
+                "region": null,
+                "postcode": "00000",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.3,
+                    "lon": 48.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181580,
+            "number": "AUK2",
+            "team_name": "Ctrl-Alt-Defeat",
+            "robot_name": null,
+            "organization": "American University of Kuwait (AUK)",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Salmiya",
+                "region": null,
+                "postcode": "00000",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.3,
+                    "lon": 48.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 119490,
+            "number": "AUM1",
+            "team_name": "AUMRobotics",
+            "robot_name": "Terminator",
+            "organization": "American University of the Middle East, Kuwait",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Eqaila",
+                "region": null,
+                "postcode": "54200",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.2,
+                    "lon": 48.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 182684,
+            "number": "AUM2",
+            "team_name": "AUMRobotics",
+            "robot_name": "Phoenix",
+            "organization": "American University of the Middle East, Kuwait",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Eqaila",
+                "region": null,
+                "postcode": "54200",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.2,
+                    "lon": 48.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181784,
+            "number": "AUU1",
+            "team_name": "AU Kangaroos",
+            "robot_name": "",
+            "organization": "Australian university",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Mishref",
+                "region": null,
+                "postcode": "40000",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.3,
+                    "lon": 48.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181802,
+            "number": "AUU2",
+            "team_name": "AUU2",
+            "robot_name": null,
+            "organization": "Australian university",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Mishref",
+                "region": null,
+                "postcode": "40000",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.3,
+                    "lon": 48.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 152336,
+            "number": "GUST1",
+            "team_name": "Phoenix",
+            "robot_name": "",
+            "organization": "Gulf University for Science and Technology (GUST)",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Mubarak Al-Abdullah Area/West Mishref",
+                "region": null,
+                "postcode": "32093",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.3,
+                    "lon": 48.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 180425,
+            "number": "KTECH1",
+            "team_name": "Prometheus",
+            "robot_name": "",
+            "organization": "ktech",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Abu-Halifa",
+                "region": null,
+                "postcode": "54753",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.1,
+                    "lon": 48.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 180426,
+            "number": "KTECH2",
+            "team_name": "Akheilos",
+            "robot_name": "Bluntnose",
+            "organization": "ktech",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Abu-Halifa",
+                "region": null,
+                "postcode": "54753",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.1,
+                    "lon": 48.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 163205,
+            "number": "KU1",
+            "team_name": "SandDroid",
+            "robot_name": "",
+            "organization": "Kuwait University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Kuwait",
+                "region": null,
+                "postcode": "13060",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.3,
+                    "lon": 47.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181759,
+            "number": "TRY6",
+            "team_name": "First Try",
+            "robot_name": null,
+            "organization": "Arab Open University - Kuwait",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Al-Ardiya",
+                "region": null,
+                "postcode": "92400",
+                "country": "Kuwait",
+                "coordinates": {
+                    "lat": 29.3,
+                    "lon": 47.9
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

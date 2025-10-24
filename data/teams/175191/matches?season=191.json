@@ -1,0 +1,641 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/175191/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/175191/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/175191/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 12,
+        "total": 12
+    },
+    "data": [
+        {
+            "id": 104046762,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 1,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-08T11:06:00-05:00",
+            "started": "2025-02-08T13:30:06-05:00",
+            "field": "Attabotics",
+            "scored": false,
+            "name": "Practice #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164839,
+                                "name": "OSRC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        },
+        {
+            "id": 104046768,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-02-08T13:19:00-05:00",
+            "started": "2025-02-08T15:29:58-05:00",
+            "field": "Attabotics",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183947,
+                                "name": "SVNK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        },
+        {
+            "id": 104046770,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-02-08T13:38:00-05:00",
+            "started": "2025-02-08T15:51:09-05:00",
+            "field": "Attabotics",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        },
+        {
+            "id": 104046775,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-08T14:25:30-05:00",
+            "started": "2025-02-08T16:36:41-05:00",
+            "field": "Attabotics",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164839,
+                                "name": "OSRC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        },
+        {
+            "id": 104046781,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-02-08T15:22:30-05:00",
+            "started": "2025-02-08T17:28:44-05:00",
+            "field": "Attabotics",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148043,
+                                "name": "QUEEN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        },
+        {
+            "id": 104046785,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2025-02-08T16:30:00-05:00",
+            "started": "2025-02-08T18:37:14-05:00",
+            "field": "Attabotics",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157098,
+                                "name": "JACKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        },
+        {
+            "id": 104046792,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-02-08T17:33:00-05:00",
+            "started": "2025-02-08T19:38:32-05:00",
+            "field": "Attabotics",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148043,
+                                "name": "QUEEN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        },
+        {
+            "id": 104046795,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-02-08T18:00:00-05:00",
+            "started": "2025-02-08T20:06:10-05:00",
+            "field": "Attabotics",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183947,
+                                "name": "SVNK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        },
+        {
+            "id": 104046798,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-08T18:27:00-05:00",
+            "started": "2025-02-08T20:27:28-05:00",
+            "field": "Attabotics",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153296,
+                                "name": "OITRC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        },
+        {
+            "id": 104046805,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2025-02-09T09:09:00-05:00",
+            "started": "2025-02-09T11:08:28-05:00",
+            "field": "Attabotics",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153981,
+                                "name": "TNTN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        },
+        {
+            "id": 104046808,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 43,
+            "scheduled": "2025-02-09T09:36:00-05:00",
+            "started": "2025-02-09T11:35:50-05:00",
+            "field": "Attabotics",
+            "scored": false,
+            "name": "Qualifier #43",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181514,
+                                "name": "WM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        },
+        {
+            "id": 104046811,
+            "event": {
+                "id": 55506,
+                "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+                "code": "RE-VURC-24-5506"
+            },
+            "division": {
+                "id": 1,
+                "name": "Badlands",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175191,
+                                "name": "SWARM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153981,
+                                "name": "TNTN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-12T15:27:50-05:00"
+        }
+    ]
+}

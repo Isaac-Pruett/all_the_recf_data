@@ -1,0 +1,901 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/77902/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/77902/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/77902/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 17,
+        "total": 17
+    },
+    "data": [
+        {
+            "id": 105558206,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-02-21T13:45:00-05:00",
+            "started": "2025-02-21T13:45:57-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 158187,
+                                "name": "AYO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 108738780,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-03-01T10:13:30-05:00",
+            "started": "2025-03-01T10:39:45-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164364,
+                                "name": "SCAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 105558211,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-21T14:22:30-05:00",
+            "started": "2025-02-21T14:13:35-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165179,
+                                "name": "WVUTE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 105558214,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2025-02-21T14:45:00-05:00",
+            "started": "2025-02-21T14:44:50-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 116384,
+                                "name": "HERD",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 108738787,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2025-03-01T10:45:00-05:00",
+            "started": "2025-03-01T11:18:37-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 22168,
+                                "name": "CSM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 105558218,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-02-21T15:15:00-05:00",
+            "started": "2025-02-21T15:06:38-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35194,
+                                "name": "VCAT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 108738793,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-03-01T11:12:00-05:00",
+            "started": "2025-03-01T11:46:13-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130065,
+                                "name": "GULLS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 105558225,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2025-02-21T16:07:30-05:00",
+            "started": "2025-02-21T16:06:29-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76458,
+                                "name": "FSU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 108738798,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2025-03-01T11:34:30-05:00",
+            "started": "2025-03-01T12:11:19-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59565,
+                                "name": "NJIT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738800,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-03-01T11:43:30-05:00",
+            "started": "2025-03-01T12:25:49-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142160,
+                                "name": "UDVEX",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 105558230,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-02-21T16:45:00-05:00",
+            "started": "2025-02-21T16:38:49-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 129604,
+                                "name": "RIT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 105558234,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-02-21T18:15:00-05:00",
+            "started": "2025-02-21T18:19:12-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113721,
+                                "name": "WVUR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 108738807,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-03-01T13:13:30-05:00",
+            "started": "2025-03-01T13:19:20-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 56,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73839,
+                                "name": "WPI",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 105558236,
+            "event": {
+                "id": 56805,
+                "name": "2025 West Virginia VURC Qualifier",
+                "code": "RE-VURC-24-6805"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-21T18:30:00-05:00",
+            "started": "2025-02-21T18:29:39-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77038,
+                                "name": "BV1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-21T20:15:41-05:00"
+        },
+        {
+            "id": 108738813,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2025-03-01T13:40:30-05:00",
+            "started": "2025-03-01T13:49:17-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177201,
+                                "name": "DUCKZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738816,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2025-03-01T13:54:00-05:00",
+            "started": "2025-03-01T14:05:17-05:00",
+            "field": "Nest",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 183404,
+                                "name": "PCAW",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        },
+        {
+            "id": 108738821,
+            "event": {
+                "id": 59225,
+                "name": "Mid-Atlantic VEXU High Stakes Tournament",
+                "code": "RE-VURC-24-9225"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-01T15:07:53-05:00",
+            "field": "Coop",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 77902,
+                                "name": "UMBC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148043,
+                                "name": "QUEEN",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T17:31:09-05:00"
+        }
+    ]
+}

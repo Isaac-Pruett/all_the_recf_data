@@ -1,0 +1,745 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/178015/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/178015/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/178015/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 14,
+        "total": 14
+    },
+    "data": [
+        {
+            "id": 100036807,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2025-01-25T11:45:00-05:00",
+            "started": "2025-01-25T11:51:03-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144932,
+                                "name": "BULL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 108827356,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-03-01T12:12:00-05:00",
+            "started": "2025-03-01T12:36:37-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 100036816,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-01-25T12:21:00-05:00",
+            "started": "2025-01-25T12:25:14-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174550,
+                                "name": "ARC3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 108827369,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-03-01T13:30:00-05:00",
+            "started": "2025-03-01T13:57:56-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 73643,
+                                "name": "CBU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 100036823,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-01-25T12:49:00-05:00",
+            "started": "2025-01-25T12:53:05-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 104649,
+                                "name": "AUBIE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 108827373,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2025-03-01T13:54:00-05:00",
+            "started": "2025-03-01T14:22:15-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 74340,
+                                "name": "CSUNB",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 100036831,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 25,
+            "scheduled": "2025-01-25T14:20:00-05:00",
+            "started": "2025-01-25T14:26:10-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #25",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182373,
+                                "name": "TTACE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 100036836,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-01-25T14:40:00-05:00",
+            "started": "2025-01-25T14:46:37-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76395,
+                                "name": "OWL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 108827384,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-03-01T15:30:00-05:00",
+            "started": "2025-03-01T15:57:21-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 62,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 106975,
+                                "name": "CPSLO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 108827388,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2025-03-01T15:54:00-05:00",
+            "started": "2025-03-01T16:20:57-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 35506,
+                                "name": "MTSAC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 100036845,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2025-01-25T15:16:00-05:00",
+            "started": "2025-01-25T15:25:08-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 144133,
+                                "name": "ARC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 108827395,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 42,
+            "scheduled": "2025-03-01T16:36:00-05:00",
+            "started": "2025-03-01T17:04:02-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #42",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 167892,
+                                "name": "SMC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 108827404,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 51,
+            "scheduled": "2025-03-01T17:30:00-05:00",
+            "started": "2025-03-01T17:57:57-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #51",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162677,
+                                "name": "UCSB1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 108827410,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-01T18:36:40-05:00",
+            "field": null,
+            "scored": false,
+            "name": "R16 #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178015,
+                                "name": "AAMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 62,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 106975,
+                                "name": "CPSLO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
+        }
+    ]
+}

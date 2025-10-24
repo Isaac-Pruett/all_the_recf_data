@@ -1,0 +1,953 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/143212/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/143212/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/143212/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 18,
+        "total": 18
+    },
+    "data": [
+        {
+            "id": 107031749,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-21T11:04:30-05:00",
+            "started": "2025-02-22T11:19:52-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 99184,
+                                "name": "WHOOP",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 100036809,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-01-25T11:53:00-05:00",
+            "started": "2025-01-25T11:58:28-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137639,
+                                "name": "EZPZ",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 107031757,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-21T11:40:30-05:00",
+            "started": "2025-02-22T12:14:45-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164038,
+                                "name": "CARDS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 100036817,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2025-01-25T12:25:00-05:00",
+            "started": "2025-01-25T12:28:25-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 168845,
+                                "name": "EMORY7",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 107031765,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2025-02-21T12:16:30-05:00",
+            "started": "2025-02-22T13:01:53-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 67377,
+                                "name": "POLY1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 100036825,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2025-01-25T12:57:00-05:00",
+            "started": "2025-01-25T13:05:29-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182373,
+                                "name": "TTACE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 107031770,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-21T12:39:00-05:00",
+            "started": "2025-02-22T13:29:15-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 146939,
+                                "name": "ETAMU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 100036830,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-01-25T14:16:00-05:00",
+            "started": "2025-01-25T14:19:18-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76395,
+                                "name": "OWL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 100036833,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-01-25T14:28:00-05:00",
+            "started": "2025-01-25T14:33:20-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178590,
+                                "name": "AUBIE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 107031779,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 32,
+            "scheduled": "2025-02-21T14:16:00-05:00",
+            "started": "2025-02-22T14:22:14-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #32",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182373,
+                                "name": "TTACE1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 100036841,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2025-01-25T15:00:00-05:00",
+            "started": "2025-01-25T15:07:42-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 48,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 107031790,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 43,
+            "scheduled": "2025-02-21T15:00:00-05:00",
+            "started": "2025-02-22T15:19:30-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #43",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162873,
+                                "name": "ATUM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 107031795,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 48,
+            "scheduled": "2025-02-21T15:20:00-05:00",
+            "started": "2025-02-22T15:44:44-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #48",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 170695,
+                                "name": "COMET",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 107031807,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 60,
+            "scheduled": "2025-02-21T16:08:00-05:00",
+            "started": "2025-02-22T17:02:52-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "Qualifier #60",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177523,
+                                "name": "WIRED",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 100036850,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-25T16:13:29-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 113437,
+                                "name": "UCF",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 107031815,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:59:21-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139193,
+                                "name": "GHOST",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        },
+        {
+            "id": 100036846,
+            "event": {
+                "id": 56609,
+                "name": "Auburn Robotics Club VURC on the Plains",
+                "code": "RE-VURC-24-6609"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-01-25T15:55:46-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76395,
+                                "name": "OWL1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-25T17:40:13-05:00"
+        },
+        {
+            "id": 107031811,
+            "event": {
+                "id": 56659,
+                "name": "Texas VEX University Robotics Competition",
+                "code": "RE-VURC-24-6659"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU",
+                "code": null
+            },
+            "round": 6,
+            "instance": 8,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:33:25-05:00",
+            "field": "CCISD",
+            "scored": false,
+            "name": "R16 #8-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164038,
+                                "name": "CARDS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 143212,
+                                "name": "TECHI3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T19:42:50-05:00"
+        }
+    ]
+}

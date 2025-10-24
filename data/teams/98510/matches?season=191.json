@@ -1,0 +1,745 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/98510/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/98510/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/98510/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 14,
+        "total": 14
+    },
+    "data": [
+        {
+            "id": 94359394,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2024-12-20T20:06:00-05:00",
+            "started": "2024-12-20T20:07:55-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 70012,
+                                "name": "XJTU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359413,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2024-12-20T22:00:00-05:00",
+            "started": "2024-12-20T21:51:26-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 166056,
+                                "name": "HDU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359425,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2024-12-21T00:12:00-05:00",
+            "started": "2024-12-21T00:08:44-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 48,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 164064,
+                                "name": "SMU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359439,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 47,
+            "scheduled": "2024-12-21T01:36:00-05:00",
+            "started": "2024-12-21T01:30:16-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #47",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181870,
+                                "name": "CCIT",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359463,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 71,
+            "scheduled": "2024-12-21T04:00:00-05:00",
+            "started": "2024-12-21T03:46:04-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #71",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 181532,
+                                "name": "USST2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359476,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 84,
+            "scheduled": "2024-12-21T19:48:00-05:00",
+            "started": "2024-12-21T19:46:53-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #84",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 100169,
+                                "name": "TJU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359488,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 96,
+            "scheduled": "2024-12-21T21:00:00-05:00",
+            "started": "2024-12-21T20:55:47-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #96",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182221,
+                                "name": "HUST2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359495,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 103,
+            "scheduled": "2024-12-21T21:42:00-05:00",
+            "started": "2024-12-21T21:36:43-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #103",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165345,
+                                "name": "USST1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359517,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-22T00:58:41-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 140249,
+                                "name": "HITSZ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359521,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-22T01:33:29-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98505,
+                                "name": "SJTU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359523,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-22T02:09:51-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98389,
+                                "name": "SJTU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359524,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": null,
+            "started": "2024-12-22T02:26:34-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Final #1-2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98389,
+                                "name": "SJTU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359525,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": null,
+            "started": "2024-12-22T02:38:11-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Final #1-3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98389,
+                                "name": "SJTU1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        },
+        {
+            "id": 94359509,
+            "event": {
+                "id": 59374,
+                "name": "\u5168\u56fdVEX\u673a\u5668\u4eba\u7cbe\u82f1\u8d5b: VEX-U",
+                "code": "RE-VURC-24-9374"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-22T00:07:32-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "R16 #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 180879,
+                                "name": "SZTU2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 98510,
+                                "name": "SJTU3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-22T02:42:02-05:00"
+        }
+    ]
+}

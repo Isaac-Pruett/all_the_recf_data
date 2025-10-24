@@ -1,0 +1,800 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/59374/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/59374/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/59374/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 29,
+        "total": 29
+    },
+    "data": [
+        {
+            "id": 176526,
+            "number": "ARESZ",
+            "team_name": "Upsy Daisy",
+            "robot_name": "Little Boy",
+            "organization": "Oros Olympos",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Worcester",
+                "region": "Massachusetts",
+                "postcode": "01609",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 42.3,
+                    "lon": -71.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181870,
+            "number": "CCIT",
+            "team_name": "\u957f\u6625\u5de5\u7a0b\u5b66\u9662",
+            "robot_name": null,
+            "organization": "\u957f\u6625\u5de5\u7a0b\u5b66\u9662",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "\u957f\u6625\u5e02",
+                "region": "Jilin",
+                "postcode": "130000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 43.9,
+                    "lon": 125.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181871,
+            "number": "CITYU",
+            "team_name": "\u6fb3\u95e8\u57ce\u5e02\u5927\u5b66",
+            "robot_name": null,
+            "organization": "\u6fb3\u95e8\u57ce\u5e02\u5927\u5b66",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "\u957f\u6625\u5e02",
+                "region": "Jilin",
+                "postcode": "130000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 43.9,
+                    "lon": 125.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 165697,
+            "number": "CQU1",
+            "team_name": "CQU1",
+            "robot_name": null,
+            "organization": "ChongqingUniversity",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Chongqing",
+                "region": "Chongqing",
+                "postcode": "401331",
+                "country": "China",
+                "coordinates": {
+                    "lat": 29.6,
+                    "lon": 106.3
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 180077,
+            "number": "CQU2",
+            "team_name": "CQU2",
+            "robot_name": "",
+            "organization": "ChongqingUniversity",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Chongqing",
+                "region": "Chongqing",
+                "postcode": "401331",
+                "country": "China",
+                "coordinates": {
+                    "lat": 29.6,
+                    "lon": 106.3
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 166055,
+            "number": "HDU1",
+            "team_name": "HDU1",
+            "robot_name": null,
+            "organization": "University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "\u676d\u5dde",
+                "region": "Zhejiang",
+                "postcode": "310000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 30.3,
+                    "lon": 120.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 166056,
+            "number": "HDU2",
+            "team_name": "HDU2",
+            "robot_name": null,
+            "organization": "University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "\u676d\u5dde",
+                "region": "Zhejiang",
+                "postcode": "310000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 30.3,
+                    "lon": 120.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 140249,
+            "number": "HITSZ1",
+            "team_name": "HITSZ-1",
+            "robot_name": null,
+            "organization": "Harbin Institute of Technology (ShenZhen)",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": "518000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 22.6,
+                    "lon": 114
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181681,
+            "number": "HITSZ7",
+            "team_name": "HITSZ-7",
+            "robot_name": null,
+            "organization": "Harbin Institute of Technology (ShenZhen)",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shenzhen",
+                "region": "Guangdong",
+                "postcode": "518000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 22.6,
+                    "lon": 114
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 161980,
+            "number": "HUST1",
+            "team_name": "HUST1",
+            "robot_name": "Black Tortoise",
+            "organization": "HUST",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Wuhan",
+                "region": "Hubei",
+                "postcode": "430074",
+                "country": "China",
+                "coordinates": {
+                    "lat": 30.5,
+                    "lon": 114.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 182221,
+            "number": "HUST2",
+            "team_name": "HUST2",
+            "robot_name": null,
+            "organization": "HUST",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "\u6e56\u5317\u7701\u6b66\u6c49\u5e02",
+                "region": "Hubei",
+                "postcode": "430074",
+                "country": "China",
+                "coordinates": {
+                    "lat": 30.5,
+                    "lon": 114.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 175499,
+            "number": "NJUST",
+            "team_name": "\u5357\u7406\u5de5\u6218\u961f",
+            "robot_name": null,
+            "organization": "\u5357\u4eac\u7406\u5de5\u5927\u5b66",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "\u5357\u4eac",
+                "region": "Jiangsu",
+                "postcode": "210094",
+                "country": "China",
+                "coordinates": {
+                    "lat": 32,
+                    "lon": 118.9
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 178745,
+            "number": "NYUSH1",
+            "team_name": "QilinBots",
+            "robot_name": "The Qilindozer",
+            "organization": "New York University Shanghai",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shanghai",
+                "region": "Shanghai",
+                "postcode": "200124",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.2,
+                    "lon": 121.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181522,
+            "number": "NYUSH2",
+            "team_name": "Qilinbots 2",
+            "robot_name": "The Qilindozer Jr",
+            "organization": "New York University Shanghai",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shanghai",
+                "region": "Shanghai",
+                "postcode": "200124",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.2,
+                    "lon": 121.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 147627,
+            "number": "SEU1",
+            "team_name": "SEU",
+            "robot_name": null,
+            "organization": "Southeast University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "\u5357\u4eac\u5e02",
+                "region": "Jiangsu",
+                "postcode": "218000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 32.1,
+                    "lon": 118.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 98389,
+            "number": "SJTU1",
+            "team_name": "SJTU 1",
+            "robot_name": "Bulldozer",
+            "organization": "Shanghai Jiao Tong University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shanghai",
+                "region": "Shanghai",
+                "postcode": "200240",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.2,
+                    "lon": 121.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 98505,
+            "number": "SJTU2",
+            "team_name": "SJTU 2",
+            "robot_name": "Turtle",
+            "organization": "Shanghai Jiao Tong University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shanghai",
+                "region": "Shanghai",
+                "postcode": "200240",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.2,
+                    "lon": 121.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 98510,
+            "number": "SJTU3",
+            "team_name": "SJTU 3",
+            "robot_name": "",
+            "organization": "Shanghai Jiao Tong University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shanghai",
+                "region": "Shanghai",
+                "postcode": "200240",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.2,
+                    "lon": 121.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181785,
+            "number": "SMP1",
+            "team_name": "SMP1",
+            "robot_name": "SMP-vex",
+            "organization": "shanghai minhang polytechnic",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shanghai",
+                "region": "Shanghai",
+                "postcode": "201111",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31,
+                    "lon": 121.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 164064,
+            "number": "SMU1",
+            "team_name": "Southern Medical University",
+            "robot_name": "MediBots",
+            "organization": "Southern Medical University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shunde",
+                "region": "Guangdong",
+                "postcode": "528305",
+                "country": "China",
+                "coordinates": {
+                    "lat": 22.8,
+                    "lon": 113.3
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 153817,
+            "number": "SZTU1",
+            "team_name": "1034Robotics-VEX-1",
+            "robot_name": "",
+            "organization": "Shenzhen Technology University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "\u6df1\u5733",
+                "region": "Guangdong",
+                "postcode": "518118",
+                "country": "China",
+                "coordinates": {
+                    "lat": 22.7,
+                    "lon": 114.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 180879,
+            "number": "SZTU2",
+            "team_name": "1034Robotics-VEX-2",
+            "robot_name": "",
+            "organization": "Shenzhen Technology University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "\u6df1\u5733",
+                "region": "Guangdong",
+                "postcode": "518118",
+                "country": "China",
+                "coordinates": {
+                    "lat": 22.7,
+                    "lon": 114.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 125789,
+            "number": "TJU",
+            "team_name": "Tong Ji University",
+            "robot_name": "",
+            "organization": "Tong Ji Universtiy",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shanghai",
+                "region": "Shanghai",
+                "postcode": "210000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.3,
+                    "lon": 121.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 100168,
+            "number": "TJU1",
+            "team_name": "Tong Ji University 1",
+            "robot_name": "",
+            "organization": "Tongji University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shanghai",
+                "region": "Shanghai",
+                "postcode": "200000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.4,
+                    "lon": 121.3
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 100169,
+            "number": "TJU2",
+            "team_name": "Tong Ji University 2",
+            "robot_name": "TOD-SN-WC",
+            "organization": "Tong Ji Universtiy",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shanghai",
+                "region": "Shanghai",
+                "postcode": "210000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.3,
+                    "lon": 121.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 165345,
+            "number": "USST1",
+            "team_name": "USST1",
+            "robot_name": "",
+            "organization": "University of Shanghai for Science and Technology",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shanghai",
+                "region": "Shanghai",
+                "postcode": "NIL",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.3,
+                    "lon": 121.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 181532,
+            "number": "USST2",
+            "team_name": "USST2",
+            "robot_name": "",
+            "organization": "University of Shanghai for Science and Technology",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Shanghai",
+                "region": "Shanghai",
+                "postcode": "NIL",
+                "country": "China",
+                "coordinates": {
+                    "lat": 31.3,
+                    "lon": 121.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 70012,
+            "number": "XJTU1",
+            "team_name": "MukaMuka~~",
+            "robot_name": "Big Sword",
+            "organization": "Xi'an Jiao Tong University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Xi'an",
+                "region": "Shaanxi",
+                "postcode": "710000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 34.3,
+                    "lon": 109
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 71352,
+            "number": "XJTU2",
+            "team_name": "Xi'an Jiaotong University",
+            "robot_name": "Big Sword",
+            "organization": "Xi'an Jiao Tong University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Xi'an",
+                "region": "Shaanxi",
+                "postcode": "710000",
+                "country": "China",
+                "coordinates": {
+                    "lat": 34.3,
+                    "lon": 109
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

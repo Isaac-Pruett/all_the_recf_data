@@ -1,0 +1,503 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/58432/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/58432/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/58432/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 18,
+        "total": 18
+    },
+    "data": [
+        {
+            "id": 174788,
+            "number": "AUGDC",
+            "team_name": "AUGDC",
+            "robot_name": "",
+            "organization": "Alfaisal University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "11321",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.7,
+                    "lon": 46.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174497,
+            "number": "FAISL",
+            "team_name": "Alfaisal EE",
+            "robot_name": "Alfaisal EE",
+            "organization": "Alfaisal University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "11533",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.7,
+                    "lon": 46.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 175995,
+            "number": "IAU1",
+            "team_name": "RoboIAU",
+            "robot_name": "Abdulaziz bin Abdul Rahman",
+            "organization": "imam abdulrahman bin faisal university",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Al Damam",
+                "region": null,
+                "postcode": "4991",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 19.6,
+                    "lon": 53.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174434,
+            "number": "IMSIU1",
+            "team_name": "IMSIU",
+            "robot_name": null,
+            "organization": "Imam Mohammad Ibn Saud Islamic University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "11432",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.7,
+                    "lon": 46.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174396,
+            "number": "JIC7",
+            "team_name": "Neom",
+            "robot_name": "",
+            "organization": "Jubail Industrial College",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Jubail",
+                "region": null,
+                "postcode": "31961",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 27.1,
+                    "lon": 49.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174410,
+            "number": "JZTV1",
+            "team_name": "Jazan-TVTC",
+            "robot_name": "JZN-R",
+            "organization": "Jizan Technical College",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Jazan",
+                "region": null,
+                "postcode": "45142",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 16.9,
+                    "lon": 42.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174488,
+            "number": "KAUTC1",
+            "team_name": "MaticForce",
+            "robot_name": null,
+            "organization": "King Abdulaziz University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Jeddah",
+                "region": null,
+                "postcode": "22253",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 21.5,
+                    "lon": 39.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174489,
+            "number": "KAUTC2",
+            "team_name": "KAUVEX",
+            "robot_name": null,
+            "organization": "King Abdulaziz University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Jeddah",
+                "region": null,
+                "postcode": "22253",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 21.5,
+                    "lon": 39.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174397,
+            "number": "KFUPM1",
+            "team_name": "KFUPM",
+            "robot_name": null,
+            "organization": "King Fahd University of Petroleum & Minerals",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Dammam",
+                "region": null,
+                "postcode": "32210",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 26.5,
+                    "lon": 50.2
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174402,
+            "number": "KSUR1",
+            "team_name": "KSU-Robotic Club Team",
+            "robot_name": null,
+            "organization": "King Saud University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "12372",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.7,
+                    "lon": 46.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174442,
+            "number": "KSUR2",
+            "team_name": "KSU-Robotic Club Female Team",
+            "robot_name": "",
+            "organization": "King Saud University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "12372",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.7,
+                    "lon": 46.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174444,
+            "number": "PNU1",
+            "team_name": "PNU",
+            "robot_name": "PNU",
+            "organization": "Princess Nourah Bint Abdul Rahman University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "11564",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.9,
+                    "lon": 46.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174399,
+            "number": "PSU1",
+            "team_name": "Industry 4.0",
+            "robot_name": "",
+            "organization": "Prince Sultan University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "11586",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.7,
+                    "lon": 46.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 176009,
+            "number": "PSU2",
+            "team_name": "SmartTec",
+            "robot_name": "",
+            "organization": "Prince Sultan University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "11586",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.8,
+                    "lon": 46.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 175718,
+            "number": "SAUDE8",
+            "team_name": "SAUD8",
+            "robot_name": null,
+            "organization": "King Saud University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "12372",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.7,
+                    "lon": 46.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 167270,
+            "number": "SAUDI1",
+            "team_name": "Saudi team",
+            "robot_name": null,
+            "organization": "King Saud University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riyadh",
+                "region": null,
+                "postcode": "12372",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.7,
+                    "lon": 46.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174413,
+            "number": "TVTCR1",
+            "team_name": "Desert Falcons",
+            "robot_name": null,
+            "organization": "TVTC",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Alrhyad",
+                "region": null,
+                "postcode": "16275",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 24.1,
+                    "lon": 47.3
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 174403,
+            "number": "UQU1",
+            "team_name": "UQU",
+            "robot_name": "Vex u",
+            "organization": "UQU",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Makkah",
+                "region": null,
+                "postcode": "21955",
+                "country": "Saudi Arabia",
+                "coordinates": {
+                    "lat": 21.4,
+                    "lon": 39.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}

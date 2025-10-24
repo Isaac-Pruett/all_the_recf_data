@@ -1,0 +1,433 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/teams/165106/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/teams/165106/matches?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/teams/165106/matches",
+        "per_page": 50,
+        "prev_page_url": null,
+        "to": 8,
+        "total": 8
+    },
+    "data": [
+        {
+            "id": 103447117,
+            "event": {
+                "id": 59169,
+                "name": "PR National Championship - VEX U",
+                "code": "RE-VURC-24-9169"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU Nationals",
+                "code": null
+            },
+            "round": 1,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-02T12:10:00-05:00",
+            "started": "2025-02-02T12:38:01-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Practice #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182786,
+                                "name": "NOCSU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165106,
+                                "name": "UPRC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T15:33:11-05:00"
+        },
+        {
+            "id": 103447121,
+            "event": {
+                "id": 59169,
+                "name": "PR National Championship - VEX U",
+                "code": "RE-VURC-24-9169"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU Nationals",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-02-02T13:00:00-05:00",
+            "started": "2025-02-02T13:23:02-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157830,
+                                "name": "IABC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165106,
+                                "name": "UPRC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T15:33:11-05:00"
+        },
+        {
+            "id": 103447123,
+            "event": {
+                "id": 59169,
+                "name": "PR National Championship - VEX U",
+                "code": "RE-VURC-24-9169"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU Nationals",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-02-02T13:20:00-05:00",
+            "started": "2025-02-02T13:41:25-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58481,
+                                "name": "UPRM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165106,
+                                "name": "UPRC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T15:33:11-05:00"
+        },
+        {
+            "id": 103447126,
+            "event": {
+                "id": 59169,
+                "name": "PR National Championship - VEX U",
+                "code": "RE-VURC-24-9169"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU Nationals",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-02T13:50:00-05:00",
+            "started": "2025-02-02T14:04:51-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165106,
+                                "name": "UPRC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 184100,
+                                "name": "MMCE2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T15:33:11-05:00"
+        },
+        {
+            "id": 103447128,
+            "event": {
+                "id": 59169,
+                "name": "PR National Championship - VEX U",
+                "code": "RE-VURC-24-9169"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU Nationals",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-02T14:10:00-05:00",
+            "started": "2025-02-02T14:17:28-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 48,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182786,
+                                "name": "NOCSU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165106,
+                                "name": "UPRC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T15:33:11-05:00"
+        },
+        {
+            "id": 103447130,
+            "event": {
+                "id": 59169,
+                "name": "PR National Championship - VEX U",
+                "code": "RE-VURC-24-9169"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU Nationals",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-02-02T14:30:00-05:00",
+            "started": "2025-02-02T14:29:38-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165106,
+                                "name": "UPRC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58481,
+                                "name": "UPRM",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T15:33:11-05:00"
+        },
+        {
+            "id": 103447132,
+            "event": {
+                "id": 59169,
+                "name": "PR National Championship - VEX U",
+                "code": "RE-VURC-24-9169"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU Nationals",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-02T15:06:18-05:00",
+            "field": null,
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165106,
+                                "name": "UPRC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157830,
+                                "name": "IABC1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T15:33:11-05:00"
+        },
+        {
+            "id": 103447133,
+            "event": {
+                "id": 59169,
+                "name": "PR National Championship - VEX U",
+                "code": "RE-VURC-24-9169"
+            },
+            "division": {
+                "id": 1,
+                "name": "VEXU Nationals",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": null,
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 1,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165106,
+                                "name": "UPRC",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 182786,
+                                "name": "NOCSU",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-08T15:33:11-05:00"
+        }
+    ]
+}

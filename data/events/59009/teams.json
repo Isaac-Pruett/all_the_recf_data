@@ -1,0 +1,395 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https://www.robotevents.com/api/v2/events/59009/teams?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https://www.robotevents.com/api/v2/events/59009/teams?page=1",
+        "next_page_url": null,
+        "path": "https://www.robotevents.com/api/v2/events/59009/teams",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 14,
+        "total": 14
+    },
+    "data": [
+        {
+            "id": 139338,
+            "number": "BA2",
+            "team_name": "Ba2 Robotics",
+            "robot_name": "",
+            "organization": "Ba2 Robotics",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Chatsworth",
+                "region": "California",
+                "postcode": "91311",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34.3,
+                    "lon": -118.6
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 73643,
+            "number": "CBU1",
+            "team_name": "CBU Long Knights",
+            "robot_name": "",
+            "organization": "California Baptist University",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riverside",
+                "region": "California",
+                "postcode": "92504",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 33.9,
+                    "lon": -117.4
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 106975,
+            "number": "CPSLO",
+            "team_name": "Cal Poly Gear Slingers",
+            "robot_name": "Spongebob & Patrick",
+            "organization": "California Polytechnic State University: San Luis Obispo",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "San Luis Obispo",
+                "region": "California",
+                "postcode": "93407",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 35.3,
+                    "lon": -120.7
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 74340,
+            "number": "CSUNB",
+            "team_name": "Matabots-Black",
+            "robot_name": "",
+            "organization": "CSUN Vex Robotics Club",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Northridge",
+                "region": "California",
+                "postcode": "91330",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34.2,
+                    "lon": -118.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 74339,
+            "number": "CSUNR",
+            "team_name": "Matabots-Red",
+            "robot_name": "Luna and Sol",
+            "organization": "CSUN Vex Robotics Club",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Northridge",
+                "region": "California",
+                "postcode": "91330",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34.2,
+                    "lon": -118.5
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 53537,
+            "number": "MCEC1",
+            "team_name": "MC Engineering",
+            "robot_name": "",
+            "organization": "Moorpark College Engineering Club",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Moorpark",
+                "region": "California",
+                "postcode": "93021",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34.3,
+                    "lon": -118.9
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 35506,
+            "number": "MTSAC1",
+            "team_name": "CORE",
+            "robot_name": "",
+            "organization": "Mt. SAC",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Walnut",
+                "region": "California",
+                "postcode": "91789",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34,
+                    "lon": -117.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 64172,
+            "number": "MTSAC2",
+            "team_name": "CORE",
+            "robot_name": "",
+            "organization": "Mt. SAC",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Walnut",
+                "region": "California",
+                "postcode": "91789",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34,
+                    "lon": -117.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 157553,
+            "number": "RCXD1",
+            "team_name": "Metal Gear Mavericks",
+            "robot_name": "RCXD",
+            "organization": "Cerritos College",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Norwalk",
+                "region": "California",
+                "postcode": "90650",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 33.9,
+                    "lon": -118.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 177312,
+            "number": "RCXD2",
+            "team_name": "Metal Gear Mavericks",
+            "robot_name": "RCXD",
+            "organization": "Cerritos College",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Norwalk",
+                "region": "California",
+                "postcode": "90650",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 33.9,
+                    "lon": -118.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 177313,
+            "number": "RCXD3",
+            "team_name": "Metal Gear Mavericks",
+            "robot_name": "RCXD",
+            "organization": "Cerritos College",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Norwalk",
+                "region": "California",
+                "postcode": "90650",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 33.9,
+                    "lon": -118.1
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 150998,
+            "number": "UCR1",
+            "team_name": "Ursa Mechanica",
+            "robot_name": "Miso Got Snatched + Torsional Rigidity",
+            "organization": "UNIVERSITY OF CALIFORNIA RIVERSIDE",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Riverside",
+                "region": "California",
+                "postcode": "92507",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34,
+                    "lon": -117.3
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 162677,
+            "number": "UCSB1",
+            "team_name": "UCSB Robotics",
+            "robot_name": null,
+            "organization": "University of California, Santa Barbara",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Santa Barbara",
+                "region": "California",
+                "postcode": "93106",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 34.4,
+                    "lon": -119.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        },
+        {
+            "id": 169789,
+            "number": "VISTA",
+            "team_name": "Hasta La Vista",
+            "robot_name": "Eugene & E-Ugene",
+            "organization": "Truckee Meadows Community College Robotics Club",
+            "location": {
+                "venue": null,
+                "address_1": "",
+                "address_2": null,
+                "city": "Reno",
+                "region": "Nevada",
+                "postcode": "89512",
+                "country": "United States",
+                "coordinates": {
+                    "lat": 39.6,
+                    "lon": -119.8
+                }
+            },
+            "registered": false,
+            "program": {
+                "id": 4,
+                "name": "VEX U Robotics Competition",
+                "code": "VURC"
+            },
+            "grade": "College"
+        }
+    ]
+}
