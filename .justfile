@@ -1,5 +1,6 @@
 alias e := event
 alias r := run
+alias d := discord
 
 set dotenv-load := true
 
@@ -27,3 +28,6 @@ matches START END CODE:
 
 skills START END CODE:
     uv run elo_skills_data.py {{ START }} {{ END }} {{ CODE }}
+
+discord:
+    @uv run discordbot.py
