@@ -44,7 +44,7 @@
             "id": 181579,
             "number": "AUK1",
             "team_name": "SPARC",
-            "robot_name": null,
+            "robot_name": "",
             "organization": "American University of Kuwait (AUK)",
             "location": {
                 "venue": null,
@@ -71,7 +71,7 @@
             "id": 181580,
             "number": "AUK2",
             "team_name": "Ctrl-Alt-Defeat",
-            "robot_name": null,
+            "robot_name": "",
             "organization": "American University of Kuwait (AUK)",
             "location": {
                 "venue": null,

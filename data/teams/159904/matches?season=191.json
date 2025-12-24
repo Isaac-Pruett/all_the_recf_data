@@ -690,58 +690,6 @@
             "updated_at": "2025-01-26T17:54:16-05:00"
         },
         {
-            "id": 106988087,
-            "event": {
-                "id": 59239,
-                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
-                "code": "RE-VURC-24-9239"
-            },
-            "division": {
-                "id": 1,
-                "name": " Willy's Aerospace Extravaganza VURC",
-                "code": null
-            },
-            "round": 2,
-            "instance": 1,
-            "matchnum": 23,
-            "scheduled": "2025-02-22T13:00:00-05:00",
-            "started": "2025-02-22T14:58:39-05:00",
-            "field": "B-29",
-            "scored": false,
-            "name": "Qualifier #23",
-            "alliances": [
-                {
-                    "color": "blue",
-                    "score": 28,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 159904,
-                                "name": "FOUR4",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                },
-                {
-                    "color": "red",
-                    "score": 34,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 179009,
-                                "name": "SKERS",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                }
-            ],
-            "updated_at": "2025-02-22T18:29:48-05:00"
-        },
-        {
             "id": 90358091,
             "event": {
                 "id": 55797,
@@ -792,6 +740,58 @@
                 }
             ],
             "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 106988087,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-22T13:00:00-05:00",
+            "started": "2025-02-22T14:58:39-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179009,
+                                "name": "SKERS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
         },
         {
             "id": 106988092,
@@ -898,58 +898,6 @@
             "updated_at": "2024-11-23T21:41:27-05:00"
         },
         {
-            "id": 100269216,
-            "event": {
-                "id": 57899,
-                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
-                "code": "RE-VURC-24-7899"
-            },
-            "division": {
-                "id": 1,
-                "name": "Division 1",
-                "code": null
-            },
-            "round": 2,
-            "instance": 1,
-            "matchnum": 31,
-            "scheduled": "2025-01-26T13:44:00-05:00",
-            "started": "2025-01-26T14:22:29-05:00",
-            "field": "COI",
-            "scored": false,
-            "name": "Qualifier #31",
-            "alliances": [
-                {
-                    "color": "blue",
-                    "score": 15,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 159904,
-                                "name": "FOUR4",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                },
-                {
-                    "color": "red",
-                    "score": 46,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 133888,
-                                "name": "BLRS2",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                }
-            ],
-            "updated_at": "2025-01-26T17:54:16-05:00"
-        },
-        {
             "id": 106988095,
             "event": {
                 "id": 59239,
@@ -1000,6 +948,58 @@
                 }
             ],
             "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 100269216,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-01-26T13:44:00-05:00",
+            "started": "2025-01-26T14:22:29-05:00",
+            "field": "COI",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133888,
+                                "name": "BLRS2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
         },
         {
             "id": 90358101,
@@ -1106,58 +1106,6 @@
             "updated_at": "2025-02-22T18:29:48-05:00"
         },
         {
-            "id": 100269224,
-            "event": {
-                "id": 57899,
-                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
-                "code": "RE-VURC-24-7899"
-            },
-            "division": {
-                "id": 1,
-                "name": "Division 1",
-                "code": null
-            },
-            "round": 2,
-            "instance": 1,
-            "matchnum": 39,
-            "scheduled": "2025-01-26T14:16:00-05:00",
-            "started": "2025-01-26T15:06:48-05:00",
-            "field": "COI",
-            "scored": false,
-            "name": "Qualifier #39",
-            "alliances": [
-                {
-                    "color": "blue",
-                    "score": 4,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 111432,
-                                "name": "VALPO",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                },
-                {
-                    "color": "red",
-                    "score": 10,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 159904,
-                                "name": "FOUR4",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                }
-            ],
-            "updated_at": "2025-01-26T17:54:16-05:00"
-        },
-        {
             "id": 106988103,
             "event": {
                 "id": 59239,
@@ -1208,6 +1156,58 @@
                 }
             ],
             "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 100269224,
+            "event": {
+                "id": 57899,
+                "name": "NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes",
+                "code": "RE-VURC-24-7899"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2025-01-26T14:16:00-05:00",
+            "started": "2025-01-26T15:06:48-05:00",
+            "field": "COI",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 111432,
+                                "name": "VALPO",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-01-26T17:54:16-05:00"
         },
         {
             "id": 90358108,
@@ -1366,58 +1366,6 @@
             "updated_at": "2025-01-26T17:54:16-05:00"
         },
         {
-            "id": 90358116,
-            "event": {
-                "id": 55797,
-                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
-                "code": "RE-VURC-24-5797"
-            },
-            "division": {
-                "id": 1,
-                "name": "Division 1",
-                "code": null
-            },
-            "round": 3,
-            "instance": 3,
-            "matchnum": 1,
-            "scheduled": null,
-            "started": null,
-            "field": "Bartlett and West",
-            "scored": false,
-            "name": "QF #3-1",
-            "alliances": [
-                {
-                    "color": "blue",
-                    "score": 14,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 159904,
-                                "name": "FOUR4",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                },
-                {
-                    "color": "red",
-                    "score": 36,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 157098,
-                                "name": "JACKS",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                }
-            ],
-            "updated_at": "2024-11-23T21:41:27-05:00"
-        },
-        {
             "id": 106988107,
             "event": {
                 "id": 59239,
@@ -1468,6 +1416,58 @@
                 }
             ],
             "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 90358116,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 3,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": null,
+            "field": "Bartlett and West",
+            "scored": false,
+            "name": "QF #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159904,
+                                "name": "FOUR4",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157098,
+                                "name": "JACKS",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
         },
         {
             "id": 100269234,

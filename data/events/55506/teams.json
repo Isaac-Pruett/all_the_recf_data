@@ -179,19 +179,19 @@
             "id": 175191,
             "number": "SWARM",
             "team_name": "The Swarm",
-            "robot_name": null,
+            "robot_name": "",
             "organization": "The Swarm",
             "location": {
                 "venue": null,
                 "address_1": "",
                 "address_2": null,
-                "city": "Burnaby",
+                "city": "Delta",
                 "region": "British Columbia",
-                "postcode": "V5C 3E2",
+                "postcode": "V4E 2S6",
                 "country": "Canada",
                 "coordinates": {
-                    "lat": 49.3,
-                    "lon": -123
+                    "lat": 49.1,
+                    "lon": -122.9
                 }
             },
             "registered": false,

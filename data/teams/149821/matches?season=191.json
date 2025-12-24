@@ -170,58 +170,6 @@
             "updated_at": "2025-02-22T18:29:48-05:00"
         },
         {
-            "id": 90358077,
-            "event": {
-                "id": 55797,
-                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
-                "code": "RE-VURC-24-5797"
-            },
-            "division": {
-                "id": 1,
-                "name": "Division 1",
-                "code": null
-            },
-            "round": 2,
-            "instance": 1,
-            "matchnum": 9,
-            "scheduled": "2024-11-23T15:55:00-05:00",
-            "started": "2024-11-23T16:20:44-05:00",
-            "field": "Bartlett and West",
-            "scored": false,
-            "name": "Qualifier #9",
-            "alliances": [
-                {
-                    "color": "blue",
-                    "score": 8,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 149821,
-                                "name": "ORDGR",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                },
-                {
-                    "color": "red",
-                    "score": 20,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 163750,
-                                "name": "JHAWK",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                }
-            ],
-            "updated_at": "2024-11-23T21:41:27-05:00"
-        },
-        {
             "id": 106988073,
             "event": {
                 "id": 59239,
@@ -272,6 +220,58 @@
                 }
             ],
             "updated_at": "2025-02-22T18:29:48-05:00"
+        },
+        {
+            "id": 90358077,
+            "event": {
+                "id": 55797,
+                "name": "2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",
+                "code": "RE-VURC-24-5797"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2024-11-23T15:55:00-05:00",
+            "started": "2024-11-23T16:20:44-05:00",
+            "field": "Bartlett and West",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163750,
+                                "name": "JHAWK",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-23T21:41:27-05:00"
         },
         {
             "id": 110147461,
@@ -690,58 +690,6 @@
             "updated_at": "2025-02-22T18:29:48-05:00"
         },
         {
-            "id": 106988090,
-            "event": {
-                "id": 59239,
-                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
-                "code": "RE-VURC-24-9239"
-            },
-            "division": {
-                "id": 1,
-                "name": " Willy's Aerospace Extravaganza VURC",
-                "code": null
-            },
-            "round": 2,
-            "instance": 1,
-            "matchnum": 26,
-            "scheduled": "2025-02-22T13:24:00-05:00",
-            "started": "2025-02-22T15:25:42-05:00",
-            "field": "B-29",
-            "scored": false,
-            "name": "Qualifier #26",
-            "alliances": [
-                {
-                    "color": "blue",
-                    "score": 0,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 176372,
-                                "name": "KGEAR",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                },
-                {
-                    "color": "red",
-                    "score": 23,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 149821,
-                                "name": "ORDGR",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                }
-            ],
-            "updated_at": "2025-02-22T18:29:48-05:00"
-        },
-        {
             "id": 90358094,
             "event": {
                 "id": 55797,
@@ -792,6 +740,58 @@
                 }
             ],
             "updated_at": "2024-11-23T21:41:27-05:00"
+        },
+        {
+            "id": 106988090,
+            "event": {
+                "id": 59239,
+                "name": "Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition",
+                "code": "RE-VURC-24-9239"
+            },
+            "division": {
+                "id": 1,
+                "name": " Willy's Aerospace Extravaganza VURC",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-02-22T13:24:00-05:00",
+            "started": "2025-02-22T15:25:42-05:00",
+            "field": "B-29",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176372,
+                                "name": "KGEAR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 149821,
+                                "name": "ORDGR",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:29:48-05:00"
         },
         {
             "id": 110147479,

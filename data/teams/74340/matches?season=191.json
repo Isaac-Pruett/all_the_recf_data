@@ -1158,58 +1158,6 @@
             "updated_at": "2025-02-15T20:37:41-05:00"
         },
         {
-            "id": 108827411,
-            "event": {
-                "id": 55623,
-                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
-                "code": "RE-VURC-24-5623"
-            },
-            "division": {
-                "id": 1,
-                "name": "Division 1",
-                "code": null
-            },
-            "round": 6,
-            "instance": 2,
-            "matchnum": 1,
-            "scheduled": null,
-            "started": "2025-03-01T18:41:22-05:00",
-            "field": null,
-            "scored": false,
-            "name": "R16 #2-1",
-            "alliances": [
-                {
-                    "color": "blue",
-                    "score": 26,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 64172,
-                                "name": "MTSAC2",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                },
-                {
-                    "color": "red",
-                    "score": 11,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 74340,
-                                "name": "CSUNB",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                }
-            ],
-            "updated_at": "2025-03-01T22:14:16-05:00"
-        },
-        {
             "id": 105176285,
             "event": {
                 "id": 56255,
@@ -1260,6 +1208,58 @@
                 }
             ],
             "updated_at": "2025-02-15T20:37:41-05:00"
+        },
+        {
+            "id": 108827411,
+            "event": {
+                "id": 55623,
+                "name": "Gear Slingers Open 2025: VURC Tournament High Stakes",
+                "code": "RE-VURC-24-5623"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-03-01T18:41:22-05:00",
+            "field": null,
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64172,
+                                "name": "MTSAC2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 74340,
+                                "name": "CSUNB",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-03-01T22:14:16-05:00"
         },
         {
             "id": 101954189,

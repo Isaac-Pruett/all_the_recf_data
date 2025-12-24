@@ -638,58 +638,6 @@
             "updated_at": "2025-03-01T22:14:16-05:00"
         },
         {
-            "id": 101954177,
-            "event": {
-                "id": 59009,
-                "name": "The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes",
-                "code": "RE-VURC-24-9009"
-            },
-            "division": {
-                "id": 1,
-                "name": "Division 1",
-                "code": null
-            },
-            "round": 2,
-            "instance": 1,
-            "matchnum": 33,
-            "scheduled": "2025-02-01T17:24:00-05:00",
-            "started": "2025-02-01T17:57:59-05:00",
-            "field": "RED",
-            "scored": false,
-            "name": "Qualifier #33",
-            "alliances": [
-                {
-                    "color": "blue",
-                    "score": 4,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 177313,
-                                "name": "RCXD3",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                },
-                {
-                    "color": "red",
-                    "score": 17,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 150998,
-                                "name": "UCR1",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                }
-            ],
-            "updated_at": "2025-02-01T21:24:11-05:00"
-        },
-        {
             "id": 108827386,
             "event": {
                 "id": 55623,
@@ -740,6 +688,58 @@
                 }
             ],
             "updated_at": "2025-03-01T22:14:16-05:00"
+        },
+        {
+            "id": 101954177,
+            "event": {
+                "id": 59009,
+                "name": "The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes",
+                "code": "RE-VURC-24-9009"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-01T17:24:00-05:00",
+            "started": "2025-02-01T17:57:59-05:00",
+            "field": "RED",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177313,
+                                "name": "RCXD3",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150998,
+                                "name": "UCR1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-01T21:24:11-05:00"
         },
         {
             "id": 105176258,

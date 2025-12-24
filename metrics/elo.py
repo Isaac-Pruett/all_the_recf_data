@@ -1,8 +1,7 @@
 import pandas as pd
 
-import pandas as pd
 
-def get_elo(df, k=32, base_rating=1500):
+def get_elo(df, k=32, base_rating=1500) -> pd.DataFrame:
     # Initialize ratings
     ratings = {team: base_rating for team in df["team_name"].unique()}
 
@@ -40,14 +39,14 @@ def get_elo(df, k=32, base_rating=1500):
     return team_stats
 
 
-
 if __name__ == "__main__":
-    from teamdata import teamdata_season_log
+    from teamdata import matches_log
+
     EVENT_ID = None
-    log = teamdata_season_log(2024, 2025, "VURC")
+    log = matches_log(2024, 2025, "VURC")
 
     if EVENT_ID:
-        log = log[log['event_id'] == EVENT_ID]
+        log = log[log["event_id"] == EVENT_ID]
 
     elo = get_elo(log)
 

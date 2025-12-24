@@ -1097,34 +1097,34 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 106988081,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,17,2025-02-22T12:16:00-05:00,B-29,red,9,159904,FOUR4,loss
 100269206,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,21,2025-01-26T13:04:00-05:00,COI,blue,11,159904,FOUR4,win
 100269206,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,21,2025-01-26T13:04:00-05:00,COI,red,6,77038,BV1,loss
-106988087,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,23,2025-02-22T13:00:00-05:00,B-29,blue,28,159904,FOUR4,loss
-106988087,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,23,2025-02-22T13:00:00-05:00,B-29,red,34,179009,SKERS,win
 90358091,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,2,23,2024-11-23T17:05:00-05:00,Bartlett and West,blue,37,149821,ORDGR,win
 90358091,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,2,23,2024-11-23T17:05:00-05:00,Bartlett and West,red,12,159904,FOUR4,loss
+106988087,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,23,2025-02-22T13:00:00-05:00,B-29,blue,28,159904,FOUR4,loss
+106988087,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,23,2025-02-22T13:00:00-05:00,B-29,red,34,179009,SKERS,win
 106988092,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,28,2025-02-22T13:40:00-05:00,B-29,blue,10,182359,RVRSE,win
 106988092,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,28,2025-02-22T13:40:00-05:00,B-29,red,7,159904,FOUR4,loss
 90358097,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,2,29,2024-11-23T17:35:00-05:00,Bartlett and West,blue,18,159904,FOUR4,loss
 90358097,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,2,29,2024-11-23T17:35:00-05:00,Bartlett and West,red,49,157098,JACKS,win
-100269216,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,31,2025-01-26T13:44:00-05:00,COI,blue,15,159904,FOUR4,loss
-100269216,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,31,2025-01-26T13:44:00-05:00,COI,red,46,133888,BLRS2,win
 106988095,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,31,2025-02-22T14:04:00-05:00,B-29,blue,7,159904,FOUR4,loss
 106988095,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,31,2025-02-22T14:04:00-05:00,B-29,red,26,149821,ORDGR,win
+100269216,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,31,2025-01-26T13:44:00-05:00,COI,blue,15,159904,FOUR4,loss
+100269216,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,31,2025-01-26T13:44:00-05:00,COI,red,46,133888,BLRS2,win
 90358101,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,2,33,2024-11-23T17:55:00-05:00,Bartlett and West,blue,0,159904,FOUR4,loss
 90358101,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,2,33,2024-11-23T17:55:00-05:00,Bartlett and West,red,33,170003,HNDSM1,win
 106988097,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,33,2025-02-22T14:20:00-05:00,B-29,blue,0,159904,FOUR4,tie
 106988097,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,33,2025-02-22T14:20:00-05:00,B-29,red,0,75787,MINES,tie
-100269224,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,39,2025-01-26T14:16:00-05:00,COI,blue,4,111432,VALPO,loss
-100269224,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,39,2025-01-26T14:16:00-05:00,COI,red,10,159904,FOUR4,win
 106988103,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,39,2025-02-22T15:08:00-05:00,B-29,blue,0,149821,ORDGR,tie
 106988103,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,2,39,2025-02-22T15:08:00-05:00,B-29,red,0,159904,FOUR4,tie
+100269224,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,39,2025-01-26T14:16:00-05:00,COI,blue,4,111432,VALPO,loss
+100269224,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,39,2025-01-26T14:16:00-05:00,COI,red,10,159904,FOUR4,win
 90358108,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,2,40,2024-11-23T18:30:00-05:00,Standard Motor Products,blue,0,170294,MTG7,tie
 90358108,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,2,40,2024-11-23T18:30:00-05:00,Standard Motor Products,red,0,159904,FOUR4,tie
 100269229,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,44,2025-01-26T14:36:00-05:00,Polymaker,blue,6,140754,ECTC,loss
 100269229,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,2,44,2025-01-26T14:36:00-05:00,Polymaker,red,21,159904,FOUR4,win
-90358116,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,3,1,,Bartlett and West,blue,14,159904,FOUR4,loss
-90358116,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,3,1,,Bartlett and West,red,36,157098,JACKS,win
 106988107,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,3,1,,B-29,blue,17,159904,FOUR4,loss
 106988107,59239,Willy's Aerospace Extravaganza VURC: VEX U Robotics Competition, Willy's Aerospace Extravaganza VURC,3,1,,B-29,red,31,179009,SKERS,win
+90358116,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,3,1,,Bartlett and West,blue,14,159904,FOUR4,loss
+90358116,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,3,1,,Bartlett and West,red,36,157098,JACKS,win
 100269234,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,6,1,,COI,blue,20,77038,BV1,win
 100269234,57899,NUKEtown 2025 Qualifier: VEX University Robotics Competition High Stakes,Division 1,6,1,,COI,red,7,159904,FOUR4,loss
 90358073,55797,"2024 University of Kansas LEEP Higher VURC; Lawrence, KS: Digital Engineering Notebooks,  In-Person Interviews",Division 1,2,5,2024-11-23T15:35:00-05:00,Bartlett and West,blue,0,170003,HNDSM1,loss
@@ -3547,10 +3547,10 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 94359483,59374,全国VEX机器人精英赛: VEX-U,Division 1,2,91,2024-12-21T20:30:00-05:00,Field 1,red,17,180879,SZTU2,win
 94359498,59374,全国VEX机器人精英赛: VEX-U,Division 1,2,106,2024-12-21T22:00:00-05:00,Field 2,blue,20,166056,HDU2,loss
 94359498,59374,全国VEX机器人精英赛: VEX-U,Division 1,2,106,2024-12-21T22:00:00-05:00,Field 2,red,46,140249,HITSZ1,win
-94359393,59374,全国VEX机器人精英赛: VEX-U,Division 1,2,1,2024-12-20T20:00:00-05:00,Field 1,blue,17,153817,SZTU1,win
-94359393,59374,全国VEX机器人精英赛: VEX-U,Division 1,2,1,2024-12-20T20:00:00-05:00,Field 1,red,3,140249,HITSZ1,loss
 107205691,59619,2024-2025 VEX Robotics Competition Asia Open Finals (VEX U),Division 1,2,1,2025-02-21T21:00:00-05:00,U,blue,27,140249,HITSZ1,win
 107205691,59619,2024-2025 VEX Robotics Competition Asia Open Finals (VEX U),Division 1,2,1,2025-02-21T21:00:00-05:00,U,red,25,182217,CUMAE1,loss
+94359393,59374,全国VEX机器人精英赛: VEX-U,Division 1,2,1,2024-12-20T20:00:00-05:00,Field 1,blue,17,153817,SZTU1,win
+94359393,59374,全国VEX机器人精英赛: VEX-U,Division 1,2,1,2024-12-20T20:00:00-05:00,Field 1,red,3,140249,HITSZ1,loss
 107205701,59619,2024-2025 VEX Robotics Competition Asia Open Finals (VEX U),Division 1,2,11,2025-02-21T22:40:00-05:00,U,blue,17,165345,USST1,loss
 107205701,59619,2024-2025 VEX Robotics Competition Asia Open Finals (VEX U),Division 1,2,11,2025-02-21T22:40:00-05:00,U,red,47,140249,HITSZ1,win
 107205704,59619,2024-2025 VEX Robotics Competition Asia Open Finals (VEX U),Division 1,2,14,2025-02-22T00:10:00-05:00,U,blue,43,140249,HITSZ1,win
@@ -3571,10 +3571,10 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 94359453,59374,全国VEX机器人精英赛: VEX-U,Division 1,2,61,2024-12-21T03:00:00-05:00,Field 1,red,32,140249,HITSZ1,win
 94359473,59374,全国VEX机器人精英赛: VEX-U,Division 1,2,81,2024-12-21T19:30:00-05:00,Field 1,blue,38,140249,HITSZ1,win
 94359473,59374,全国VEX机器人精英赛: VEX-U,Division 1,2,81,2024-12-21T19:30:00-05:00,Field 1,red,21,182221,HUST2,loss
-94359517,59374,全国VEX机器人精英赛: VEX-U,Division 1,3,1,,Field 1,blue,31,140249,HITSZ1,loss
-94359517,59374,全国VEX机器人精英赛: VEX-U,Division 1,3,1,,Field 1,red,40,98510,SJTU3,win
 107205747,59619,2024-2025 VEX Robotics Competition Asia Open Finals (VEX U),Division 1,3,1,,,blue,26,125789,TJU,loss
 107205747,59619,2024-2025 VEX Robotics Competition Asia Open Finals (VEX U),Division 1,3,1,,,red,39,140249,HITSZ1,win
+94359517,59374,全国VEX机器人精英赛: VEX-U,Division 1,3,1,,Field 1,blue,31,140249,HITSZ1,loss
+94359517,59374,全国VEX机器人精英赛: VEX-U,Division 1,3,1,,Field 1,red,40,98510,SJTU3,win
 107205751,59619,2024-2025 VEX Robotics Competition Asia Open Finals (VEX U),Division 1,4,1,,,blue,30,181785,SMP1,loss
 107205751,59619,2024-2025 VEX Robotics Competition Asia Open Finals (VEX U),Division 1,4,1,,,red,37,140249,HITSZ1,win
 107205753,59619,2024-2025 VEX Robotics Competition Asia Open Finals (VEX U),Division 1,5,1,,,blue,15,183573,CSTU,loss
@@ -5165,10 +5165,10 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 105176271,56255,Mt. SAC VEXU High Stakes with BBQ sauce,Division 1,2,47,2025-02-15T17:06:00-05:00,Blue Field,red,5,74340,CSUNB,loss
 105176277,56255,Mt. SAC VEXU High Stakes with BBQ sauce,Division 1,2,53,2025-02-15T17:30:00-05:00,Blue Field,blue,34,74340,CSUNB,win
 105176277,56255,Mt. SAC VEXU High Stakes with BBQ sauce,Division 1,2,53,2025-02-15T17:30:00-05:00,Blue Field,red,24,182594,EMP,loss
-108827411,55623,Gear Slingers Open 2025: VURC Tournament High Stakes,Division 1,6,1,,,blue,26,64172,MTSAC2,win
-108827411,55623,Gear Slingers Open 2025: VURC Tournament High Stakes,Division 1,6,1,,,red,11,74340,CSUNB,loss
 105176285,56255,Mt. SAC VEXU High Stakes with BBQ sauce,Division 1,6,1,,,blue,9,74340,CSUNB,win
 105176285,56255,Mt. SAC VEXU High Stakes with BBQ sauce,Division 1,6,1,,,red,6,53537,MCEC1,loss
+108827411,55623,Gear Slingers Open 2025: VURC Tournament High Stakes,Division 1,6,1,,,blue,26,64172,MTSAC2,win
+108827411,55623,Gear Slingers Open 2025: VURC Tournament High Stakes,Division 1,6,1,,,red,11,74340,CSUNB,loss
 108827358,55623,Gear Slingers Open 2025: VURC Tournament High Stakes,Division 1,2,5,2025-03-01T12:24:00-05:00,Main Field,blue,35,74339,CSUNR,win
 108827358,55623,Gear Slingers Open 2025: VURC Tournament High Stakes,Division 1,2,5,2025-03-01T12:24:00-05:00,Main Field,red,0,167892,SMC1,loss
 101954151,59009,The Stakes are High: CSUN presents VEX V5 Robotics Competition : High Stakes,Division 1,2,7,2025-02-01T13:51:00-05:00,RED,blue,3,74339,CSUNR,tie

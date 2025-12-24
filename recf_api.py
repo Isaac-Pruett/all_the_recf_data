@@ -1,12 +1,13 @@
-import requests
 import json
 import os
 import time
 
+import requests
+
 base_url = "https://www.robotevents.com/api/v2"
 
-with open("pass.txt", "r") as f:
-    passkey = f.read().strip()
+passkey = os.environ["RECF_TOKEN"].strip()
+
 
 headers = {
     "Accept": "application/json",
@@ -15,15 +16,17 @@ headers = {
 
 iterationcount = 1
 
+
 def get_data_from(location):
     url = base_url + location + "?per_page=250"
     data = None
     global iterationcount
 
-    while data is None or (isinstance(data, dict) and data.get("message") == "Too Many Attempts."):
+    while data is None or (
+        isinstance(data, dict) and data.get("message") == "Too Many Attempts."
+    ):
         response = requests.get(url, headers=headers)
         print("GET", url, "->", response.status_code)
-        
 
         if response.status_code == 429:
             print("Too many requests. Suspending... Please wait.")
@@ -40,16 +43,12 @@ def get_data_from(location):
             print("Response text:", response.text)
             raise
 
-        #time.sleep(0.5)
-            
-
-        
+        # time.sleep(0.5)
 
     if "meta" not in data:
         raise ValueError(f"Unexpected response at {url}: {data}")
 
     return data
-
 
 
 def load_data_from(location):

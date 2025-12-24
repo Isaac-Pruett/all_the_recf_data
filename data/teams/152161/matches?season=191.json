@@ -482,58 +482,6 @@
             "updated_at": "2025-02-20T19:07:38-05:00"
         },
         {
-            "id": 106928974,
-            "event": {
-                "id": 55722,
-                "name": "Columbia VEX U Robotics Competition Signature Event: College",
-                "code": "RE-VURC-24-5722"
-            },
-            "division": {
-                "id": 1,
-                "name": "Division 1",
-                "code": null
-            },
-            "round": 2,
-            "instance": 1,
-            "matchnum": 13,
-            "scheduled": "2025-02-22T08:20:00-05:00",
-            "started": "2025-02-22T08:34:09-05:00",
-            "field": "Main Field",
-            "scored": false,
-            "name": "Qualifier #13",
-            "alliances": [
-                {
-                    "color": "blue",
-                    "score": 25,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 152161,
-                                "name": "IQ1",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                },
-                {
-                    "color": "red",
-                    "score": 40,
-                    "teams": [
-                        {
-                            "team": {
-                                "id": 150432,
-                                "name": "UTCJ2",
-                                "code": null
-                            },
-                            "sitting": false
-                        }
-                    ]
-                }
-            ],
-            "updated_at": "2025-02-22T17:29:03-05:00"
-        },
-        {
             "id": 105435056,
             "event": {
                 "id": 57670,
@@ -584,6 +532,58 @@
                 }
             ],
             "updated_at": "2025-02-20T19:07:38-05:00"
+        },
+        {
+            "id": 106928974,
+            "event": {
+                "id": 55722,
+                "name": "Columbia VEX U Robotics Competition Signature Event: College",
+                "code": "RE-VURC-24-5722"
+            },
+            "division": {
+                "id": 1,
+                "name": "Division 1",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-02-22T08:20:00-05:00",
+            "started": "2025-02-22T08:34:09-05:00",
+            "field": "Main Field",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152161,
+                                "name": "IQ1",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150432,
+                                "name": "UTCJ2",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T17:29:03-05:00"
         },
         {
             "id": 105435060,
