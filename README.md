@@ -1,4 +1,4 @@
-# A data bot for collecting stuff from RobotEvents' api, and a discord bot to interface with it.
+# A data bot for collecting stuff from [RobotEvents' api](https://www.robotevents.com/api/v2), and a discord bot to interface with it.
 
 Created by: [Isaac Pruett](https://github.com/Isaac-Pruett)
 
