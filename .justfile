@@ -1,4 +1,4 @@
-alias e := event
+alias e := matches
 alias r := run
 alias d := discord
 
@@ -8,26 +8,35 @@ set dotenv-load := true
 list:
     just --list
 
+install:
+    @uv sync
+    @mkdir -p data
+    @mkdir -p savedata
+
+# wrapper to run uv
 run FILE:
     uv run {{ FILE }}
 
-# gets event graph
-event:
-    uv run get_event_deets.py
-
+# cleans the uv cache
 clean:
     rm -rf .venv __pycache__
 
-nuke: clean
+# resets entire project
+nuke: clean reset
+    @echo NUUUUUUUUUUKED
+
+alias re := reset
+
+# resets the data cache
+reset:
     rm -rf data savedata
     mkdir data
     mkdir savedata
 
+# creates graph for season
 matches START END CODE:
     uv run elo_sos_season_graph.py {{ START }} {{ END }} {{ CODE }}
 
-skills START END CODE:
-    uv run elo_skills_data.py {{ START }} {{ END }} {{ CODE }}
-
-discord:
+# runs the discord bot
+discord: install
     @uv run discordbot.py

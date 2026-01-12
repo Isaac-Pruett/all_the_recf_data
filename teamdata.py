@@ -93,6 +93,7 @@ def skills_log(start, end, code):
                 skills = get_skills(j, season_id)  # JSON of matches
                 for s in skills.get("data", []):
                     # make a dict
+
                     rows.append(
                         {
                             "match_id": s["id"],
