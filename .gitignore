@@ -12,3 +12,5 @@ savedata/
 __pycache__/
 
 .zed/
+
+.DS_Store
