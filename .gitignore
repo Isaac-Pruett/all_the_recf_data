@@ -4,13 +4,13 @@ discord_token.txt
 
 .env
 
-data/
-savedata/
-.venv/
-.vscode/
+data
+savedata
+.venv
+.vscode
 
-__pycache__/
+__pycache__
 
-.zed/
+.zed
 
 .DS_Store
