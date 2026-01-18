@@ -79,33 +79,40 @@ async def on_message(message: discord.Message):
 
         await message.channel.send(f"**{teamname} Elo:** `{elo_value:.2f}`")
     if cx.startswith("$summary"):
-        teamname, start, end, code = process_msg_for_team(cx)
-        mlog = await get_relevant_mlog(cx, message)
-        slog = await get_relevant_slog(cx, message)
-        driver_df = (
-            slog[slog["type"] == "driver"]
-            .set_index("team_name")
-            .sort_values(by="score", ascending=False)
-        )
-        programming_df = (
-            slog[slog["type"] == "programming"]
-            .set_index("team_name")
-            .sort_values(by="score", ascending=False)
-        )
+        try:
+            teamname, start, end, code = process_msg_for_team(cx)
+            mlog = await get_relevant_mlog(cx, message)
+            slog = await get_relevant_slog(cx, message)
+            driver_df = (
+                slog[slog["type"] == "driver"]
+                .set_index("team_name")
+                .sort_values(by="score", ascending=False)
+            )
+            programming_df = (
+                slog[slog["type"] == "programming"]
+                .set_index("team_name")
+                .sort_values(by="score", ascending=False)
+            )
 
-        elo = get_elo(mlog).sort_values(by="elo", ascending=False)
+            elo = get_elo(mlog).sort_values(by="elo", ascending=False)
 
-        sos = get_str_schedule(mlog).sort_values(by="strength_of_schedule")
+            sos = get_str_schedule(mlog).sort_values(by="strength_of_schedule")
 
-        await message.channel.send(
-            f"""__**Current {code} {start}-{end} data for {teamname}**__
+            await message.channel.send(
+                f"""__**Current {code} {start}-{end} data for {teamname}**__
+
+**{teamname} elo:** `{elo.loc[teamname, "elo"]:.2f}` \t rank: `{elo.index.get_loc(teamname) + 1}`
+
+**{teamname} strength of schedule:** `{(sos.loc[teamname, "strength_of_schedule"] * 100.0):.2f}`% \t rank: `{sos.index.get_loc(teamname) + 1}`
+
 **{teamname} skills:**
 Driver: `{driver_df.loc[teamname, "score"]}`,  rank: `{driver_df.index.get_loc(teamname) + 1}`
 Programming: `{programming_df.loc[teamname, "score"]}`,  rank: `{programming_df.index.get_loc(teamname) + 1}`
-**{teamname} elo:** `{elo.loc[teamname, "elo"]:.2f}` \t rank: `{elo.index.get_loc(teamname) + 1}`
-**{teamname} strength of schedule:** `{(sos.loc[teamname, "strength_of_schedule"] * 100.0):.2f}`% \t rank: `{sos.index.get_loc(teamname) + 1}`
 """
-        )
+            )
+        except KeyError as e:
+            print(e)
+            await message.channel.send(f"{teamname} appears not to have played a match yet...")
     if cx.startswith("$github"):
         await message.channel.send("")
 

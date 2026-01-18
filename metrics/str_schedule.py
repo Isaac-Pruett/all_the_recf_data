@@ -6,7 +6,7 @@ def get_str_schedule(df):
 
     # Calculate team win % first
     team_records = df.groupby("team_name")["result"].value_counts().unstack(fill_value=0)
-   
+
     # Ensure all three columns exist
     for col in ["win", "loss", "tie"]:
         if col not in team_records.columns:
@@ -32,7 +32,7 @@ def get_str_schedule(df):
         team_sos[team] = sos
 
     sos_df = pd.DataFrame.from_dict(team_sos, orient="index", columns=["strength_of_schedule"])
-    sos_df = sos_df.sort_values("strength_of_schedule", ascending=False)
+    sos_df = sos_df.sort_values("strength_of_schedule", ascending=True)
 
     return sos_df
 
