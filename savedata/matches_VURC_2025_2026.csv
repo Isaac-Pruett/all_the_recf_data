@@ -435,20 +435,60 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 122570210,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,60,2025-11-22T16:43:47-05:00,LEEP,red,0,163750,JHAWK,tie
 122570223,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,3,1,,,blue,38,190104,ILLIN2,loss
 122570223,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,3,1,,,red,59,163750,JHAWK,win
+130806270,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,3,2026-01-17T12:01:00-05:00,AG PHD,blue,34,175783,INTRT,loss
+130806270,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,3,2026-01-17T12:01:00-05:00,AG PHD,red,64,163750,JHAWK,win
+130806272,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,5,2026-01-17T12:17:00-05:00,AG PHD,blue,31,175783,INTRT,loss
+130806272,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,5,2026-01-17T12:17:00-05:00,AG PHD,red,58,63958,UMN,win
+130806276,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,9,2026-01-17T12:49:00-05:00,AG PHD,blue,35,99253,BISON1,loss
+130806276,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,9,2026-01-17T12:49:00-05:00,AG PHD,red,126,175783,INTRT,win
 122570161,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,11,2025-11-22T11:25:00-05:00,Eaton,blue,39,176372,KGEAR,loss
 122570161,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,11,2025-11-22T11:25:00-05:00,Eaton,red,54,175783,INTRT,win
+130806280,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,13,2026-01-17T14:00:30-05:00,AG PHD,blue,82,175783,INTRT,win
+130806280,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,13,2026-01-17T14:00:30-05:00,AG PHD,red,52,157098,JACKS,loss
 122570169,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,19,2025-11-22T12:09:00-05:00,Eaton,blue,48,149821,ORDGR,loss
 122570169,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,19,2025-11-22T12:09:00-05:00,Eaton,red,60,175783,INTRT,win
+130806286,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,19,2026-01-17T14:47:00-05:00,AG PHD,blue,85,179009,SKERS,win
+130806286,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,19,2026-01-17T14:47:00-05:00,AG PHD,red,27,175783,INTRT,loss
+130806288,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,21,2026-01-17T15:02:30-05:00,AG PHD,blue,69,63958,UMN,win
+130806288,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,21,2026-01-17T15:02:30-05:00,AG PHD,red,29,175783,INTRT,loss
 122570175,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,25,2025-11-22T12:42:00-05:00,Eaton,blue,26,175783,INTRT,loss
 122570175,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,25,2025-11-22T12:42:00-05:00,Eaton,red,105,179009,SKERS,win
+130806293,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,26,2026-01-17T15:41:15-05:00,AG PHD,blue,66,163750,JHAWK,win
+130806293,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,26,2026-01-17T15:41:15-05:00,AG PHD,red,49,175783,INTRT,loss
 122570181,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,31,2025-11-22T14:10:34-05:00,Eaton,blue,63,163750,JHAWK,win
 122570181,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,31,2025-11-22T14:10:34-05:00,Eaton,red,44,175783,INTRT,loss
+130806298,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,31,2026-01-17T16:20:00-05:00,AG PHD,blue,26,149821,ORDGR,loss
+130806298,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,31,2026-01-17T16:20:00-05:00,AG PHD,red,128,175783,INTRT,win
+130806300,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,33,2026-01-17T16:35:30-05:00,AG PHD,blue,0,175783,INTRT,tie
+130806300,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,33,2026-01-17T16:35:30-05:00,AG PHD,red,0,75787,MINES,tie
 122570209,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,59,2025-11-22T16:38:30-05:00,Eaton,blue,0,157098,JACKS,tie
 122570209,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,59,2025-11-22T16:38:30-05:00,Eaton,red,0,175783,INTRT,tie
+130806305,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,3,1,,AG PHD,blue,80,175783,INTRT,win
+130806305,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,3,1,,AG PHD,red,45,157098,JACKS,loss
+130806308,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,4,1,,AG PHD,blue,48,175783,INTRT,tie
+130806308,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,4,1,,AG PHD,red,48,179009,SKERS,tie
+130806309,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,4,2,,AG PHD,blue,39,175783,INTRT,loss
+130806309,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,4,2,,AG PHD,red,50,179009,SKERS,win
 122570151,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,1,2025-11-22T10:30:00-05:00,Eaton,blue,0,170294,MTG7,loss
 122570151,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,1,2025-11-22T10:30:00-05:00,Eaton,red,114,157098,JACKS,win
+130806271,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,4,2026-01-17T12:09:00-05:00,AG PHD,blue,68,179009,SKERS,win
+130806271,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,4,2026-01-17T12:09:00-05:00,AG PHD,red,59,157098,JACKS,loss
+130806273,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,6,2026-01-17T12:25:00-05:00,AG PHD,blue,100,157098,JACKS,win
+130806273,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,6,2026-01-17T12:25:00-05:00,AG PHD,red,35,99253,BISON1,loss
+130806277,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,10,2026-01-17T12:57:00-05:00,AG PHD,blue,98,157098,JACKS,win
+130806277,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,10,2026-01-17T12:57:00-05:00,AG PHD,red,40,149821,ORDGR,loss
+130806284,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,17,2026-01-17T14:31:30-05:00,AG PHD,blue,34,99253,BISON1,loss
+130806284,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,17,2026-01-17T14:31:30-05:00,AG PHD,red,87,157098,JACKS,win
+130806289,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,22,2026-01-17T15:10:15-05:00,AG PHD,blue,37,75787,MINES,loss
+130806289,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,22,2026-01-17T15:10:15-05:00,AG PHD,red,104,157098,JACKS,win
+130806294,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,27,2026-01-17T15:49:00-05:00,AG PHD,blue,96,157098,JACKS,win
+130806294,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,27,2026-01-17T15:49:00-05:00,AG PHD,red,46,149821,ORDGR,loss
 122570179,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,29,2025-11-22T14:00:00-05:00,Eaton,blue,32,149821,ORDGR,loss
 122570179,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,29,2025-11-22T14:00:00-05:00,Eaton,red,140,157098,JACKS,win
+130806296,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,29,2026-01-17T16:04:30-05:00,AG PHD,blue,51,157098,JACKS,loss
+130806296,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,29,2026-01-17T16:04:30-05:00,AG PHD,red,100,63958,UMN,win
+130806302,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,35,2026-01-17T16:51:00-05:00,AG PHD,blue,0,163750,JHAWK,tie
+130806302,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,35,2026-01-17T16:51:00-05:00,AG PHD,red,0,157098,JACKS,tie
 122570189,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,39,2025-11-22T14:52:50-05:00,Eaton,blue,76,157098,JACKS,win
 122570189,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,39,2025-11-22T14:52:50-05:00,Eaton,red,38,163750,JHAWK,loss
 122570197,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,47,2025-11-22T15:35:06-05:00,Eaton,blue,117,157098,JACKS,win
@@ -461,12 +501,28 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 122570228,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,5,3,,Eaton,red,71,157098,JACKS,loss
 122570156,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,6,2025-11-22T10:57:30-05:00,LEEP,blue,70,163750,JHAWK,win
 122570156,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,6,2025-11-22T10:57:30-05:00,LEEP,red,39,176372,KGEAR,loss
+130806275,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,8,2026-01-17T12:41:00-05:00,AG PHD,blue,48,149821,ORDGR,loss
+130806275,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,8,2026-01-17T12:41:00-05:00,AG PHD,red,90,163750,JHAWK,win
 122570159,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,9,2025-11-22T11:14:00-05:00,Eaton,blue,110,163750,JHAWK,win
 122570159,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,9,2025-11-22T11:14:00-05:00,Eaton,red,12,143065,WCOE,loss
+130806279,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,12,2026-01-17T13:52:45-05:00,AG PHD,blue,115,163750,JHAWK,win
+130806279,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,12,2026-01-17T13:52:45-05:00,AG PHD,red,14,75787,MINES,loss
+130806282,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,15,2026-01-17T14:16:00-05:00,AG PHD,blue,103,163750,JHAWK,win
+130806282,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,15,2026-01-17T14:16:00-05:00,AG PHD,red,26,99253,BISON1,loss
 122570166,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,16,2025-11-22T11:52:30-05:00,LEEP,blue,47,179009,SKERS,loss
 122570166,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,16,2025-11-22T11:52:30-05:00,LEEP,red,72,163750,JHAWK,win
+130806285,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,18,2026-01-17T14:39:15-05:00,AG PHD,blue,52,163750,JHAWK,loss
+130806285,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,18,2026-01-17T14:39:15-05:00,AG PHD,red,61,63958,UMN,win
+130806291,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,24,2026-01-17T15:25:45-05:00,AG PHD,blue,91,179009,SKERS,win
+130806291,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,24,2026-01-17T15:25:45-05:00,AG PHD,red,18,163750,JHAWK,loss
+130806299,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,32,2026-01-17T16:27:45-05:00,AG PHD,blue,26,99253,BISON1,loss
+130806299,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,32,2026-01-17T16:27:45-05:00,AG PHD,red,98,163750,JHAWK,win
 122570203,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,53,2025-11-22T16:06:48-05:00,Eaton,blue,46,170294,MTG7,loss
 122570203,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,53,2025-11-22T16:06:48-05:00,Eaton,red,73,163750,JHAWK,win
+130806307,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,3,1,,AG PHD,blue,63,149821,ORDGR,loss
+130806307,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,3,1,,AG PHD,red,68,163750,JHAWK,win
+130806310,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,4,1,,AG PHD,blue,59,163750,JHAWK,loss
+130806310,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,4,1,,AG PHD,red,73,63958,UMN,win
 122570225,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,4,1,,LEEP,blue,50,163750,JHAWK,loss
 122570225,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,4,1,,LEEP,red,71,179009,SKERS,win
 122570218,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,6,1,,Eaton,blue,9,143065,WCOE,loss
@@ -483,12 +539,36 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 122570222,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,3,1,,,red,124,179009,SKERS,win
 122570217,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,6,1,,LEEP,blue,58,170294,MTG7,win
 122570217,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,6,1,,LEEP,red,28,149821,ORDGR,loss
+130806269,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,2,2026-01-17T11:53:00-05:00,AG PHD,blue,54,63958,UMN,win
+130806269,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,2,2026-01-17T11:53:00-05:00,AG PHD,red,35,149821,ORDGR,loss
+130806281,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,14,2026-01-17T14:08:15-05:00,AG PHD,blue,15,149821,ORDGR,loss
+130806281,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,14,2026-01-17T14:08:15-05:00,AG PHD,red,68,179009,SKERS,win
+130806287,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,20,2026-01-17T14:54:45-05:00,AG PHD,blue,101,149821,ORDGR,win
+130806287,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,20,2026-01-17T14:54:45-05:00,AG PHD,red,43,75787,MINES,loss
+130806290,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,23,2026-01-17T15:18:00-05:00,AG PHD,blue,42,99253,BISON1,loss
+130806290,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,23,2026-01-17T15:18:00-05:00,AG PHD,red,49,149821,ORDGR,win
+130806303,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,36,2026-01-17T16:58:45-05:00,AG PHD,blue,0,149821,ORDGR,tie
+130806303,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,36,2026-01-17T16:58:45-05:00,AG PHD,red,0,179009,SKERS,tie
 122570186,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,36,2025-11-22T14:36:59-05:00,LEEP,blue,43,149821,ORDGR,win
 122570186,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,36,2025-11-22T14:36:59-05:00,LEEP,red,22,143065,WCOE,loss
 122570204,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,54,2025-11-22T16:12:05-05:00,LEEP,blue,108,179009,SKERS,win
 122570204,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,54,2025-11-22T16:12:05-05:00,LEEP,red,40,149821,ORDGR,loss
 122570154,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,4,2025-11-22T10:46:30-05:00,LEEP,blue,16,143065,WCOE,loss
 122570154,60152,"2025 University of Kansas LEEP Back VURC; Lawrence, KS: KS VEX V5 Robotics Competition",Division 1,2,4,2025-11-22T10:46:30-05:00,LEEP,red,118,179009,SKERS,win
+130806274,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,7,2026-01-17T12:33:00-05:00,AG PHD,blue,3,75787,MINES,loss
+130806274,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,7,2026-01-17T12:33:00-05:00,AG PHD,red,109,179009,SKERS,win
+130806278,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,11,2026-01-17T13:45:00-05:00,AG PHD,blue,12,63958,UMN,loss
+130806278,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,11,2026-01-17T13:45:00-05:00,AG PHD,red,94,179009,SKERS,win
+130806295,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,28,2026-01-17T15:56:45-05:00,AG PHD,blue,70,179009,SKERS,win
+130806295,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,28,2026-01-17T15:56:45-05:00,AG PHD,red,33,99253,BISON1,loss
+130806297,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,30,2026-01-17T16:12:15-05:00,AG PHD,blue,8,75787,MINES,loss
+130806297,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,30,2026-01-17T16:12:15-05:00,AG PHD,red,110,179009,SKERS,win
+130806304,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,3,1,,AG PHD,blue,9,99253,BISON1,loss
+130806304,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,3,1,,AG PHD,red,130,179009,SKERS,win
+130806311,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,5,1,,AG PHD,blue,24,63958,UMN,loss
+130806311,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,5,1,,AG PHD,red,65,179009,SKERS,win
+130806312,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,5,2,,AG PHD,blue,20,63958,UMN,loss
+130806312,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,5,2,,AG PHD,red,53,179009,SKERS,win
 122521523,60681,C2C Robotics VEXU Qualifier at Brookside 25-26: Push Back: Hosted by C2C Robotics and BMCHSD,Division 1,2,2,2025-11-22T09:06:00-05:00,Main Field,blue,130,113437,UCF,win
 122521523,60681,C2C Robotics VEXU Qualifier at Brookside 25-26: Push Back: Hosted by C2C Robotics and BMCHSD,Division 1,2,2,2025-11-22T09:06:00-05:00,Main Field,red,21,177201,DUCKZ,loss
 122521530,60681,C2C Robotics VEXU Qualifier at Brookside 25-26: Push Back: Hosted by C2C Robotics and BMCHSD,Division 1,2,9,2025-11-22T09:48:00-05:00,Main Field,blue,26,151699,SHU,loss
@@ -839,122 +919,272 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 125742104,60318,VURC Knightmare Push Back @ AHS,Division 1,4,1,,Main Field,red,59,163157,PRVX,win
 126082978,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,1,2025-12-13T12:30:00-05:00,Main Field,blue,33,73643,CBU1,win
 126082978,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,1,2025-12-13T12:30:00-05:00,Main Field,red,29,177312,RCXD2,loss
+131065119,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,7,2026-01-18T12:42:00-05:00,Field 1,blue,46,35506,MTSAC1,loss
+131065119,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,7,2026-01-18T12:42:00-05:00,Field 1,red,59,73643,CBU1,win
 126082985,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,8,2025-12-13T13:12:00-05:00,Main Field,blue,0,73643,CBU1,loss
 126082985,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,8,2025-12-13T13:12:00-05:00,Main Field,red,26,35506,MTSAC1,win
+131065128,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,16,2026-01-18T13:22:30-05:00,Field 2,blue,106,106975,CPSLO,win
+131065128,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,16,2026-01-18T13:22:30-05:00,Field 2,red,0,73643,CBU1,loss
 126082995,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,18,2025-12-13T14:12:00-05:00,Main Field,blue,3,177313,RCXD3,loss
 126082995,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,18,2025-12-13T14:12:00-05:00,Main Field,red,72,73643,CBU1,win
 126082998,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,21,2025-12-13T14:30:00-05:00,Main Field,blue,14,150998,UCR1,loss
 126082998,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,21,2025-12-13T14:30:00-05:00,Main Field,red,22,73643,CBU1,win
+131065136,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,24,2026-01-18T13:58:30-05:00,Field 2,blue,65,73643,CBU1,win
+131065136,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,24,2026-01-18T13:58:30-05:00,Field 2,red,11,53537,MCEC1,loss
 126083002,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,25,2025-12-13T14:54:00-05:00,Main Field,blue,69,74339,CSUNR,win
 126083002,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,25,2025-12-13T14:54:00-05:00,Main Field,red,46,73643,CBU1,loss
+131065140,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,28,2026-01-18T14:16:30-05:00,Field 2,blue,91,73643,CBU1,win
+131065140,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,28,2026-01-18T14:16:30-05:00,Field 2,red,8,177312,RCXD2,loss
 126083009,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,32,2025-12-13T16:36:00-05:00,Main Field,blue,64,73643,CBU1,win
 126083009,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,32,2025-12-13T16:36:00-05:00,Main Field,red,17,64172,MTSAC2,loss
+131065149,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,37,2026-01-18T14:57:00-05:00,Field 1,blue,47,162677,UCSB1,win
+131065149,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,37,2026-01-18T14:57:00-05:00,Field 1,red,25,73643,CBU1,loss
 126083015,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,38,2025-12-13T17:12:00-05:00,Main Field,blue,115,109447,EZ,win
 126083015,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,38,2025-12-13T17:12:00-05:00,Main Field,red,15,73643,CBU1,loss
+131065157,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,45,2026-01-18T16:31:30-05:00,Field 1,blue,94,73643,CBU1,win
+131065157,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,45,2026-01-18T16:31:30-05:00,Field 1,red,17,64172,MTSAC2,loss
 126083025,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,48,2025-12-13T18:12:00-05:00,Main Field,blue,11,157553,RCXD1,loss
 126083025,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,48,2025-12-13T18:12:00-05:00,Main Field,red,54,73643,CBU1,win
+131065163,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,51,2026-01-18T16:58:30-05:00,Field 1,blue,80,73643,CBU1,win
+131065163,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,51,2026-01-18T16:58:30-05:00,Field 1,red,32,74339,CSUNR,loss
+131065171,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,59,2026-01-18T17:34:30-05:00,Field 1,blue,67,147253,KUDOS,win
+131065171,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,59,2026-01-18T17:34:30-05:00,Field 1,red,30,73643,CBU1,loss
 126083031,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,3,1,,,blue,40,73643,CBU1,loss
 126083031,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,3,1,,,red,43,74340,CSUNB,win
+131065186,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,3,1,,Field 2,blue,93,73643,CBU1,win
+131065186,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,3,1,,Field 2,red,53,74339,CSUNR,loss
+131065189,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,4,1,,Field 1,blue,49,73643,CBU1,loss
+131065189,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,4,1,,Field 1,red,62,109447,EZ,win
 126083027,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,6,1,,,blue,6,64172,MTSAC2,loss
 126083027,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,6,1,,,red,73,73643,CBU1,win
+131065180,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 2,blue,9,177313,RCXD3,loss
+131065180,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 2,red,96,73643,CBU1,win
 126082983,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,6,2025-12-13T13:00:00-05:00,Main Field,blue,6,150998,UCR1,loss
 126082983,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,6,2025-12-13T13:00:00-05:00,Main Field,red,138,106975,CPSLO,win
+131065118,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,6,2026-01-18T12:37:30-05:00,Field 2,blue,35,147253,KUDOS,loss
+131065118,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,6,2026-01-18T12:37:30-05:00,Field 2,red,57,106975,CPSLO,win
 126082987,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,10,2025-12-13T13:24:00-05:00,Main Field,blue,0,177312,RCXD2,loss
 126082987,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,10,2025-12-13T13:24:00-05:00,Main Field,red,157,106975,CPSLO,win
 126082992,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,15,2025-12-13T13:54:00-05:00,Main Field,blue,160,106975,CPSLO,win
 126082992,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,15,2025-12-13T13:54:00-05:00,Main Field,red,3,64172,MTSAC2,loss
 126082996,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,19,2025-12-13T14:18:00-05:00,Main Field,blue,11,53537,MCEC1,loss
 126082996,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,19,2025-12-13T14:18:00-05:00,Main Field,red,157,106975,CPSLO,win
+131065132,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,20,2026-01-18T13:40:30-05:00,Field 2,blue,44,106975,CPSLO,loss
+131065132,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,20,2026-01-18T13:40:30-05:00,Field 2,red,47,109447,EZ,win
 126083004,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,27,2025-12-13T16:06:00-05:00,Main Field,blue,157,106975,CPSLO,win
 126083004,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,27,2025-12-13T16:06:00-05:00,Main Field,red,3,177313,RCXD3,loss
 126083008,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,31,2025-12-13T16:30:00-05:00,Main Field,blue,96,106975,CPSLO,win
 126083008,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,31,2025-12-13T16:30:00-05:00,Main Field,red,28,74339,CSUNR,loss
+131065144,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,32,2026-01-18T14:34:30-05:00,Field 2,blue,3,186901,POTTR,loss
+131065144,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,32,2026-01-18T14:34:30-05:00,Field 2,red,90,106975,CPSLO,win
 126083014,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,37,2025-12-13T17:06:00-05:00,Main Field,blue,148,106975,CPSLO,win
 126083014,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,37,2025-12-13T17:06:00-05:00,Main Field,red,11,35506,MTSAC1,loss
+131065150,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,38,2026-01-18T16:00:00-05:00,Field 2,blue,170,106975,CPSLO,win
+131065150,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,38,2026-01-18T16:00:00-05:00,Field 2,red,0,157553,RCXD1,loss
+131065154,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,42,2026-01-18T16:18:00-05:00,Field 2,blue,64,106975,CPSLO,win
+131065154,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,42,2026-01-18T16:18:00-05:00,Field 2,red,33,162677,UCSB1,loss
 126083020,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,43,2025-12-13T17:42:00-05:00,Main Field,blue,87,106975,CPSLO,win
 126083020,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,43,2025-12-13T17:42:00-05:00,Main Field,red,51,109447,EZ,loss
+131065167,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,55,2026-01-18T17:16:30-05:00,Field 1,blue,14,64172,MTSAC2,loss
+131065167,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,55,2026-01-18T17:16:30-05:00,Field 1,red,118,106975,CPSLO,win
+131065175,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,63,2026-01-18T17:52:30-05:00,Field 1,blue,0,162924,MTSAC3,loss
+131065175,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,63,2026-01-18T17:52:30-05:00,Field 1,red,149,106975,CPSLO,win
 126083030,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,3,1,,,blue,8,157553,RCXD1,loss
 126083030,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,3,1,,,red,131,106975,CPSLO,win
+131065187,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,3,1,,Field 1,blue,11,191951,CSN1,loss
+131065187,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,3,1,,Field 1,red,80,106975,CPSLO,win
 126083034,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,4,1,,,blue,24,74340,CSUNB,loss
 126083034,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,4,1,,,red,120,106975,CPSLO,win
+131065190,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,4,1,,,blue,22,147253,KUDOS,loss
+131065190,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,4,1,,,red,62,106975,CPSLO,win
 126083036,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,5,1,,,blue,36,109447,EZ,loss
 126083036,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,5,1,,,red,88,106975,CPSLO,win
+131065191,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,5,1,,Field 1,blue,80,106975,CPSLO,win
+131065191,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,5,1,,Field 1,red,23,109447,EZ,loss
 126083037,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,5,2,,,blue,52,109447,EZ,loss
 126083037,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,5,2,,,red,72,106975,CPSLO,win
+131065181,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 1,blue,0,162924,MTSAC3,loss
+131065181,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 1,red,172,106975,CPSLO,win
+131065113,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,1,2026-01-18T12:15:00-05:00,Field 1,blue,30,64172,MTSAC2,loss
+131065113,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,1,2026-01-18T12:15:00-05:00,Field 1,red,33,191951,CSN1,win
+131065122,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,10,2026-01-18T12:55:30-05:00,Field 2,blue,28,191951,CSN1,win
+131065122,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,10,2026-01-18T12:55:30-05:00,Field 2,red,25,186901,POTTR,loss
+131065131,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,19,2026-01-18T13:36:00-05:00,Field 1,blue,23,177313,RCXD3,loss
+131065131,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,19,2026-01-18T13:36:00-05:00,Field 1,red,37,191951,CSN1,win
+131065142,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,30,2026-01-18T14:25:30-05:00,Field 2,blue,35,191951,CSN1,loss
+131065142,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,30,2026-01-18T14:25:30-05:00,Field 2,red,46,74340,CSUNB,win
+131065152,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,40,2026-01-18T16:09:00-05:00,Field 2,blue,17,177312,RCXD2,loss
+131065152,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,40,2026-01-18T16:09:00-05:00,Field 2,red,40,191951,CSN1,win
+131065156,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,44,2026-01-18T16:27:00-05:00,Field 2,blue,48,35506,MTSAC1,win
+131065156,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,44,2026-01-18T16:27:00-05:00,Field 2,red,41,191951,CSN1,loss
+131065161,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,49,2026-01-18T16:49:30-05:00,Field 1,blue,0,191951,CSN1,loss
+131065161,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,49,2026-01-18T16:49:30-05:00,Field 1,red,61,147253,KUDOS,win
+131065172,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,60,2026-01-18T17:39:00-05:00,Field 2,blue,35,191951,CSN1,loss
+131065172,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,60,2026-01-18T17:39:00-05:00,Field 2,red,38,157553,RCXD1,win
+131065182,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 2,blue,56,191951,CSN1,win
+131065182,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 2,red,12,74340,CSUNB,loss
 126082979,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,2,2025-12-13T12:36:00-05:00,Main Field,blue,64,74339,CSUNR,win
 126082979,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,2,2025-12-13T12:36:00-05:00,Main Field,red,48,74340,CSUNB,loss
+131065115,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,3,2026-01-18T12:24:00-05:00,Field 1,blue,48,162677,UCSB1,win
+131065115,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,3,2026-01-18T12:24:00-05:00,Field 1,red,32,74340,CSUNB,loss
+131065123,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,11,2026-01-18T13:00:00-05:00,Field 1,blue,12,157553,RCXD1,loss
+131065123,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,11,2026-01-18T13:00:00-05:00,Field 1,red,37,74340,CSUNB,win
 126082988,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,11,2025-12-13T13:30:00-05:00,Main Field,blue,12,177313,RCXD3,loss
 126082988,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,11,2025-12-13T13:30:00-05:00,Main Field,red,95,74340,CSUNB,win
 126082993,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,16,2025-12-13T14:00:00-05:00,Main Field,blue,80,74340,CSUNB,win
 126082993,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,16,2025-12-13T14:00:00-05:00,Main Field,red,0,157553,RCXD1,loss
 126082997,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,20,2025-12-13T14:24:00-05:00,Main Field,blue,55,74340,CSUNB,loss
 126082997,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,20,2025-12-13T14:24:00-05:00,Main Field,red,63,109447,EZ,win
+131065134,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,22,2026-01-18T13:49:30-05:00,Field 2,blue,34,74340,CSUNB,loss
+131065134,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,22,2026-01-18T13:49:30-05:00,Field 2,red,57,147253,KUDOS,win
 126083005,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,28,2025-12-13T16:12:00-05:00,Main Field,blue,110,74340,CSUNB,win
 126083005,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,28,2025-12-13T16:12:00-05:00,Main Field,red,12,150998,UCR1,loss
 126083011,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,34,2025-12-13T16:48:00-05:00,Main Field,blue,56,35506,MTSAC1,win
 126083011,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,34,2025-12-13T16:48:00-05:00,Main Field,red,50,74340,CSUNB,loss
+131065147,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,35,2026-01-18T14:48:00-05:00,Field 1,blue,44,74340,CSUNB,loss
+131065147,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,35,2026-01-18T14:48:00-05:00,Field 1,red,60,109447,EZ,win
 126083019,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,42,2025-12-13T17:36:00-05:00,Main Field,blue,56,74340,CSUNB,win
 126083019,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,42,2025-12-13T17:36:00-05:00,Main Field,red,31,177312,RCXD2,loss
 126083022,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,45,2025-12-13T17:54:00-05:00,Main Field,blue,18,53537,MCEC1,loss
 126083022,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,45,2025-12-13T17:54:00-05:00,Main Field,red,64,74340,CSUNB,win
+131065158,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,46,2026-01-18T16:36:00-05:00,Field 2,blue,67,74340,CSUNB,win
+131065158,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,46,2026-01-18T16:36:00-05:00,Field 2,red,51,186901,POTTR,loss
+131065166,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,54,2026-01-18T17:12:00-05:00,Field 2,blue,32,53537,MCEC1,loss
+131065166,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,54,2026-01-18T17:12:00-05:00,Field 2,red,82,74340,CSUNB,win
+131065174,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,62,2026-01-18T17:48:00-05:00,Field 2,blue,54,74340,CSUNB,loss
+131065174,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,62,2026-01-18T17:48:00-05:00,Field 2,red,57,74339,CSUNR,win
+131065114,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,2,2026-01-18T12:19:30-05:00,Field 2,blue,9,177313,RCXD3,loss
+131065114,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,2,2026-01-18T12:19:30-05:00,Field 2,red,103,74339,CSUNR,win
 126082984,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,7,2025-12-13T13:06:00-05:00,Main Field,blue,0,53537,MCEC1,loss
 126082984,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,7,2025-12-13T13:06:00-05:00,Main Field,red,95,74339,CSUNR,win
+131065121,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,9,2026-01-18T12:51:00-05:00,Field 1,blue,36,74339,CSUNR,loss
+131065121,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,9,2026-01-18T12:51:00-05:00,Field 1,red,64,162677,UCSB1,win
 126082994,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,17,2025-12-13T14:06:00-05:00,Main Field,blue,106,109447,EZ,win
 126082994,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,17,2025-12-13T14:06:00-05:00,Main Field,red,20,74339,CSUNR,loss
+131065130,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,18,2026-01-18T13:31:30-05:00,Field 2,blue,36,35506,MTSAC1,loss
+131065130,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,18,2026-01-18T13:31:30-05:00,Field 2,red,72,74339,CSUNR,win
 126082999,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,22,2025-12-13T14:36:00-05:00,Main Field,blue,140,74339,CSUNR,win
 126082999,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,22,2025-12-13T14:36:00-05:00,Main Field,red,21,64172,MTSAC2,loss
+131065141,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,29,2026-01-18T14:21:00-05:00,Field 1,blue,61,74339,CSUNR,win
+131065141,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,29,2026-01-18T14:21:00-05:00,Field 1,red,45,64172,MTSAC2,loss
+131065151,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,39,2026-01-18T16:04:30-05:00,Field 1,blue,69,74339,CSUNR,win
+131065151,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,39,2026-01-18T16:04:30-05:00,Field 1,red,49,186901,POTTR,loss
 126083018,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,41,2025-12-13T17:30:00-05:00,Main Field,blue,21,177313,RCXD3,loss
 126083018,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,41,2025-12-13T17:30:00-05:00,Main Field,red,68,74339,CSUNR,win
 126083023,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,46,2025-12-13T18:00:00-05:00,Main Field,blue,96,74339,CSUNR,win
 126083023,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,46,2025-12-13T18:00:00-05:00,Main Field,red,40,177312,RCXD2,loss
+131065159,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,47,2026-01-18T16:40:30-05:00,Field 1,blue,134,74339,CSUNR,win
+131065159,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,47,2026-01-18T16:40:30-05:00,Field 1,red,14,53537,MCEC1,loss
 126083033,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,3,1,,,blue,25,35506,MTSAC1,loss
 126083033,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,3,1,,,red,52,74339,CSUNR,win
 126083035,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,4,1,,,blue,25,74339,CSUNR,loss
 126083035,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,4,1,,,red,109,109447,EZ,win
+131065179,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 1,blue,24,64172,MTSAC2,loss
+131065179,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 1,red,74,74339,CSUNR,win
+131065117,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,5,2026-01-18T12:33:00-05:00,Field 1,blue,118,109447,EZ,win
+131065117,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,5,2026-01-18T12:33:00-05:00,Field 1,red,6,162924,MTSAC3,loss
 126082982,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,5,2025-12-13T12:54:00-05:00,Main Field,blue,3,64172,MTSAC2,loss
 126082982,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,5,2025-12-13T12:54:00-05:00,Main Field,red,143,109447,EZ,win
+131065124,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,12,2026-01-18T13:04:30-05:00,Field 2,blue,105,109447,EZ,win
+131065124,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,12,2026-01-18T13:04:30-05:00,Field 2,red,33,35506,MTSAC1,loss
 126082989,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,12,2025-12-13T13:36:00-05:00,Main Field,blue,94,109447,EZ,win
 126082989,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,12,2025-12-13T13:36:00-05:00,Main Field,red,19,157553,RCXD1,loss
 126083007,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,30,2025-12-13T16:24:00-05:00,Main Field,blue,134,109447,EZ,win
 126083007,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,30,2025-12-13T16:24:00-05:00,Main Field,red,9,35506,MTSAC1,loss
+131065143,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,31,2026-01-18T14:30:00-05:00,Field 1,blue,11,53537,MCEC1,loss
+131065143,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,31,2026-01-18T14:30:00-05:00,Field 1,red,140,109447,EZ,win
 126083010,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,33,2025-12-13T16:42:00-05:00,Main Field,blue,14,177313,RCXD3,loss
 126083010,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,33,2025-12-13T16:42:00-05:00,Main Field,red,70,109447,EZ,win
+131065160,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,48,2026-01-18T16:45:00-05:00,Field 2,blue,90,109447,EZ,win
+131065160,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,48,2026-01-18T16:45:00-05:00,Field 2,red,20,177312,RCXD2,loss
+131065165,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,53,2026-01-18T17:07:30-05:00,Field 1,blue,50,109447,EZ,win
+131065165,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,53,2026-01-18T17:07:30-05:00,Field 1,red,42,162677,UCSB1,loss
+131065169,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,57,2026-01-18T17:25:30-05:00,Field 1,blue,15,177313,RCXD3,loss
+131065169,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,57,2026-01-18T17:25:30-05:00,Field 1,red,113,109447,EZ,win
+131065185,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,3,1,,Field 1,blue,26,186901,POTTR,loss
+131065185,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,3,1,,Field 1,red,64,109447,EZ,win
 126083032,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,3,1,,,blue,23,150998,UCR1,loss
 126083032,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,3,1,,,red,143,109447,EZ,win
+131065177,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 1,blue,17,53537,MCEC1,loss
+131065177,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 1,red,134,109447,EZ,win
 126082980,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,3,2025-12-13T12:42:00-05:00,Main Field,blue,22,157553,RCXD1,win
 126082980,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,3,2025-12-13T12:42:00-05:00,Main Field,red,5,53537,MCEC1,loss
+131065120,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,8,2026-01-18T12:46:30-05:00,Field 2,blue,17,177312,RCXD2,win
+131065120,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,8,2026-01-18T12:46:30-05:00,Field 2,red,8,53537,MCEC1,loss
 126082991,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,14,2025-12-13T13:48:00-05:00,Main Field,blue,53,35506,MTSAC1,win
 126082991,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,14,2025-12-13T13:48:00-05:00,Main Field,red,6,53537,MCEC1,loss
+131065127,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,15,2026-01-18T13:18:00-05:00,Field 1,blue,8,53537,MCEC1,loss
+131065127,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,15,2026-01-18T13:18:00-05:00,Field 1,red,89,147253,KUDOS,win
 126083003,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,26,2025-12-13T16:00:00-05:00,Main Field,blue,42,177312,RCXD2,win
 126083003,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,26,2025-12-13T16:00:00-05:00,Main Field,red,8,53537,MCEC1,loss
 126083012,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,35,2025-12-13T16:54:00-05:00,Main Field,blue,23,53537,MCEC1,win
 126083012,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,35,2025-12-13T16:54:00-05:00,Main Field,red,8,150998,UCR1,loss
+131065148,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,36,2026-01-18T14:52:30-05:00,Field 2,blue,9,53537,MCEC1,loss
+131065148,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,36,2026-01-18T14:52:30-05:00,Field 2,red,43,177313,RCXD3,win
 126083017,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,40,2025-12-13T17:24:00-05:00,Main Field,blue,5,64172,MTSAC2,loss
 126083017,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,40,2025-12-13T17:24:00-05:00,Main Field,red,34,53537,MCEC1,win
+131065176,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,64,2026-01-18T17:57:00-05:00,Field 2,blue,90,186901,POTTR,win
+131065176,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,64,2026-01-18T17:57:00-05:00,Field 2,red,6,53537,MCEC1,loss
 126083028,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,6,1,,,blue,14,53537,MCEC1,loss
 126083028,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,6,1,,,red,19,150998,UCR1,win
 126082981,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,4,2025-12-13T12:48:00-05:00,Main Field,blue,20,35506,MTSAC1,win
 126082981,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,4,2025-12-13T12:48:00-05:00,Main Field,red,17,177313,RCXD3,loss
 126083000,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,23,2025-12-13T14:42:00-05:00,Main Field,blue,0,35506,MTSAC1,loss
 126083000,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,23,2025-12-13T14:42:00-05:00,Main Field,red,42,177312,RCXD2,win
+131065137,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,25,2026-01-18T14:03:00-05:00,Field 1,blue,15,157553,RCXD1,loss
+131065137,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,25,2026-01-18T14:03:00-05:00,Field 1,red,16,35506,MTSAC1,win
+131065146,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,34,2026-01-18T14:43:30-05:00,Field 2,blue,0,162924,MTSAC3,loss
+131065146,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,34,2026-01-18T14:43:30-05:00,Field 2,red,78,35506,MTSAC1,win
 126083024,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,47,2025-12-13T18:06:00-05:00,Main Field,blue,14,64172,MTSAC2,loss
 126083024,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,47,2025-12-13T18:06:00-05:00,Main Field,red,31,35506,MTSAC1,win
+131065162,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,50,2026-01-18T16:54:00-05:00,Field 2,blue,44,35506,MTSAC1,win
+131065162,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,50,2026-01-18T16:54:00-05:00,Field 2,red,21,177313,RCXD3,loss
+131065170,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,58,2026-01-18T17:30:00-05:00,Field 2,blue,83,162677,UCSB1,win
+131065170,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,58,2026-01-18T17:30:00-05:00,Field 2,red,12,35506,MTSAC1,loss
+131065178,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 2,blue,50,186901,POTTR,win
+131065178,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 2,red,17,35506,MTSAC1,loss
 126083029,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,6,1,,,blue,9,177313,RCXD3,loss
 126083029,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,6,1,,,red,61,35506,MTSAC1,win
 126082986,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,9,2025-12-13T13:18:00-05:00,Main Field,blue,14,150998,UCR1,win
 126082986,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,9,2025-12-13T13:18:00-05:00,Main Field,red,8,64172,MTSAC2,loss
+131065126,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,14,2026-01-18T13:13:30-05:00,Field 2,blue,5,162924,MTSAC3,loss
+131065126,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,14,2026-01-18T13:13:30-05:00,Field 2,red,34,64172,MTSAC2,win
+131065133,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,21,2026-01-18T13:45:00-05:00,Field 1,blue,39,64172,MTSAC2,loss
+131065133,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,21,2026-01-18T13:45:00-05:00,Field 1,red,54,157553,RCXD1,win
 126083006,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,29,2025-12-13T16:18:00-05:00,Main Field,blue,11,64172,MTSAC2,loss
 126083006,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,29,2025-12-13T16:18:00-05:00,Main Field,red,19,157553,RCXD1,win
+131065145,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,33,2026-01-18T14:39:00-05:00,Field 1,blue,11,64172,MTSAC2,loss
+131065145,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,33,2026-01-18T14:39:00-05:00,Field 1,red,83,147253,KUDOS,win
+131065173,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,61,2026-01-18T17:43:30-05:00,Field 1,blue,28,177312,RCXD2,loss
+131065173,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,61,2026-01-18T17:43:30-05:00,Field 1,red,50,64172,MTSAC2,win
+131065116,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,4,2026-01-18T12:28:30-05:00,Field 2,blue,49,186901,POTTR,win
+131065116,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,4,2026-01-18T12:28:30-05:00,Field 2,red,0,157553,RCXD1,loss
 126083001,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,24,2025-12-13T14:48:00-05:00,Main Field,blue,22,157553,RCXD1,win
 126083001,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,24,2025-12-13T14:48:00-05:00,Main Field,red,5,177313,RCXD3,loss
 126083013,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,36,2025-12-13T17:00:00-05:00,Main Field,blue,5,157553,RCXD1,loss
 126083013,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,36,2025-12-13T17:00:00-05:00,Main Field,red,30,177312,RCXD2,win
 126083016,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,39,2025-12-13T17:18:00-05:00,Main Field,blue,16,150998,UCR1,win
 126083016,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,39,2025-12-13T17:18:00-05:00,Main Field,red,13,157553,RCXD1,loss
+131065155,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,43,2026-01-18T16:22:30-05:00,Field 1,blue,51,157553,RCXD1,win
+131065155,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,43,2026-01-18T16:22:30-05:00,Field 1,red,18,177313,RCXD3,loss
+131065164,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,52,2026-01-18T17:03:00-05:00,Field 2,blue,3,162924,MTSAC3,loss
+131065164,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,52,2026-01-18T17:03:00-05:00,Field 2,red,64,157553,RCXD1,win
 126083026,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,6,1,,,blue,13,157553,RCXD1,win
 126083026,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,6,1,,,red,8,177312,RCXD2,loss
+131065184,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 2,blue,35,157553,RCXD1,loss
+131065184,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 2,red,48,162677,UCSB1,win
+131065125,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,13,2026-01-18T13:09:00-05:00,Field 1,blue,17,177312,RCXD2,loss
+131065125,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,13,2026-01-18T13:09:00-05:00,Field 1,red,26,177313,RCXD3,win
 126082990,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,13,2025-12-13T13:42:00-05:00,Main Field,blue,5,177312,RCXD2,loss
 126082990,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,13,2025-12-13T13:42:00-05:00,Main Field,red,26,150998,UCR1,win
+131065129,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,17,2026-01-18T13:27:00-05:00,Field 1,blue,95,162677,UCSB1,win
+131065129,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,17,2026-01-18T13:27:00-05:00,Field 1,red,9,177312,RCXD2,loss
+131065168,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,56,2026-01-18T17:21:00-05:00,Field 2,blue,25,186901,POTTR,win
+131065168,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,56,2026-01-18T17:21:00-05:00,Field 2,red,22,177312,RCXD2,loss
+131065183,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 1,blue,3,177312,RCXD2,loss
+131065183,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,6,1,,Field 1,red,83,147253,KUDOS,win
+131065139,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,27,2026-01-18T14:12:00-05:00,Field 1,blue,29,177313,RCXD3,win
+131065139,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,27,2026-01-18T14:12:00-05:00,Field 1,red,5,162924,MTSAC3,loss
 126083021,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,44,2025-12-13T17:48:00-05:00,Main Field,blue,19,177313,RCXD3,loss
 126083021,61140,2025 Push Back at Mt. SAC: VEX U Robotics Competition,Division 1,2,44,2025-12-13T17:48:00-05:00,Main Field,red,20,150998,UCR1,win
 125975526,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,4,2025-12-13T11:12:00-05:00,Polymaker,blue,89,133888,BLRS2,win
@@ -995,28 +1225,28 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 125975587,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,5,1,,Prismier,red,43,133888,BLRS2,win
 125975588,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,5,2,,Prismier,blue,41,147253,KUDOS,loss
 125975588,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,5,2,,Prismier,red,57,133888,BLRS2,win
-128836591,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,1,2026-01-10T10:00:00-05:00,MCCC,blue,5,189935,BYTE1,loss
-128836591,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,1,2026-01-10T10:00:00-05:00,MCCC,red,32,169647,BUCKS,win
-128836595,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,5,2026-01-10T10:20:00-05:00,MCCC,blue,69,169647,BUCKS,win
-128836595,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,5,2026-01-10T10:20:00-05:00,MCCC,red,54,144133,ARC,loss
+129032554,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,1,2026-01-10T10:00:00-05:00,MCCC,blue,5,189935,BYTE1,loss
+129032554,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,1,2026-01-10T10:00:00-05:00,MCCC,red,32,169647,BUCKS,win
+129032558,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,5,2026-01-10T10:20:00-05:00,MCCC,blue,69,169647,BUCKS,win
+129032558,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,5,2026-01-10T10:20:00-05:00,MCCC,red,54,144133,ARC,loss
 125975528,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,6,2025-12-13T11:20:00-05:00,Polymaker,blue,23,169647,BUCKS,loss
 125975528,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,6,2025-12-13T11:20:00-05:00,Polymaker,red,37,161225,PLATT2,win
-128836599,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,9,2026-01-10T10:40:00-05:00,MCCC,blue,11,169647,BUCKS,loss
-128836599,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,9,2026-01-10T10:40:00-05:00,MCCC,red,82,170470,DKFNX,win
-128836602,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,12,2026-01-10T10:55:00-05:00,MCCC,blue,19,174550,ARC3,loss
-128836602,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,12,2026-01-10T10:55:00-05:00,MCCC,red,78,169647,BUCKS,win
+129032562,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,9,2026-01-10T10:40:00-05:00,MCCC,blue,11,169647,BUCKS,loss
+129032562,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,9,2026-01-10T10:40:00-05:00,MCCC,red,82,170470,DKFNX,win
+129032565,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,12,2026-01-10T10:55:00-05:00,MCCC,blue,19,174550,ARC3,loss
+129032565,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,12,2026-01-10T10:55:00-05:00,MCCC,red,78,169647,BUCKS,win
 125975535,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,13,2025-12-13T11:48:00-05:00,Prismier,blue,96,147253,KUDOS,win
 125975535,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,13,2025-12-13T11:48:00-05:00,Prismier,red,23,169647,BUCKS,loss
-128836605,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,15,2026-01-10T11:10:00-05:00,MCCC,blue,42,169647,BUCKS,loss
-128836605,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,15,2026-01-10T11:10:00-05:00,MCCC,red,60,144133,ARC,win
-128836608,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,18,2026-01-10T11:25:00-05:00,MCCC,blue,91,170470,DKFNX,win
-128836608,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,18,2026-01-10T11:25:00-05:00,MCCC,red,14,169647,BUCKS,loss
+129032568,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,15,2026-01-10T11:10:00-05:00,MCCC,blue,42,169647,BUCKS,loss
+129032568,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,15,2026-01-10T11:10:00-05:00,MCCC,red,60,144133,ARC,win
+129032571,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,18,2026-01-10T11:25:00-05:00,MCCC,blue,91,170470,DKFNX,win
+129032571,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,18,2026-01-10T11:25:00-05:00,MCCC,red,14,169647,BUCKS,loss
 125975542,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,20,2025-12-13T12:16:00-05:00,Polymaker,blue,47,169647,BUCKS,loss
 125975542,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,20,2025-12-13T12:16:00-05:00,Polymaker,red,73,161622,MSOE,win
-128836611,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,21,2026-01-10T11:40:00-05:00,MCCC,blue,51,169647,BUCKS,loss
-128836611,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,21,2026-01-10T11:40:00-05:00,MCCC,red,56,112815,HAIL,win
-128836614,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,24,2026-01-10T11:55:00-05:00,MCCC,blue,8,189935,BYTE1,loss
-128836614,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,24,2026-01-10T11:55:00-05:00,MCCC,red,67,169647,BUCKS,win
+129032574,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,21,2026-01-10T11:40:00-05:00,MCCC,blue,51,169647,BUCKS,loss
+129032574,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,21,2026-01-10T11:40:00-05:00,MCCC,red,56,112815,HAIL,win
+129032577,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,24,2026-01-10T11:55:00-05:00,MCCC,blue,8,189935,BYTE1,loss
+129032577,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,24,2026-01-10T11:55:00-05:00,MCCC,red,67,169647,BUCKS,win
 125975552,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,30,2025-12-13T12:56:00-05:00,Polymaker,blue,18,169647,BUCKS,loss
 125975552,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,30,2025-12-13T12:56:00-05:00,Polymaker,red,58,179226,LOUIE,win
 125975556,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,34,2025-12-13T14:12:00-05:00,Polymaker,blue,51,186940,ZIPS,loss
@@ -1025,28 +1255,68 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 125975569,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,47,2025-12-13T15:04:00-05:00,Prismier,red,6,169647,BUCKS,loss
 125975583,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,3,1,,Prismier,blue,24,169647,BUCKS,loss
 125975583,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,3,1,,Prismier,red,49,179226,LOUIE,win
+129032579,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,3,1,,MCCC,blue,0,189935,BYTE1,loss
+129032579,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,3,1,,MCCC,red,99,169647,BUCKS,win
+129032581,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,4,1,,MCCC,blue,83,169647,BUCKS,win
+129032581,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,4,1,,MCCC,red,27,112815,HAIL,loss
+129032582,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,5,1,,MCCC,blue,11,169647,BUCKS,loss
+129032582,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,5,1,,MCCC,red,82,170470,DKFNX,win
+129032583,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,5,2,,MCCC,blue,3,169647,BUCKS,loss
+129032583,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,5,2,,MCCC,red,104,170470,DKFNX,win
 125975523,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,1,2025-12-13T11:00:00-05:00,Prismier,blue,28,147253,KUDOS,loss
 125975523,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,1,2025-12-13T11:00:00-05:00,Prismier,red,84,179226,LOUIE,win
 125975529,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,7,2025-12-13T11:24:00-05:00,Prismier,blue,80,161622,MSOE,win
 125975529,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,7,2025-12-13T11:24:00-05:00,Prismier,red,71,147253,KUDOS,loss
+131065138,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,26,2026-01-18T14:07:30-05:00,Field 2,blue,79,147253,KUDOS,win
+131065138,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,26,2026-01-18T14:07:30-05:00,Field 2,red,16,162677,UCSB1,loss
 125975558,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,36,2025-12-13T14:20:00-05:00,Polymaker,blue,6,178837,PLATT3,loss
 125975558,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,36,2025-12-13T14:20:00-05:00,Polymaker,red,82,147253,KUDOS,win
+131065153,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,41,2026-01-18T16:13:30-05:00,Field 1,blue,89,147253,KUDOS,win
+131065153,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,41,2026-01-18T16:13:30-05:00,Field 1,red,0,162924,MTSAC3,loss
 125975563,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,41,2025-12-13T14:40:00-05:00,Prismier,blue,101,147253,KUDOS,win
 125975563,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,41,2025-12-13T14:40:00-05:00,Prismier,red,55,186940,ZIPS,loss
 125975566,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,44,2025-12-13T14:52:00-05:00,Polymaker,blue,76,147253,KUDOS,win
 125975566,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,44,2025-12-13T14:52:00-05:00,Polymaker,red,37,161225,PLATT2,loss
 125975572,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,50,2025-12-13T15:16:00-05:00,Polymaker,blue,63,147253,KUDOS,win
 125975572,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,50,2025-12-13T15:16:00-05:00,Polymaker,red,25,161224,PLATT1,loss
+131065188,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,3,1,,Field 2,blue,3,162677,UCSB1,loss
+131065188,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,3,1,,Field 2,red,38,147253,KUDOS,win
 125975586,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,4,1,,Polymaker,blue,56,147253,KUDOS,win
 125975586,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,4,1,,Polymaker,red,34,179226,LOUIE,loss
+129450059,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,1,2026-01-11T11:00:00-05:00,Autodesk Fusion,blue,3,153245,ARC2,loss
+129450059,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,1,2026-01-11T11:00:00-05:00,Autodesk Fusion,red,146,179226,LOUIE,win
+129450063,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,5,2026-01-11T11:20:00-05:00,Autodesk Fusion,blue,42,179226,LOUIE,loss
+129450063,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,5,2026-01-11T11:20:00-05:00,Autodesk Fusion,red,61,144133,ARC,win
+129450067,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,9,2026-01-11T11:40:00-05:00,Autodesk Fusion,blue,50,179226,LOUIE,win
+129450067,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,9,2026-01-11T11:40:00-05:00,Autodesk Fusion,red,12,116384,HERD,loss
+129450072,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,14,2026-01-11T13:05:00-05:00,Autodesk Fusion,blue,21,153245,ARC2,loss
+129450072,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,14,2026-01-11T13:05:00-05:00,Autodesk Fusion,red,66,179226,LOUIE,win
 125975536,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,14,2025-12-13T11:52:00-05:00,Polymaker,blue,70,179226,LOUIE,win
 125975536,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,14,2025-12-13T11:52:00-05:00,Polymaker,red,25,161225,PLATT2,loss
+129450076,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,18,2026-01-11T13:25:00-05:00,Autodesk Fusion,blue,35,144133,ARC,loss
+129450076,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,18,2026-01-11T13:25:00-05:00,Autodesk Fusion,red,79,179226,LOUIE,win
+129450078,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,20,2026-01-11T13:35:00-05:00,Autodesk Fusion,blue,91,179226,LOUIE,win
+129450078,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,20,2026-01-11T13:35:00-05:00,Autodesk Fusion,red,11,174550,ARC3,loss
 125975544,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,22,2025-12-13T12:24:00-05:00,Polymaker,blue,112,179226,LOUIE,win
 125975544,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,22,2025-12-13T12:24:00-05:00,Polymaker,red,12,178837,PLATT3,loss
+129450083,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,25,2026-01-11T14:00:00-05:00,Autodesk Fusion,blue,12,167735,ROSE,loss
+129450083,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,25,2026-01-11T14:00:00-05:00,Autodesk Fusion,red,39,179226,LOUIE,win
+129450085,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,27,2026-01-11T14:10:00-05:00,Autodesk Fusion,blue,128,179226,LOUIE,win
+129450085,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,27,2026-01-11T14:10:00-05:00,Autodesk Fusion,red,11,126449,PPA,loss
 125975557,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,35,2025-12-13T14:16:00-05:00,Prismier,blue,53,179226,LOUIE,win
 125975557,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,35,2025-12-13T14:16:00-05:00,Prismier,red,0,161622,MSOE,loss
 125975574,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,52,2025-12-13T15:24:00-05:00,Polymaker,blue,21,186940,ZIPS,loss
 125975574,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,52,2025-12-13T15:24:00-05:00,Polymaker,red,94,179226,LOUIE,win
+129450088,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,3,1,,Autodesk Fusion,blue,13,153245,ARC2,loss
+129450088,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,3,1,,Autodesk Fusion,red,68,179226,LOUIE,win
+129450091,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,4,1,,Autodesk Fusion,blue,21,116384,HERD,loss
+129450091,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,4,1,,Autodesk Fusion,red,91,179226,LOUIE,win
+129450092,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,5,1,,Autodesk Fusion,blue,57,179226,LOUIE,win
+129450092,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,5,1,,Autodesk Fusion,red,36,144133,ARC,loss
+129450093,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,5,2,,Autodesk Fusion,blue,42,179226,LOUIE,loss
+129450093,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,5,2,,Autodesk Fusion,red,59,144133,ARC,win
+129450094,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,5,3,,Autodesk Fusion,blue,36,179226,LOUIE,win
+129450094,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,5,3,,Autodesk Fusion,red,0,144133,ARC,loss
 125975525,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,3,2025-12-13T11:08:00-05:00,Prismier,blue,123,161622,MSOE,win
 125975525,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,3,2025-12-13T11:08:00-05:00,Prismier,red,83,186940,ZIPS,loss
 125975539,62157,"Illini VURC Cornfield Clash 1; Champaign, IL: Vex University Robotics Competition - Fall Event",Division 1,2,17,2025-12-13T12:04:00-05:00,Prismier,blue,17,178837,PLATT3,loss
@@ -1243,24 +1513,24 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 127046687,60707,VEX Asia Open Signature Event VEX U: College,Division 1,2,79,2025-12-20T01:45:00-05:00,U,red,80,193254,CUMAE,win
 127046714,60707,VEX Asia Open Signature Event VEX U: College,Division 1,6,1,,U2,blue,88,98389,SJTU1,win
 127046714,60707,VEX Asia Open Signature Event VEX U: College,Division 1,6,1,,U2,red,39,193254,CUMAE,loss
-128836593,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,3,2026-01-10T10:10:00-05:00,MCCC,blue,9,174550,ARC3,loss
-128836593,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,3,2026-01-10T10:10:00-05:00,MCCC,red,69,112815,HAIL,win
-128836594,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,4,2026-01-10T10:15:00-05:00,MCCC,blue,98,112815,HAIL,win
-128836594,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,4,2026-01-10T10:15:00-05:00,MCCC,red,0,189935,BYTE1,loss
+129032556,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,3,2026-01-10T10:10:00-05:00,MCCC,blue,9,174550,ARC3,loss
+129032556,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,3,2026-01-10T10:10:00-05:00,MCCC,red,69,112815,HAIL,win
+129032557,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,4,2026-01-10T10:15:00-05:00,MCCC,blue,98,112815,HAIL,win
+129032557,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,4,2026-01-10T10:15:00-05:00,MCCC,red,0,189935,BYTE1,loss
 127046615,60707,VEX Asia Open Signature Event VEX U: College,Division 1,2,7,2025-12-19T00:45:00-05:00,U,blue,33,163678,SCRT1,loss
 127046615,60707,VEX Asia Open Signature Event VEX U: College,Division 1,2,7,2025-12-19T00:45:00-05:00,U,red,77,112815,HAIL,win
-128836597,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,7,2026-01-10T10:30:00-05:00,MCCC,blue,13,189935,BYTE1,loss
-128836597,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,7,2026-01-10T10:30:00-05:00,MCCC,red,106,112815,HAIL,win
-128836600,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,10,2026-01-10T10:45:00-05:00,MCCC,blue,28,112815,HAIL,loss
-128836600,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,10,2026-01-10T10:45:00-05:00,MCCC,red,97,170470,DKFNX,win
-128836603,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,13,2026-01-10T11:00:00-05:00,MCCC,blue,103,112815,HAIL,win
-128836603,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,13,2026-01-10T11:00:00-05:00,MCCC,red,17,174550,ARC3,loss
-128836607,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,17,2026-01-10T11:20:00-05:00,MCCC,blue,62,144133,ARC,loss
-128836607,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,17,2026-01-10T11:20:00-05:00,MCCC,red,83,112815,HAIL,win
+129032560,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,7,2026-01-10T10:30:00-05:00,MCCC,blue,13,189935,BYTE1,loss
+129032560,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,7,2026-01-10T10:30:00-05:00,MCCC,red,106,112815,HAIL,win
+129032563,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,10,2026-01-10T10:45:00-05:00,MCCC,blue,28,112815,HAIL,loss
+129032563,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,10,2026-01-10T10:45:00-05:00,MCCC,red,97,170470,DKFNX,win
+129032566,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,13,2026-01-10T11:00:00-05:00,MCCC,blue,103,112815,HAIL,win
+129032566,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,13,2026-01-10T11:00:00-05:00,MCCC,red,17,174550,ARC3,loss
+129032570,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,17,2026-01-10T11:20:00-05:00,MCCC,blue,62,144133,ARC,loss
+129032570,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,17,2026-01-10T11:20:00-05:00,MCCC,red,83,112815,HAIL,win
 127046629,60707,VEX Asia Open Signature Event VEX U: College,Division 1,2,21,2025-12-19T02:30:00-05:00,U,blue,17,174403,UQU1,loss
 127046629,60707,VEX Asia Open Signature Event VEX U: College,Division 1,2,21,2025-12-19T02:30:00-05:00,U,red,69,112815,HAIL,win
-128836613,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,23,2026-01-10T11:50:00-05:00,MCCC,blue,65,112815,HAIL,win
-128836613,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,23,2026-01-10T11:50:00-05:00,MCCC,red,50,144133,ARC,loss
+129032576,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,23,2026-01-10T11:50:00-05:00,MCCC,blue,65,112815,HAIL,win
+129032576,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,23,2026-01-10T11:50:00-05:00,MCCC,red,50,144133,ARC,loss
 127046676,60707,VEX Asia Open Signature Event VEX U: College,Division 1,2,68,2025-12-20T00:22:30-05:00,U2,blue,65,98505,SJTU2,win
 127046676,60707,VEX Asia Open Signature Event VEX U: College,Division 1,2,68,2025-12-20T00:22:30-05:00,U2,red,18,112815,HAIL,loss
 127046702,60707,VEX Asia Open Signature Event VEX U: College,Division 1,2,94,2025-12-20T03:37:30-05:00,U2,blue,62,112815,HAIL,win
@@ -1407,21 +1677,127 @@ match_id,event_id,event_name,division,round,match_number,scheduled,field,allianc
 128126858,63546,2025-2026 VEX Robotics Competition Asia Open Finals (VEX_U),Division 1,2,34,2026-01-02T02:24:00-05:00,U,red,25,181681,HITSZ7,loss
 128126843,63546,2025-2026 VEX Robotics Competition Asia Open Finals (VEX_U),Division 1,2,19,2026-01-01T21:00:00-05:00,U,blue,89,181785,SMP1,win
 128126843,63546,2025-2026 VEX Robotics Competition Asia Open Finals (VEX_U),Division 1,2,19,2026-01-01T21:00:00-05:00,U,red,12,181681,HITSZ7,loss
-128836592,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,2,2026-01-10T10:05:00-05:00,MCCC,blue,20,144133,ARC,loss
-128836592,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,2,2026-01-10T10:05:00-05:00,MCCC,red,96,170470,DKFNX,win
-128836598,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,8,2026-01-10T10:35:00-05:00,MCCC,blue,86,144133,ARC,win
-128836598,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,8,2026-01-10T10:35:00-05:00,MCCC,red,29,174550,ARC3,loss
-128836601,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,11,2026-01-10T10:50:00-05:00,MCCC,blue,118,144133,ARC,win
-128836601,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,11,2026-01-10T10:50:00-05:00,MCCC,red,21,189935,BYTE1,loss
-128836609,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,19,2026-01-10T11:30:00-05:00,MCCC,blue,92,170470,DKFNX,win
-128836609,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,19,2026-01-10T11:30:00-05:00,MCCC,red,27,144133,ARC,loss
-128836596,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,6,2026-01-10T10:25:00-05:00,MCCC,blue,146,170470,DKFNX,win
-128836596,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,6,2026-01-10T10:25:00-05:00,MCCC,red,8,174550,ARC3,loss
-128836606,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,16,2026-01-10T11:15:00-05:00,MCCC,blue,5,174550,ARC3,tie
-128836606,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,16,2026-01-10T11:15:00-05:00,MCCC,red,5,189935,BYTE1,tie
-128836610,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,20,2026-01-10T11:35:00-05:00,MCCC,blue,13,189935,BYTE1,loss
-128836610,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,20,2026-01-10T11:35:00-05:00,MCCC,red,22,174550,ARC3,win
-128836612,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,22,2026-01-10T11:45:00-05:00,MCCC,blue,0,174550,ARC3,loss
-128836612,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,22,2026-01-10T11:45:00-05:00,MCCC,red,143,170470,DKFNX,win
-128836604,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,14,2026-01-10T11:05:00-05:00,MCCC,blue,197,170470,DKFNX,win
-128836604,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,14,2026-01-10T11:05:00-05:00,MCCC,red,0,189935,BYTE1,loss
+129032555,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,2,2026-01-10T10:05:00-05:00,MCCC,blue,20,144133,ARC,loss
+129032555,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,2,2026-01-10T10:05:00-05:00,MCCC,red,96,170470,DKFNX,win
+129450061,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,3,2026-01-11T11:10:00-05:00,Autodesk Fusion,blue,45,167735,ROSE,loss
+129450061,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,3,2026-01-11T11:10:00-05:00,Autodesk Fusion,red,77,144133,ARC,win
+129032561,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,8,2026-01-10T10:35:00-05:00,MCCC,blue,86,144133,ARC,win
+129032561,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,8,2026-01-10T10:35:00-05:00,MCCC,red,29,174550,ARC3,loss
+129450068,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,10,2026-01-11T11:45:00-05:00,Autodesk Fusion,blue,155,144133,ARC,win
+129450068,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,10,2026-01-11T11:45:00-05:00,Autodesk Fusion,red,17,126449,PPA,loss
+129032564,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,11,2026-01-10T10:50:00-05:00,MCCC,blue,118,144133,ARC,win
+129032564,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,11,2026-01-10T10:50:00-05:00,MCCC,red,21,189935,BYTE1,loss
+129450071,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,13,2026-01-11T13:00:00-05:00,Autodesk Fusion,blue,11,116384,HERD,loss
+129450071,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,13,2026-01-11T13:00:00-05:00,Autodesk Fusion,red,51,144133,ARC,win
+129450073,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,15,2026-01-11T13:10:00-05:00,Autodesk Fusion,blue,78,144133,ARC,win
+129450073,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,15,2026-01-11T13:10:00-05:00,Autodesk Fusion,red,23,174550,ARC3,loss
+129032572,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,19,2026-01-10T11:30:00-05:00,MCCC,blue,92,170470,DKFNX,win
+129032572,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,19,2026-01-10T11:30:00-05:00,MCCC,red,27,144133,ARC,loss
+129450081,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,23,2026-01-11T13:50:00-05:00,Autodesk Fusion,blue,81,144133,ARC,win
+129450081,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,23,2026-01-11T13:50:00-05:00,Autodesk Fusion,red,9,153245,ARC2,loss
+129450084,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,26,2026-01-11T14:05:00-05:00,Autodesk Fusion,blue,30,174550,ARC3,loss
+129450084,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,26,2026-01-11T14:05:00-05:00,Autodesk Fusion,red,105,144133,ARC,win
+129032578,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,3,1,,MCCC,blue,19,174550,ARC3,loss
+129032578,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,3,1,,MCCC,red,79,144133,ARC,win
+129032580,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,4,1,,MCCC,blue,59,144133,ARC,loss
+129032580,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,4,1,,MCCC,red,67,170470,DKFNX,win
+129450090,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,4,1,,Autodesk Fusion,blue,52,167735,ROSE,loss
+129450090,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,4,1,,Autodesk Fusion,red,65,144133,ARC,win
+129450064,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,6,2026-01-11T11:25:00-05:00,Autodesk Fusion,blue,5,153245,ARC2,loss
+129450064,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,6,2026-01-11T11:25:00-05:00,Autodesk Fusion,red,76,167735,ROSE,win
+129450069,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,11,2026-01-11T11:50:00-05:00,Autodesk Fusion,blue,19,174550,ARC3,win
+129450069,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,11,2026-01-11T11:50:00-05:00,Autodesk Fusion,red,14,153245,ARC2,loss
+129450075,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,17,2026-01-11T13:20:00-05:00,Autodesk Fusion,blue,65,116384,HERD,win
+129450075,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,17,2026-01-11T13:20:00-05:00,Autodesk Fusion,red,17,153245,ARC2,loss
+129450079,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,21,2026-01-11T13:40:00-05:00,Autodesk Fusion,blue,34,126449,PPA,win
+129450079,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,21,2026-01-11T13:40:00-05:00,Autodesk Fusion,red,17,153245,ARC2,loss
+129450086,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,28,2026-01-11T14:15:00-05:00,Autodesk Fusion,blue,25,153245,ARC2,loss
+129450086,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,28,2026-01-11T14:15:00-05:00,Autodesk Fusion,red,34,116384,HERD,win
+129450060,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,2,2026-01-11T11:05:00-05:00,Autodesk Fusion,blue,59,116384,HERD,win
+129450060,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,2,2026-01-11T11:05:00-05:00,Autodesk Fusion,red,0,174550,ARC3,loss
+129450062,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,4,2026-01-11T11:15:00-05:00,Autodesk Fusion,blue,10,174550,ARC3,loss
+129450062,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,4,2026-01-11T11:15:00-05:00,Autodesk Fusion,red,22,126449,PPA,win
+129032559,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,6,2026-01-10T10:25:00-05:00,MCCC,blue,146,170470,DKFNX,win
+129032559,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,6,2026-01-10T10:25:00-05:00,MCCC,red,8,174550,ARC3,loss
+129450066,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,8,2026-01-11T11:35:00-05:00,Autodesk Fusion,blue,102,167735,ROSE,win
+129450066,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,8,2026-01-11T11:35:00-05:00,Autodesk Fusion,red,19,174550,ARC3,loss
+129032569,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,16,2026-01-10T11:15:00-05:00,MCCC,blue,5,174550,ARC3,tie
+129032569,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,16,2026-01-10T11:15:00-05:00,MCCC,red,5,189935,BYTE1,tie
+129032573,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,20,2026-01-10T11:35:00-05:00,MCCC,blue,13,189935,BYTE1,loss
+129032573,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,20,2026-01-10T11:35:00-05:00,MCCC,red,22,174550,ARC3,win
+129032575,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,22,2026-01-10T11:45:00-05:00,MCCC,blue,0,174550,ARC3,loss
+129032575,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,22,2026-01-10T11:45:00-05:00,MCCC,red,143,170470,DKFNX,win
+129450080,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,22,2026-01-11T13:45:00-05:00,Autodesk Fusion,blue,11,174550,ARC3,loss
+129450080,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,22,2026-01-11T13:45:00-05:00,Autodesk Fusion,red,53,167735,ROSE,win
+129450089,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,3,1,,Autodesk Fusion,blue,11,174550,ARC3,loss
+129450089,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,3,1,,Autodesk Fusion,red,69,116384,HERD,win
+129032567,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,14,2026-01-10T11:05:00-05:00,MCCC,blue,197,170470,DKFNX,win
+129032567,61673,MCCC VEX-U Push Back Annual Tournament: VEX-U qualifier,Division 1,2,14,2026-01-10T11:05:00-05:00,MCCC,red,0,189935,BYTE1,loss
+129450065,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,7,2026-01-11T11:30:00-05:00,Autodesk Fusion,blue,28,126449,PPA,loss
+129450065,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,7,2026-01-11T11:30:00-05:00,Autodesk Fusion,red,67,116384,HERD,win
+129450077,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,19,2026-01-11T13:30:00-05:00,Autodesk Fusion,blue,17,167735,ROSE,loss
+129450077,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,19,2026-01-11T13:30:00-05:00,Autodesk Fusion,red,76,116384,HERD,win
+129450082,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,24,2026-01-11T13:55:00-05:00,Autodesk Fusion,blue,87,116384,HERD,win
+129450082,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,24,2026-01-11T13:55:00-05:00,Autodesk Fusion,red,17,126449,PPA,loss
+129450070,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,12,2026-01-11T11:55:00-05:00,Autodesk Fusion,blue,8,126449,PPA,loss
+129450070,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,12,2026-01-11T11:55:00-05:00,Autodesk Fusion,red,80,167735,ROSE,win
+129450074,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,16,2026-01-11T13:15:00-05:00,Autodesk Fusion,blue,16,126449,PPA,loss
+129450074,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,2,16,2026-01-11T13:15:00-05:00,Autodesk Fusion,red,35,167735,ROSE,win
+129450087,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,3,1,,Autodesk Fusion,blue,27,126449,PPA,loss
+129450087,63041,Redbird Robotics VEX U - Push Back: Hosted @ University of Louisiville,Division 1,3,1,,Autodesk Fusion,red,69,167735,ROSE,win
+129508515,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,1,2,2026-01-14T10:22:00-05:00,PRRC - VURC,blue,11,58481,UPRM,loss
+129508515,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,1,2,2026-01-14T10:22:00-05:00,PRRC - VURC,red,36,157830,IABC1,win
+129508516,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,1,2026-01-14T11:30:00-05:00,PRRC - VURC,blue,11,157830,IABC1,loss
+129508516,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,1,2026-01-14T11:30:00-05:00,PRRC - VURC,red,36,193510,MCE,win
+129508518,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,3,2026-01-14T11:56:00-05:00,PRRC - VURC,blue,33,58481,UPRM,win
+129508518,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,3,2026-01-14T11:56:00-05:00,PRRC - VURC,red,18,157830,IABC1,loss
+129508521,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,6,2026-01-14T12:35:00-05:00,PRRC - VURC,blue,38,193510,MCE,win
+129508521,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,6,2026-01-14T12:35:00-05:00,PRRC - VURC,red,6,157830,IABC1,loss
+129508522,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,7,2026-01-14T12:48:00-05:00,PRRC - VURC,blue,16,157830,IABC1,loss
+129508522,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,7,2026-01-14T12:48:00-05:00,PRRC - VURC,red,87,58481,UPRM,win
+129508524,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,9,2026-01-14T13:14:00-05:00,PRRC - VURC,blue,51,58481,UPRM,win
+129508524,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,9,2026-01-14T13:14:00-05:00,PRRC - VURC,red,17,157830,IABC1,loss
+129508527,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,12,2026-01-14T13:53:00-05:00,PRRC - VURC,blue,14,157830,IABC1,loss
+129508527,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,12,2026-01-14T13:53:00-05:00,PRRC - VURC,red,53,193510,MCE,win
+129508528,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,13,2026-01-14T14:06:00-05:00,PRRC - VURC,blue,0,157830,IABC1,loss
+129508528,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,13,2026-01-14T14:06:00-05:00,PRRC - VURC,red,59,194547,POLI,win
+129508530,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,15,2026-01-14T14:32:00-05:00,PRRC - VURC,blue,48,194547,POLI,win
+129508530,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,15,2026-01-14T14:32:00-05:00,PRRC - VURC,red,11,157830,IABC1,loss
+129508532,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,4,1,,,blue,47,157830,IABC1,loss
+129508532,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,4,1,,,red,64,58481,UPRM,win
+129508514,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,1,1,2026-01-14T10:10:00-05:00,PRRC - VURC,blue,42,194547,POLI,win
+129508514,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,1,1,2026-01-14T10:10:00-05:00,PRRC - VURC,red,37,193510,MCE,loss
+129508519,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,4,2026-01-14T12:09:00-05:00,PRRC - VURC,blue,21,193510,MCE,win
+129508519,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,4,2026-01-14T12:09:00-05:00,PRRC - VURC,red,0,194547,POLI,loss
+129508523,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,8,2026-01-14T13:01:00-05:00,PRRC - VURC,blue,18,193510,MCE,loss
+129508523,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,8,2026-01-14T13:01:00-05:00,PRRC - VURC,red,35,194547,POLI,win
+129508525,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,10,2026-01-14T13:27:00-05:00,PRRC - VURC,blue,26,194547,POLI,win
+129508525,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,10,2026-01-14T13:27:00-05:00,PRRC - VURC,red,13,193510,MCE,loss
+129508529,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,14,2026-01-14T14:19:00-05:00,PRRC - VURC,blue,56,193510,MCE,win
+129508529,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,14,2026-01-14T14:19:00-05:00,PRRC - VURC,red,52,58481,UPRM,loss
+129508531,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,16,2026-01-14T14:45:00-05:00,PRRC - VURC,blue,59,58481,UPRM,win
+129508531,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,16,2026-01-14T14:45:00-05:00,PRRC - VURC,red,37,193510,MCE,loss
+129508533,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,4,1,,,blue,42,194547,POLI,win
+129508533,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,4,1,,,red,18,193510,MCE,loss
+129508517,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,2,2026-01-14T11:43:00-05:00,PRRC - VURC,blue,15,194547,POLI,loss
+129508517,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,2,2026-01-14T11:43:00-05:00,PRRC - VURC,red,42,58481,UPRM,win
+129508520,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,5,2026-01-14T12:22:00-05:00,PRRC - VURC,blue,27,194547,POLI,loss
+129508520,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,5,2026-01-14T12:22:00-05:00,PRRC - VURC,red,44,58481,UPRM,win
+129508526,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,11,2026-01-14T13:40:00-05:00,PRRC - VURC,blue,82,58481,UPRM,win
+129508526,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,2,11,2026-01-14T13:40:00-05:00,PRRC - VURC,red,44,194547,POLI,loss
+129508534,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,5,1,,,blue,15,194547,POLI,loss
+129508534,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,5,1,,,red,54,58481,UPRM,win
+129508535,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,5,2,,,blue,25,194547,POLI,loss
+129508535,63714,PRRC - VURC: Puerto Rico Robotics Championship - VEX U,Division 1,5,2,,,red,58,58481,UPRM,win
+130806268,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,1,2026-01-17T11:45:00-05:00,AG PHD,blue,27,99253,BISON1,loss
+130806268,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,1,2026-01-17T11:45:00-05:00,AG PHD,red,63,75787,MINES,win
+130806301,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,34,2026-01-17T16:43:15-05:00,AG PHD,blue,0,63958,UMN,tie
+130806301,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,34,2026-01-17T16:43:15-05:00,AG PHD,red,0,99253,BISON1,tie
+130806283,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,16,2026-01-17T14:23:45-05:00,AG PHD,blue,23,75787,MINES,loss
+130806283,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,16,2026-01-17T14:23:45-05:00,AG PHD,red,82,63958,UMN,win
+130806292,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,25,2026-01-17T15:33:30-05:00,AG PHD,blue,76,63958,UMN,win
+130806292,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,2,25,2026-01-17T15:33:30-05:00,AG PHD,red,33,75787,MINES,loss
+130806306,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,3,1,,AG PHD,blue,42,75787,MINES,loss
+130806306,63063,JACKS Carrot Cup VEXU Push Back Qualifier: VEX U Robotics Competition,Division 1,3,1,,AG PHD,red,118,63958,UMN,win
+131065135,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,23,2026-01-18T13:54:00-05:00,Field 1,blue,13,162924,MTSAC3,loss
+131065135,60016,Gear Slingers Open 2026: VEX U Tournament,Division 1,2,23,2026-01-18T13:54:00-05:00,Field 1,red,75,186901,POTTR,win

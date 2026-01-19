@@ -96,7 +96,9 @@ async def on_message(message: discord.Message):
 
             elo = get_elo(mlog).sort_values(by="elo", ascending=False)
 
-            sos = get_str_schedule(mlog).sort_values(by="strength_of_schedule")
+            sos = get_str_schedule(mlog).sort_values(
+                by="strength_of_schedule", ascending=False
+            )
 
             await message.channel.send(
                 f"""__**Current {code} {start}-{end} data for {teamname}**__
@@ -112,7 +114,9 @@ Programming: `{programming_df.loc[teamname, "score"]}`,  rank: `{programming_df.
             )
         except KeyError as e:
             print(e)
-            await message.channel.send(f"{teamname} appears not to have played a match yet...")
+            await message.channel.send(
+                f"{teamname} appears not to have played a match yet..."
+            )
     if cx.startswith("$github"):
         await message.channel.send("")
 
